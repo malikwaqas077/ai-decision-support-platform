@@ -1,0 +1,6312 @@
+[
+ {
+  "ticket_id": 5001,
+  "client": 2,
+  "priority": "P3",
+  "category": "Hardware",
+  "summary": "Hardware issue reported by contact2@brunel2.example.co.uk",
+  "opened_at": "2026-04-02T15:00:00",
+  "resolved_at": "2026-04-03T08:51:00",
+  "csat": null
+ },
+ {
+  "ticket_id": 5002,
+  "client": 2,
+  "priority": "P2",
+  "category": "Security",
+  "summary": "Security issue reported by contact2@brunel2.example.co.uk",
+  "opened_at": "2026-08-13T18:00:00",
+  "resolved_at": "2026-08-13T22:54:27",
+  "csat": 3
+ },
+ {
+  "ticket_id": 5003,
+  "client": 2,
+  "priority": "P2",
+  "category": "Billing query",
+  "summary": "Billing query issue reported by contact2@brunel2.example.co.uk",
+  "opened_at": "2026-09-28T12:00:00",
+  "resolved_at": "2026-09-28T16:02:39",
+  "csat": 5
+ },
+ {
+  "ticket_id": 5004,
+  "client": 3,
+  "priority": "P3",
+  "category": "Billing query",
+  "summary": "Billing query issue reported by contact3@brunel3.example.co.uk",
+  "opened_at": "2026-05-28T15:00:00",
+  "resolved_at": "2026-05-29T00:45:31",
+  "csat": 4
+ },
+ {
+  "ticket_id": 5005,
+  "client": 3,
+  "priority": "P2",
+  "category": "Billing query",
+  "summary": "Billing query issue reported by contact3@brunel3.example.co.uk",
+  "opened_at": "2026-09-07T20:00:00",
+  "resolved_at": "2026-09-08T02:20:54",
+  "csat": 3
+ },
+ {
+  "ticket_id": 5006,
+  "client": 3,
+  "priority": "P2",
+  "category": "Security",
+  "summary": "Security issue reported by contact3@brunel3.example.co.uk",
+  "opened_at": "2026-05-29T04:00:00",
+  "resolved_at": "2026-05-29T10:31:34",
+  "csat": null
+ },
+ {
+  "ticket_id": 5007,
+  "client": 3,
+  "priority": "P2",
+  "category": "VoIP",
+  "summary": "VoIP issue reported by contact3@brunel3.example.co.uk",
+  "opened_at": "2026-07-14T10:00:00",
+  "resolved_at": "2026-07-14T11:35:30",
+  "csat": 4
+ },
+ {
+  "ticket_id": 5008,
+  "client": 4,
+  "priority": "P2",
+  "category": "Hardware",
+  "summary": "Hardware issue reported by contact4@brunel4.example.co.uk",
+  "opened_at": "2026-06-06T06:00:00",
+  "resolved_at": null,
+  "csat": null
+ },
+ {
+  "ticket_id": 5009,
+  "client": 4,
+  "priority": "P3",
+  "category": "Hosting",
+  "summary": "Hosting issue reported by contact4@brunel4.example.co.uk",
+  "opened_at": "2026-04-21T02:00:00",
+  "resolved_at": "2026-04-23T03:00:14",
+  "csat": 2
+ },
+ {
+  "ticket_id": 5010,
+  "client": 4,
+  "priority": "P3",
+  "category": "Billing query",
+  "summary": "Billing query issue reported by contact4@brunel4.example.co.uk",
+  "opened_at": "2026-09-20T09:00:00",
+  "resolved_at": "2026-09-21T02:10:55",
+  "csat": 1
+ },
+ {
+  "ticket_id": 5011,
+  "client": 4,
+  "priority": "P1",
+  "category": "Email",
+  "summary": "Email issue reported by contact4@brunel4.example.co.uk",
+  "opened_at": "2026-09-14T08:00:00",
+  "resolved_at": "2026-09-14T10:16:51",
+  "csat": 2
+ },
+ {
+  "ticket_id": 5012,
+  "client": 4,
+  "priority": "P3",
+  "category": "Hardware",
+  "summary": "Hardware issue reported by contact4@brunel4.example.co.uk",
+  "opened_at": "2026-08-31T09:00:00",
+  "resolved_at": null,
+  "csat": null
+ },
+ {
+  "ticket_id": 5013,
+  "client": 4,
+  "priority": "P3",
+  "category": "Billing query",
+  "summary": "Billing query issue reported by contact4@brunel4.example.co.uk",
+  "opened_at": "2026-08-11T09:00:00",
+  "resolved_at": "2026-08-12T21:25:06",
+  "csat": 3
+ },
+ {
+  "ticket_id": 5014,
+  "client": 4,
+  "priority": "P2",
+  "category": "Hardware",
+  "summary": "Hardware issue reported by contact4@brunel4.example.co.uk",
+  "opened_at": "2026-04-14T10:00:00",
+  "resolved_at": "2026-04-15T05:36:46",
+  "csat": 3
+ },
+ {
+  "ticket_id": 5015,
+  "client": 5,
+  "priority": "P3",
+  "category": "Billing query",
+  "summary": "Billing query issue reported by contact5@cleveland5.example.co.uk",
+  "opened_at": "2026-06-01T19:00:00",
+  "resolved_at": "2026-06-02T12:41:05",
+  "csat": null
+ },
+ {
+  "ticket_id": 5016,
+  "client": 5,
+  "priority": "P3",
+  "category": "Hardware",
+  "summary": "Hardware issue reported by contact5@cleveland5.example.co.uk",
+  "opened_at": "2026-08-20T05:00:00",
+  "resolved_at": "2026-08-21T02:38:17",
+  "csat": null
+ },
+ {
+  "ticket_id": 5017,
+  "client": 8,
+  "priority": "P2",
+  "category": "Connectivity",
+  "summary": "Connectivity issue reported by contact8@cleveland8.example.co.uk",
+  "opened_at": "2026-06-30T03:00:00",
+  "resolved_at": "2026-06-30T09:52:56",
+  "csat": null
+ },
+ {
+  "ticket_id": 5018,
+  "client": 8,
+  "priority": "P2",
+  "category": "Email",
+  "summary": "Email issue reported by contact8@cleveland8.example.co.uk",
+  "opened_at": "2026-08-31T05:00:00",
+  "resolved_at": "2026-08-31T09:06:26",
+  "csat": 3
+ },
+ {
+  "ticket_id": 5019,
+  "client": 8,
+  "priority": "P4",
+  "category": "Connectivity",
+  "summary": "Connectivity issue reported by contact8@cleveland8.example.co.uk",
+  "opened_at": "2026-07-23T20:00:00",
+  "resolved_at": "2026-07-25T16:10:57",
+  "csat": 2
+ },
+ {
+  "ticket_id": 5020,
+  "client": 8,
+  "priority": "P4",
+  "category": "Security",
+  "summary": "Security issue reported by contact8@cleveland8.example.co.uk",
+  "opened_at": "2026-06-04T21:00:00",
+  "resolved_at": "2026-06-06T17:30:39",
+  "csat": 1
+ },
+ {
+  "ticket_id": 5021,
+  "client": 8,
+  "priority": "P2",
+  "category": "Email",
+  "summary": "Email issue reported by contact8@cleveland8.example.co.uk",
+  "opened_at": "2026-05-23T21:00:00",
+  "resolved_at": "2026-05-24T08:55:18",
+  "csat": null
+ },
+ {
+  "ticket_id": 5022,
+  "client": 8,
+  "priority": "P3",
+  "category": "Email",
+  "summary": "Email issue reported by contact8@cleveland8.example.co.uk",
+  "opened_at": "2026-06-08T08:00:00",
+  "resolved_at": "2026-06-08T13:32:51",
+  "csat": null
+ },
+ {
+  "ticket_id": 5023,
+  "client": 8,
+  "priority": "P4",
+  "category": "Security",
+  "summary": "Security issue reported by contact8@cleveland8.example.co.uk",
+  "opened_at": "2026-08-09T10:00:00",
+  "resolved_at": "2026-08-09T17:36:11",
+  "csat": null
+ },
+ {
+  "ticket_id": 5024,
+  "client": 8,
+  "priority": "P2",
+  "category": "Email",
+  "summary": "Email issue reported by contact8@cleveland8.example.co.uk",
+  "opened_at": "2026-05-23T19:00:00",
+  "resolved_at": "2026-05-24T15:16:25",
+  "csat": null
+ },
+ {
+  "ticket_id": 5025,
+  "client": 8,
+  "priority": "P4",
+  "category": "Hardware",
+  "summary": "Hardware issue reported by contact8@cleveland8.example.co.uk",
+  "opened_at": "2026-05-17T11:00:00",
+  "resolved_at": "2026-05-23T04:51:46",
+  "csat": 3
+ },
+ {
+  "ticket_id": 5026,
+  "client": 8,
+  "priority": "P4",
+  "category": "Billing query",
+  "summary": "Billing query issue reported by contact8@cleveland8.example.co.uk",
+  "opened_at": "2026-04-08T13:00:00",
+  "resolved_at": "2026-04-16T05:33:24",
+  "csat": 1
+ },
+ {
+  "ticket_id": 5027,
+  "client": 9,
+  "priority": "P4",
+  "category": "Security",
+  "summary": "Security issue reported by contact9@cleveland9.example.co.uk",
+  "opened_at": "2026-07-11T12:00:00",
+  "resolved_at": null,
+  "csat": 3
+ },
+ {
+  "ticket_id": 5028,
+  "client": 9,
+  "priority": "P4",
+  "category": "Hosting",
+  "summary": "Hosting issue reported by contact9@cleveland9.example.co.uk",
+  "opened_at": "2026-05-05T23:00:00",
+  "resolved_at": "2026-05-08T07:06:11",
+  "csat": 5
+ },
+ {
+  "ticket_id": 5029,
+  "client": 10,
+  "priority": "P4",
+  "category": "Security",
+  "summary": "Security issue reported by contact10@cleveland10.example.co.uk",
+  "opened_at": "2026-05-11T15:00:00",
+  "resolved_at": "2026-05-12T19:15:44",
+  "csat": 3
+ },
+ {
+  "ticket_id": 5030,
+  "client": 10,
+  "priority": "P3",
+  "category": "Security",
+  "summary": "Security issue reported by contact10@cleveland10.example.co.uk",
+  "opened_at": "2026-04-03T12:00:00",
+  "resolved_at": "2026-04-04T01:30:22",
+  "csat": 4
+ },
+ {
+  "ticket_id": 5031,
+  "client": 10,
+  "priority": "P4",
+  "category": "Hosting",
+  "summary": "Hosting issue reported by contact10@cleveland10.example.co.uk",
+  "opened_at": "2026-04-16T12:00:00",
+  "resolved_at": "2026-04-17T00:21:28",
+  "csat": 5
+ },
+ {
+  "ticket_id": 5032,
+  "client": 10,
+  "priority": "P4",
+  "category": "Hosting",
+  "summary": "Hosting issue reported by contact10@cleveland10.example.co.uk",
+  "opened_at": "2026-08-28T08:00:00",
+  "resolved_at": "2026-08-28T20:52:50",
+  "csat": null
+ },
+ {
+  "ticket_id": 5033,
+  "client": 10,
+  "priority": "P1",
+  "category": "Email",
+  "summary": "Email issue reported by contact10@cleveland10.example.co.uk",
+  "opened_at": "2026-04-20T19:00:00",
+  "resolved_at": "2026-04-20T21:14:08",
+  "csat": 5
+ },
+ {
+  "ticket_id": 5034,
+  "client": 11,
+  "priority": "P4",
+  "category": "Hosting",
+  "summary": "Hosting issue reported by contact11@cleveland11.example.co.uk",
+  "opened_at": "2026-05-23T21:00:00",
+  "resolved_at": "2026-05-24T20:05:49",
+  "csat": null
+ },
+ {
+  "ticket_id": 5035,
+  "client": 11,
+  "priority": "P3",
+  "category": "Email",
+  "summary": "Email issue reported by contact11@cleveland11.example.co.uk",
+  "opened_at": "2026-04-16T21:00:00",
+  "resolved_at": "2026-04-16T23:30:22",
+  "csat": 5
+ },
+ {
+  "ticket_id": 5036,
+  "client": 11,
+  "priority": "P4",
+  "category": "Hosting",
+  "summary": "Hosting issue reported by contact11@cleveland11.example.co.uk",
+  "opened_at": "2026-05-08T02:00:00",
+  "resolved_at": "2026-05-09T17:50:14",
+  "csat": null
+ },
+ {
+  "ticket_id": 5037,
+  "client": 12,
+  "priority": "P2",
+  "category": "Connectivity",
+  "summary": "Connectivity issue reported by contact12@cleveland12.example.co.uk",
+  "opened_at": "2026-05-06T03:00:00",
+  "resolved_at": "2026-05-06T08:48:54",
+  "csat": 4
+ },
+ {
+  "ticket_id": 5038,
+  "client": 12,
+  "priority": "P2",
+  "category": "Connectivity",
+  "summary": "Connectivity issue reported by contact12@cleveland12.example.co.uk",
+  "opened_at": "2026-06-05T21:00:00",
+  "resolved_at": null,
+  "csat": 4
+ },
+ {
+  "ticket_id": 5039,
+  "client": 12,
+  "priority": "P2",
+  "category": "Hosting",
+  "summary": "Hosting issue reported by contact12@cleveland12.example.co.uk",
+  "opened_at": "2026-08-06T10:00:00",
+  "resolved_at": "2026-08-06T13:32:19",
+  "csat": null
+ },
+ {
+  "ticket_id": 5040,
+  "client": 12,
+  "priority": "P3",
+  "category": "Hardware",
+  "summary": "Hardware issue reported by contact12@cleveland12.example.co.uk",
+  "opened_at": "2026-07-24T06:00:00",
+  "resolved_at": "2026-07-24T17:22:39",
+  "csat": 3
+ },
+ {
+  "ticket_id": 5041,
+  "client": 12,
+  "priority": "P2",
+  "category": "Billing query",
+  "summary": "Billing query issue reported by contact12@cleveland12.example.co.uk",
+  "opened_at": "2026-08-24T08:00:00",
+  "resolved_at": "2026-08-24T09:40:47",
+  "csat": 5
+ },
+ {
+  "ticket_id": 5042,
+  "client": 13,
+  "priority": "P4",
+  "category": "Connectivity",
+  "summary": "Connectivity issue reported by contact13@cleveland13.example.co.uk",
+  "opened_at": "2026-05-31T23:00:00",
+  "resolved_at": "2026-06-02T04:48:11",
+  "csat": 1
+ },
+ {
+  "ticket_id": 5043,
+  "client": 13,
+  "priority": "P3",
+  "category": "Email",
+  "summary": "Email issue reported by contact13@cleveland13.example.co.uk",
+  "opened_at": "2026-06-27T06:00:00",
+  "resolved_at": "2026-06-27T10:48:06",
+  "csat": null
+ },
+ {
+  "ticket_id": 5044,
+  "client": 13,
+  "priority": "P4",
+  "category": "Connectivity",
+  "summary": "Connectivity issue reported by contact13@cleveland13.example.co.uk",
+  "opened_at": "2026-05-29T00:00:00",
+  "resolved_at": "2026-06-04T15:51:38",
+  "csat": null
+ },
+ {
+  "ticket_id": 5045,
+  "client": 13,
+  "priority": "P2",
+  "category": "Hosting",
+  "summary": "Hosting issue reported by contact13@cleveland13.example.co.uk",
+  "opened_at": "2026-07-19T18:00:00",
+  "resolved_at": "2026-07-19T18:48:51",
+  "csat": 2
+ },
+ {
+  "ticket_id": 5046,
+  "client": 13,
+  "priority": "P3",
+  "category": "Hardware",
+  "summary": "Hardware issue reported by contact13@cleveland13.example.co.uk",
+  "opened_at": "2026-05-29T06:00:00",
+  "resolved_at": "2026-05-29T15:17:29",
+  "csat": 3
+ },
+ {
+  "ticket_id": 5047,
+  "client": 13,
+  "priority": "P3",
+  "category": "Hardware",
+  "summary": "Hardware issue reported by contact13@cleveland13.example.co.uk",
+  "opened_at": "2026-08-27T20:00:00",
+  "resolved_at": "2026-08-28T07:34:42",
+  "csat": 1
+ },
+ {
+  "ticket_id": 5048,
+  "client": 13,
+  "priority": "P3",
+  "category": "Email",
+  "summary": "Email issue reported by contact13@cleveland13.example.co.uk",
+  "opened_at": "2026-04-23T03:00:00",
+  "resolved_at": "2026-04-25T22:27:04",
+  "csat": 2
+ },
+ {
+  "ticket_id": 5049,
+  "client": 13,
+  "priority": "P2",
+  "category": "Billing query",
+  "summary": "Billing query issue reported by contact13@cleveland13.example.co.uk",
+  "opened_at": "2026-07-20T04:00:00",
+  "resolved_at": "2026-07-20T13:10:37",
+  "csat": 3
+ },
+ {
+  "ticket_id": 5050,
+  "client": 13,
+  "priority": "P3",
+  "category": "Hosting",
+  "summary": "Hosting issue reported by contact13@cleveland13.example.co.uk",
+  "opened_at": "2026-04-17T21:00:00",
+  "resolved_at": "2026-04-20T18:57:20",
+  "csat": null
+ },
+ {
+  "ticket_id": 5051,
+  "client": 13,
+  "priority": "P2",
+  "category": "Connectivity",
+  "summary": "Connectivity issue reported by contact13@cleveland13.example.co.uk",
+  "opened_at": "2026-05-07T08:00:00",
+  "resolved_at": "2026-05-07T14:53:55",
+  "csat": 1
+ },
+ {
+  "ticket_id": 5052,
+  "client": 13,
+  "priority": "P2",
+  "category": "Hardware",
+  "summary": "Hardware issue reported by contact13@cleveland13.example.co.uk",
+  "opened_at": "2026-07-21T18:00:00",
+  "resolved_at": "2026-07-22T00:50:09",
+  "csat": 2
+ },
+ {
+  "ticket_id": 5053,
+  "client": 13,
+  "priority": "P1",
+  "category": "Hardware",
+  "summary": "Hardware issue reported by contact13@cleveland13.example.co.uk",
+  "opened_at": "2026-06-19T06:00:00",
+  "resolved_at": "2026-06-19T06:28:44",
+  "csat": null
+ },
+ {
+  "ticket_id": 5054,
+  "client": 14,
+  "priority": "P2",
+  "category": "VoIP",
+  "summary": "VoIP issue reported by contact14@cleveland14.example.co.uk",
+  "opened_at": "2026-07-10T12:00:00",
+  "resolved_at": "2026-07-10T13:28:31",
+  "csat": null
+ },
+ {
+  "ticket_id": 5055,
+  "client": 14,
+  "priority": "P3",
+  "category": "Hosting",
+  "summary": "Hosting issue reported by contact14@cleveland14.example.co.uk",
+  "opened_at": "2026-09-07T20:00:00",
+  "resolved_at": "2026-09-08T01:51:05",
+  "csat": null
+ },
+ {
+  "ticket_id": 5056,
+  "client": 14,
+  "priority": "P3",
+  "category": "Email",
+  "summary": "Email issue reported by contact14@cleveland14.example.co.uk",
+  "opened_at": "2026-09-15T15:00:00",
+  "resolved_at": "2026-09-16T01:49:17",
+  "csat": 3
+ },
+ {
+  "ticket_id": 5057,
+  "client": 14,
+  "priority": "P2",
+  "category": "Hosting",
+  "summary": "Hosting issue reported by contact14@cleveland14.example.co.uk",
+  "opened_at": "2026-09-16T18:00:00",
+  "resolved_at": "2026-09-16T20:24:29",
+  "csat": null
+ },
+ {
+  "ticket_id": 5058,
+  "client": 15,
+  "priority": "P3",
+  "category": "Hardware",
+  "summary": "Hardware issue reported by contact15@coast15.example.co.uk",
+  "opened_at": "2026-09-14T14:00:00",
+  "resolved_at": "2026-09-16T14:28:41",
+  "csat": 1
+ },
+ {
+  "ticket_id": 5059,
+  "client": 15,
+  "priority": "P4",
+  "category": "Hosting",
+  "summary": "Hosting issue reported by contact15@coast15.example.co.uk",
+  "opened_at": "2026-07-23T07:00:00",
+  "resolved_at": "2026-07-24T05:16:28",
+  "csat": null
+ },
+ {
+  "ticket_id": 5060,
+  "client": 15,
+  "priority": "P3",
+  "category": "Security",
+  "summary": "Security issue reported by contact15@coast15.example.co.uk",
+  "opened_at": "2026-05-07T11:00:00",
+  "resolved_at": "2026-05-07T23:36:31",
+  "csat": null
+ },
+ {
+  "ticket_id": 5061,
+  "client": 15,
+  "priority": "P3",
+  "category": "Hardware",
+  "summary": "Hardware issue reported by contact15@coast15.example.co.uk",
+  "opened_at": "2026-08-17T17:00:00",
+  "resolved_at": null,
+  "csat": 3
+ },
+ {
+  "ticket_id": 5062,
+  "client": 15,
+  "priority": "P4",
+  "category": "Hardware",
+  "summary": "Hardware issue reported by contact15@coast15.example.co.uk",
+  "opened_at": "2026-07-17T04:00:00",
+  "resolved_at": "2026-07-25T18:54:13",
+  "csat": null
+ },
+ {
+  "ticket_id": 5063,
+  "client": 15,
+  "priority": "P4",
+  "category": "Security",
+  "summary": "Security issue reported by contact15@coast15.example.co.uk",
+  "opened_at": "2026-04-08T12:00:00",
+  "resolved_at": "2026-04-09T08:13:13",
+  "csat": null
+ },
+ {
+  "ticket_id": 5064,
+  "client": 15,
+  "priority": "P1",
+  "category": "Security",
+  "summary": "Security issue reported by contact15@coast15.example.co.uk",
+  "opened_at": "2026-05-16T06:00:00",
+  "resolved_at": "2026-05-16T15:42:29",
+  "csat": 2
+ },
+ {
+  "ticket_id": 5065,
+  "client": 15,
+  "priority": "P3",
+  "category": "Billing query",
+  "summary": "Billing query issue reported by contact15@coast15.example.co.uk",
+  "opened_at": "2026-06-11T18:00:00",
+  "resolved_at": "2026-06-12T02:53:36",
+  "csat": 3
+ },
+ {
+  "ticket_id": 5066,
+  "client": 16,
+  "priority": "P3",
+  "category": "Hosting",
+  "summary": "Hosting issue reported by contact16@coast16.example.co.uk",
+  "opened_at": "2026-07-22T17:00:00",
+  "resolved_at": "2026-07-22T23:41:48",
+  "csat": 3
+ },
+ {
+  "ticket_id": 5067,
+  "client": 16,
+  "priority": "P3",
+  "category": "VoIP",
+  "summary": "VoIP issue reported by contact16@coast16.example.co.uk",
+  "opened_at": "2026-04-18T00:00:00",
+  "resolved_at": "2026-04-19T02:50:12",
+  "csat": 5
+ },
+ {
+  "ticket_id": 5068,
+  "client": 16,
+  "priority": "P3",
+  "category": "Connectivity",
+  "summary": "Connectivity issue reported by contact16@coast16.example.co.uk",
+  "opened_at": "2026-05-27T12:00:00",
+  "resolved_at": "2026-05-28T03:38:29",
+  "csat": 5
+ },
+ {
+  "ticket_id": 5069,
+  "client": 17,
+  "priority": "P3",
+  "category": "Email",
+  "summary": "Email issue reported by contact17@coast17.example.co.uk",
+  "opened_at": "2026-04-10T21:00:00",
+  "resolved_at": "2026-04-11T16:16:49",
+  "csat": 5
+ },
+ {
+  "ticket_id": 5070,
+  "client": 17,
+  "priority": "P3",
+  "category": "VoIP",
+  "summary": "VoIP issue reported by contact17@coast17.example.co.uk",
+  "opened_at": "2026-09-27T21:00:00",
+  "resolved_at": "2026-09-28T08:28:09",
+  "csat": 5
+ },
+ {
+  "ticket_id": 5071,
+  "client": 17,
+  "priority": "P2",
+  "category": "Billing query",
+  "summary": "Billing query issue reported by contact17@coast17.example.co.uk",
+  "opened_at": "2026-06-30T18:00:00",
+  "resolved_at": "2026-06-30T20:51:41",
+  "csat": 4
+ },
+ {
+  "ticket_id": 5072,
+  "client": 19,
+  "priority": "P3",
+  "category": "Billing query",
+  "summary": "Billing query issue reported by contact19@coast19.example.co.uk",
+  "opened_at": "2026-04-02T02:00:00",
+  "resolved_at": "2026-04-05T01:16:56",
+  "csat": 3
+ },
+ {
+  "ticket_id": 5073,
+  "client": 19,
+  "priority": "P2",
+  "category": "Billing query",
+  "summary": "Billing query issue reported by contact19@coast19.example.co.uk",
+  "opened_at": "2026-05-24T09:00:00",
+  "resolved_at": "2026-05-25T05:01:47",
+  "csat": 1
+ },
+ {
+  "ticket_id": 5074,
+  "client": 19,
+  "priority": "P4",
+  "category": "Security",
+  "summary": "Security issue reported by contact19@coast19.example.co.uk",
+  "opened_at": "2026-05-02T20:00:00",
+  "resolved_at": "2026-05-11T10:54:41",
+  "csat": 2
+ },
+ {
+  "ticket_id": 5075,
+  "client": 19,
+  "priority": "P1",
+  "category": "Hosting",
+  "summary": "Hosting issue reported by contact19@coast19.example.co.uk",
+  "opened_at": "2026-08-11T03:00:00",
+  "resolved_at": "2026-08-11T05:42:15",
+  "csat": 2
+ },
+ {
+  "ticket_id": 5076,
+  "client": 19,
+  "priority": "P3",
+  "category": "Email",
+  "summary": "Email issue reported by contact19@coast19.example.co.uk",
+  "opened_at": "2026-09-29T11:00:00",
+  "resolved_at": "2026-09-29T14:27:28",
+  "csat": 2
+ },
+ {
+  "ticket_id": 5077,
+  "client": 19,
+  "priority": "P3",
+  "category": "Connectivity",
+  "summary": "Connectivity issue reported by contact19@coast19.example.co.uk",
+  "opened_at": "2026-08-29T03:00:00",
+  "resolved_at": "2026-08-29T15:57:07",
+  "csat": null
+ },
+ {
+  "ticket_id": 5078,
+  "client": 19,
+  "priority": "P3",
+  "category": "Email",
+  "summary": "Email issue reported by contact19@coast19.example.co.uk",
+  "opened_at": "2026-07-20T11:00:00",
+  "resolved_at": "2026-07-22T07:16:07",
+  "csat": 1
+ },
+ {
+  "ticket_id": 5079,
+  "client": 19,
+  "priority": "P3",
+  "category": "VoIP",
+  "summary": "VoIP issue reported by contact19@coast19.example.co.uk",
+  "opened_at": "2026-08-03T02:00:00",
+  "resolved_at": "2026-08-04T15:47:57",
+  "csat": null
+ },
+ {
+  "ticket_id": 5080,
+  "client": 19,
+  "priority": "P1",
+  "category": "Security",
+  "summary": "Security issue reported by contact19@coast19.example.co.uk",
+  "opened_at": "2026-04-22T21:00:00",
+  "resolved_at": "2026-04-23T01:34:57",
+  "csat": null
+ },
+ {
+  "ticket_id": 5081,
+  "client": 19,
+  "priority": "P2",
+  "category": "Connectivity",
+  "summary": "Connectivity issue reported by contact19@coast19.example.co.uk",
+  "opened_at": "2026-07-27T17:00:00",
+  "resolved_at": "2026-07-28T06:58:48",
+  "csat": 1
+ },
+ {
+  "ticket_id": 5082,
+  "client": 19,
+  "priority": "P3",
+  "category": "Hosting",
+  "summary": "Hosting issue reported by contact19@coast19.example.co.uk",
+  "opened_at": "2026-09-11T05:00:00",
+  "resolved_at": "2026-09-11T20:09:25",
+  "csat": 1
+ },
+ {
+  "ticket_id": 5083,
+  "client": 19,
+  "priority": "P4",
+  "category": "Connectivity",
+  "summary": "Connectivity issue reported by contact19@coast19.example.co.uk",
+  "opened_at": "2026-06-25T14:00:00",
+  "resolved_at": "2026-06-27T21:05:52",
+  "csat": 2
+ },
+ {
+  "ticket_id": 5084,
+  "client": 19,
+  "priority": "P3",
+  "category": "Connectivity",
+  "summary": "Connectivity issue reported by contact19@coast19.example.co.uk",
+  "opened_at": "2026-04-26T04:00:00",
+  "resolved_at": "2026-04-27T08:56:38",
+  "csat": null
+ },
+ {
+  "ticket_id": 5085,
+  "client": 20,
+  "priority": "P4",
+  "category": "Hardware",
+  "summary": "Hardware issue reported by contact20@coast20.example.co.uk",
+  "opened_at": "2026-08-01T05:00:00",
+  "resolved_at": "2026-08-02T15:56:55",
+  "csat": 3
+ },
+ {
+  "ticket_id": 5086,
+  "client": 20,
+  "priority": "P3",
+  "category": "Hosting",
+  "summary": "Hosting issue reported by contact20@coast20.example.co.uk",
+  "opened_at": "2026-09-04T14:00:00",
+  "resolved_at": "2026-09-04T16:55:47",
+  "csat": null
+ },
+ {
+  "ticket_id": 5087,
+  "client": 20,
+  "priority": "P3",
+  "category": "VoIP",
+  "summary": "VoIP issue reported by contact20@coast20.example.co.uk",
+  "opened_at": "2026-09-04T00:00:00",
+  "resolved_at": "2026-09-06T14:23:50",
+  "csat": null
+ },
+ {
+  "ticket_id": 5088,
+  "client": 20,
+  "priority": "P3",
+  "category": "VoIP",
+  "summary": "VoIP issue reported by contact20@coast20.example.co.uk",
+  "opened_at": "2026-05-22T16:00:00",
+  "resolved_at": "2026-05-23T07:03:55",
+  "csat": 1
+ },
+ {
+  "ticket_id": 5089,
+  "client": 20,
+  "priority": "P3",
+  "category": "Email",
+  "summary": "Email issue reported by contact20@coast20.example.co.uk",
+  "opened_at": "2026-08-28T15:00:00",
+  "resolved_at": "2026-08-29T06:41:41",
+  "csat": 1
+ },
+ {
+  "ticket_id": 5090,
+  "client": 20,
+  "priority": "P3",
+  "category": "Connectivity",
+  "summary": "Connectivity issue reported by contact20@coast20.example.co.uk",
+  "opened_at": "2026-08-23T09:00:00",
+  "resolved_at": "2026-08-25T04:13:07",
+  "csat": 1
+ },
+ {
+  "ticket_id": 5091,
+  "client": 20,
+  "priority": "P3",
+  "category": "Hardware",
+  "summary": "Hardware issue reported by contact20@coast20.example.co.uk",
+  "opened_at": "2026-09-15T17:00:00",
+  "resolved_at": "2026-09-16T12:55:03",
+  "csat": 3
+ },
+ {
+  "ticket_id": 5092,
+  "client": 20,
+  "priority": "P3",
+  "category": "Hardware",
+  "summary": "Hardware issue reported by contact20@coast20.example.co.uk",
+  "opened_at": "2026-08-09T22:00:00",
+  "resolved_at": "2026-08-10T14:34:24",
+  "csat": null
+ },
+ {
+  "ticket_id": 5093,
+  "client": 20,
+  "priority": "P4",
+  "category": "VoIP",
+  "summary": "VoIP issue reported by contact20@coast20.example.co.uk",
+  "opened_at": "2026-05-04T06:00:00",
+  "resolved_at": "2026-05-05T14:49:26",
+  "csat": 1
+ },
+ {
+  "ticket_id": 5094,
+  "client": 20,
+  "priority": "P4",
+  "category": "Hardware",
+  "summary": "Hardware issue reported by contact20@coast20.example.co.uk",
+  "opened_at": "2026-05-26T17:00:00",
+  "resolved_at": "2026-05-28T18:37:30",
+  "csat": null
+ },
+ {
+  "ticket_id": 5095,
+  "client": 21,
+  "priority": "P3",
+  "category": "Connectivity",
+  "summary": "Connectivity issue reported by contact21@coast21.example.co.uk",
+  "opened_at": "2026-06-25T18:00:00",
+  "resolved_at": null,
+  "csat": null
+ },
+ {
+  "ticket_id": 5096,
+  "client": 21,
+  "priority": "P3",
+  "category": "Security",
+  "summary": "Security issue reported by contact21@coast21.example.co.uk",
+  "opened_at": "2026-08-31T20:00:00",
+  "resolved_at": "2026-09-03T01:06:26",
+  "csat": 1
+ },
+ {
+  "ticket_id": 5097,
+  "client": 21,
+  "priority": "P2",
+  "category": "Email",
+  "summary": "Email issue reported by contact21@coast21.example.co.uk",
+  "opened_at": "2026-08-10T15:00:00",
+  "resolved_at": "2026-08-10T20:41:17",
+  "csat": null
+ },
+ {
+  "ticket_id": 5098,
+  "client": 21,
+  "priority": "P2",
+  "category": "Security",
+  "summary": "Security issue reported by contact21@coast21.example.co.uk",
+  "opened_at": "2026-08-11T00:00:00",
+  "resolved_at": "2026-08-11T10:20:17",
+  "csat": null
+ },
+ {
+  "ticket_id": 5099,
+  "client": 21,
+  "priority": "P4",
+  "category": "Security",
+  "summary": "Security issue reported by contact21@coast21.example.co.uk",
+  "opened_at": "2026-09-01T14:00:00",
+  "resolved_at": "2026-09-06T06:03:09",
+  "csat": null
+ },
+ {
+  "ticket_id": 5100,
+  "client": 21,
+  "priority": "P4",
+  "category": "VoIP",
+  "summary": "VoIP issue reported by contact21@coast21.example.co.uk",
+  "opened_at": "2026-05-18T05:00:00",
+  "resolved_at": "2026-05-18T16:12:03",
+  "csat": null
+ },
+ {
+  "ticket_id": 5101,
+  "client": 21,
+  "priority": "P3",
+  "category": "Hardware",
+  "summary": "Hardware issue reported by contact21@coast21.example.co.uk",
+  "opened_at": "2026-08-12T18:00:00",
+  "resolved_at": "2026-08-13T02:53:10",
+  "csat": null
+ },
+ {
+  "ticket_id": 5102,
+  "client": 21,
+  "priority": "P3",
+  "category": "VoIP",
+  "summary": "VoIP issue reported by contact21@coast21.example.co.uk",
+  "opened_at": "2026-09-18T05:00:00",
+  "resolved_at": "2026-09-18T13:24:04",
+  "csat": null
+ },
+ {
+  "ticket_id": 5103,
+  "client": 21,
+  "priority": "P4",
+  "category": "VoIP",
+  "summary": "VoIP issue reported by contact21@coast21.example.co.uk",
+  "opened_at": "2026-07-20T20:00:00",
+  "resolved_at": "2026-07-23T09:24:47",
+  "csat": 3
+ },
+ {
+  "ticket_id": 5104,
+  "client": 21,
+  "priority": "P2",
+  "category": "Security",
+  "summary": "Security issue reported by contact21@coast21.example.co.uk",
+  "opened_at": "2026-04-25T22:00:00",
+  "resolved_at": "2026-04-26T20:12:46",
+  "csat": 2
+ },
+ {
+  "ticket_id": 5105,
+  "client": 21,
+  "priority": "P3",
+  "category": "Hardware",
+  "summary": "Hardware issue reported by contact21@coast21.example.co.uk",
+  "opened_at": "2026-08-15T14:00:00",
+  "resolved_at": "2026-08-16T02:15:33",
+  "csat": 3
+ },
+ {
+  "ticket_id": 5106,
+  "client": 21,
+  "priority": "P1",
+  "category": "Security",
+  "summary": "Security issue reported by contact21@coast21.example.co.uk",
+  "opened_at": "2026-05-03T04:00:00",
+  "resolved_at": "2026-05-03T09:56:34",
+  "csat": null
+ },
+ {
+  "ticket_id": 5107,
+  "client": 21,
+  "priority": "P3",
+  "category": "Hosting",
+  "summary": "Hosting issue reported by contact21@coast21.example.co.uk",
+  "opened_at": "2026-06-13T12:00:00",
+  "resolved_at": "2026-06-13T22:01:54",
+  "csat": 2
+ },
+ {
+  "ticket_id": 5108,
+  "client": 21,
+  "priority": "P3",
+  "category": "Hosting",
+  "summary": "Hosting issue reported by contact21@coast21.example.co.uk",
+  "opened_at": "2026-06-08T08:00:00",
+  "resolved_at": "2026-06-08T19:53:28",
+  "csat": 2
+ },
+ {
+  "ticket_id": 5109,
+  "client": 22,
+  "priority": "P3",
+  "category": "VoIP",
+  "summary": "VoIP issue reported by contact22@coast22.example.co.uk",
+  "opened_at": "2026-06-27T09:00:00",
+  "resolved_at": "2026-06-27T15:03:47",
+  "csat": null
+ },
+ {
+  "ticket_id": 5110,
+  "client": 22,
+  "priority": "P4",
+  "category": "Security",
+  "summary": "Security issue reported by contact22@coast22.example.co.uk",
+  "opened_at": "2026-09-08T15:00:00",
+  "resolved_at": "2026-09-10T13:35:29",
+  "csat": null
+ },
+ {
+  "ticket_id": 5111,
+  "client": 22,
+  "priority": "P3",
+  "category": "Billing query",
+  "summary": "Billing query issue reported by contact22@coast22.example.co.uk",
+  "opened_at": "2026-08-30T22:00:00",
+  "resolved_at": "2026-08-31T07:12:31",
+  "csat": null
+ },
+ {
+  "ticket_id": 5112,
+  "client": 23,
+  "priority": "P3",
+  "category": "Billing query",
+  "summary": "Billing query issue reported by contact23@coast23.example.co.uk",
+  "opened_at": "2026-08-12T02:00:00",
+  "resolved_at": "2026-08-14T19:23:16",
+  "csat": 1
+ },
+ {
+  "ticket_id": 5113,
+  "client": 23,
+  "priority": "P4",
+  "category": "Hardware",
+  "summary": "Hardware issue reported by contact23@coast23.example.co.uk",
+  "opened_at": "2026-07-15T15:00:00",
+  "resolved_at": "2026-07-16T22:54:47",
+  "csat": 1
+ },
+ {
+  "ticket_id": 5114,
+  "client": 23,
+  "priority": "P3",
+  "category": "Hardware",
+  "summary": "Hardware issue reported by contact23@coast23.example.co.uk",
+  "opened_at": "2026-06-01T04:00:00",
+  "resolved_at": "2026-06-01T09:26:43",
+  "csat": 1
+ },
+ {
+  "ticket_id": 5115,
+  "client": 23,
+  "priority": "P3",
+  "category": "Billing query",
+  "summary": "Billing query issue reported by contact23@coast23.example.co.uk",
+  "opened_at": "2026-05-31T17:00:00",
+  "resolved_at": "2026-06-01T10:51:19",
+  "csat": null
+ },
+ {
+  "ticket_id": 5116,
+  "client": 23,
+  "priority": "P4",
+  "category": "Hardware",
+  "summary": "Hardware issue reported by contact23@coast23.example.co.uk",
+  "opened_at": "2026-09-08T14:00:00",
+  "resolved_at": "2026-09-17T06:03:21",
+  "csat": 3
+ },
+ {
+  "ticket_id": 5117,
+  "client": 23,
+  "priority": "P2",
+  "category": "Billing query",
+  "summary": "Billing query issue reported by contact23@coast23.example.co.uk",
+  "opened_at": "2026-09-22T13:00:00",
+  "resolved_at": null,
+  "csat": 2
+ },
+ {
+  "ticket_id": 5118,
+  "client": 23,
+  "priority": "P3",
+  "category": "Security",
+  "summary": "Security issue reported by contact23@coast23.example.co.uk",
+  "opened_at": "2026-07-05T17:00:00",
+  "resolved_at": "2026-07-06T03:37:43",
+  "csat": null
+ },
+ {
+  "ticket_id": 5119,
+  "client": 23,
+  "priority": "P3",
+  "category": "Email",
+  "summary": "Email issue reported by contact23@coast23.example.co.uk",
+  "opened_at": "2026-05-03T00:00:00",
+  "resolved_at": "2026-05-04T08:44:40",
+  "csat": 3
+ },
+ {
+  "ticket_id": 5120,
+  "client": 23,
+  "priority": "P4",
+  "category": "Hosting",
+  "summary": "Hosting issue reported by contact23@coast23.example.co.uk",
+  "opened_at": "2026-05-06T12:00:00",
+  "resolved_at": "2026-05-12T00:38:20",
+  "csat": 2
+ },
+ {
+  "ticket_id": 5121,
+  "client": 23,
+  "priority": "P3",
+  "category": "Billing query",
+  "summary": "Billing query issue reported by contact23@coast23.example.co.uk",
+  "opened_at": "2026-05-07T10:00:00",
+  "resolved_at": "2026-05-08T20:13:00",
+  "csat": null
+ },
+ {
+  "ticket_id": 5122,
+  "client": 23,
+  "priority": "P3",
+  "category": "Hardware",
+  "summary": "Hardware issue reported by contact23@coast23.example.co.uk",
+  "opened_at": "2026-04-06T05:00:00",
+  "resolved_at": "2026-04-07T10:34:07",
+  "csat": null
+ },
+ {
+  "ticket_id": 5123,
+  "client": 23,
+  "priority": "P1",
+  "category": "VoIP",
+  "summary": "VoIP issue reported by contact23@coast23.example.co.uk",
+  "opened_at": "2026-04-14T08:00:00",
+  "resolved_at": "2026-04-14T16:20:27",
+  "csat": 2
+ },
+ {
+  "ticket_id": 5124,
+  "client": 23,
+  "priority": "P2",
+  "category": "Hardware",
+  "summary": "Hardware issue reported by contact23@coast23.example.co.uk",
+  "opened_at": "2026-08-20T21:00:00",
+  "resolved_at": "2026-08-21T17:05:44",
+  "csat": 1
+ },
+ {
+  "ticket_id": 5125,
+  "client": 23,
+  "priority": "P3",
+  "category": "Hosting",
+  "summary": "Hosting issue reported by contact23@coast23.example.co.uk",
+  "opened_at": "2026-08-08T15:00:00",
+  "resolved_at": "2026-08-09T03:05:07",
+  "csat": null
+ },
+ {
+  "ticket_id": 5126,
+  "client": 24,
+  "priority": "P2",
+  "category": "Connectivity",
+  "summary": "Connectivity issue reported by contact24@coast24.example.co.uk",
+  "opened_at": "2026-04-07T10:00:00",
+  "resolved_at": "2026-04-07T20:58:08",
+  "csat": 1
+ },
+ {
+  "ticket_id": 5127,
+  "client": 24,
+  "priority": "P4",
+  "category": "Hosting",
+  "summary": "Hosting issue reported by contact24@coast24.example.co.uk",
+  "opened_at": "2026-05-18T14:00:00",
+  "resolved_at": null,
+  "csat": null
+ },
+ {
+  "ticket_id": 5128,
+  "client": 24,
+  "priority": "P3",
+  "category": "Hardware",
+  "summary": "Hardware issue reported by contact24@coast24.example.co.uk",
+  "opened_at": "2026-04-17T10:00:00",
+  "resolved_at": "2026-04-18T04:33:49",
+  "csat": 1
+ },
+ {
+  "ticket_id": 5129,
+  "client": 24,
+  "priority": "P2",
+  "category": "Hardware",
+  "summary": "Hardware issue reported by contact24@coast24.example.co.uk",
+  "opened_at": "2026-06-15T17:00:00",
+  "resolved_at": "2026-06-15T20:44:17",
+  "csat": null
+ },
+ {
+  "ticket_id": 5130,
+  "client": 24,
+  "priority": "P3",
+  "category": "Security",
+  "summary": "Security issue reported by contact24@coast24.example.co.uk",
+  "opened_at": "2026-05-07T21:00:00",
+  "resolved_at": "2026-05-08T04:17:23",
+  "csat": 3
+ },
+ {
+  "ticket_id": 5131,
+  "client": 24,
+  "priority": "P4",
+  "category": "VoIP",
+  "summary": "VoIP issue reported by contact24@coast24.example.co.uk",
+  "opened_at": "2026-07-17T03:00:00",
+  "resolved_at": "2026-07-19T06:24:41",
+  "csat": 3
+ },
+ {
+  "ticket_id": 5132,
+  "client": 24,
+  "priority": "P2",
+  "category": "Email",
+  "summary": "Email issue reported by contact24@coast24.example.co.uk",
+  "opened_at": "2026-08-29T13:00:00",
+  "resolved_at": "2026-08-30T09:27:05",
+  "csat": null
+ },
+ {
+  "ticket_id": 5133,
+  "client": 24,
+  "priority": "P1",
+  "category": "Billing query",
+  "summary": "Billing query issue reported by contact24@coast24.example.co.uk",
+  "opened_at": "2026-08-07T08:00:00",
+  "resolved_at": "2026-08-07T17:15:19",
+  "csat": null
+ },
+ {
+  "ticket_id": 5134,
+  "client": 24,
+  "priority": "P3",
+  "category": "VoIP",
+  "summary": "VoIP issue reported by contact24@coast24.example.co.uk",
+  "opened_at": "2026-06-19T18:00:00",
+  "resolved_at": "2026-06-21T01:37:46",
+  "csat": 2
+ },
+ {
+  "ticket_id": 5135,
+  "client": 24,
+  "priority": "P2",
+  "category": "Hardware",
+  "summary": "Hardware issue reported by contact24@coast24.example.co.uk",
+  "opened_at": "2026-06-03T22:00:00",
+  "resolved_at": "2026-06-04T03:39:08",
+  "csat": 1
+ },
+ {
+  "ticket_id": 5136,
+  "client": 24,
+  "priority": "P3",
+  "category": "Billing query",
+  "summary": "Billing query issue reported by contact24@coast24.example.co.uk",
+  "opened_at": "2026-08-18T00:00:00",
+  "resolved_at": "2026-08-19T08:03:40",
+  "csat": null
+ },
+ {
+  "ticket_id": 5137,
+  "client": 24,
+  "priority": "P2",
+  "category": "Billing query",
+  "summary": "Billing query issue reported by contact24@coast24.example.co.uk",
+  "opened_at": "2026-09-27T03:00:00",
+  "resolved_at": null,
+  "csat": 1
+ },
+ {
+  "ticket_id": 5138,
+  "client": 24,
+  "priority": "P1",
+  "category": "Billing query",
+  "summary": "Billing query issue reported by contact24@coast24.example.co.uk",
+  "opened_at": "2026-06-08T02:00:00",
+  "resolved_at": "2026-06-08T04:10:39",
+  "csat": 2
+ },
+ {
+  "ticket_id": 5139,
+  "client": 25,
+  "priority": "P1",
+  "category": "Security",
+  "summary": "Security issue reported by contact25@coast25.example.co.uk",
+  "opened_at": "2026-07-13T10:00:00",
+  "resolved_at": "2026-07-13T20:16:13",
+  "csat": null
+ },
+ {
+  "ticket_id": 5140,
+  "client": 25,
+  "priority": "P2",
+  "category": "Email",
+  "summary": "Email issue reported by contact25@coast25.example.co.uk",
+  "opened_at": "2026-07-30T18:00:00",
+  "resolved_at": "2026-07-31T01:31:37",
+  "csat": 3
+ },
+ {
+  "ticket_id": 5141,
+  "client": 25,
+  "priority": "P4",
+  "category": "VoIP",
+  "summary": "VoIP issue reported by contact25@coast25.example.co.uk",
+  "opened_at": "2026-08-04T21:00:00",
+  "resolved_at": null,
+  "csat": 4
+ },
+ {
+  "ticket_id": 5142,
+  "client": 25,
+  "priority": "P3",
+  "category": "Hardware",
+  "summary": "Hardware issue reported by contact25@coast25.example.co.uk",
+  "opened_at": "2026-07-09T07:00:00",
+  "resolved_at": "2026-07-10T04:27:37",
+  "csat": null
+ },
+ {
+  "ticket_id": 5143,
+  "client": 25,
+  "priority": "P3",
+  "category": "Email",
+  "summary": "Email issue reported by contact25@coast25.example.co.uk",
+  "opened_at": "2026-08-06T21:00:00",
+  "resolved_at": null,
+  "csat": null
+ },
+ {
+  "ticket_id": 5144,
+  "client": 26,
+  "priority": "P4",
+  "category": "Connectivity",
+  "summary": "Connectivity issue reported by contact26@coast26.example.co.uk",
+  "opened_at": "2026-09-13T03:00:00",
+  "resolved_at": "2026-09-14T08:46:53",
+  "csat": 5
+ },
+ {
+  "ticket_id": 5145,
+  "client": 27,
+  "priority": "P3",
+  "category": "VoIP",
+  "summary": "VoIP issue reported by contact27@coast27.example.co.uk",
+  "opened_at": "2026-09-03T02:00:00",
+  "resolved_at": "2026-09-03T21:44:58",
+  "csat": null
+ },
+ {
+  "ticket_id": 5146,
+  "client": 27,
+  "priority": "P3",
+  "category": "Billing query",
+  "summary": "Billing query issue reported by contact27@coast27.example.co.uk",
+  "opened_at": "2026-07-08T04:00:00",
+  "resolved_at": "2026-07-09T02:14:10",
+  "csat": null
+ },
+ {
+  "ticket_id": 5147,
+  "client": 27,
+  "priority": "P4",
+  "category": "Connectivity",
+  "summary": "Connectivity issue reported by contact27@coast27.example.co.uk",
+  "opened_at": "2026-04-06T14:00:00",
+  "resolved_at": "2026-04-07T01:19:54",
+  "csat": 4
+ },
+ {
+  "ticket_id": 5148,
+  "client": 28,
+  "priority": "P2",
+  "category": "VoIP",
+  "summary": "VoIP issue reported by contact28@dale28.example.co.uk",
+  "opened_at": "2026-04-19T01:00:00",
+  "resolved_at": null,
+  "csat": 3
+ },
+ {
+  "ticket_id": 5149,
+  "client": 28,
+  "priority": "P4",
+  "category": "Connectivity",
+  "summary": "Connectivity issue reported by contact28@dale28.example.co.uk",
+  "opened_at": "2026-07-12T17:00:00",
+  "resolved_at": "2026-07-14T14:07:46",
+  "csat": 3
+ },
+ {
+  "ticket_id": 5150,
+  "client": 28,
+  "priority": "P2",
+  "category": "Hosting",
+  "summary": "Hosting issue reported by contact28@dale28.example.co.uk",
+  "opened_at": "2026-08-22T12:00:00",
+  "resolved_at": "2026-08-23T10:50:08",
+  "csat": 4
+ },
+ {
+  "ticket_id": 5151,
+  "client": 28,
+  "priority": "P3",
+  "category": "Security",
+  "summary": "Security issue reported by contact28@dale28.example.co.uk",
+  "opened_at": "2026-08-26T16:00:00",
+  "resolved_at": "2026-08-26T19:12:28",
+  "csat": 4
+ },
+ {
+  "ticket_id": 5152,
+  "client": 29,
+  "priority": "P3",
+  "category": "Billing query",
+  "summary": "Billing query issue reported by contact29@dale29.example.co.uk",
+  "opened_at": "2026-08-02T01:00:00",
+  "resolved_at": "2026-08-04T03:59:33",
+  "csat": 3
+ },
+ {
+  "ticket_id": 5153,
+  "client": 29,
+  "priority": "P4",
+  "category": "Billing query",
+  "summary": "Billing query issue reported by contact29@dale29.example.co.uk",
+  "opened_at": "2026-08-04T05:00:00",
+  "resolved_at": null,
+  "csat": 1
+ },
+ {
+  "ticket_id": 5154,
+  "client": 29,
+  "priority": "P3",
+  "category": "Connectivity",
+  "summary": "Connectivity issue reported by contact29@dale29.example.co.uk",
+  "opened_at": "2026-08-11T23:00:00",
+  "resolved_at": "2026-08-13T10:42:44",
+  "csat": 1
+ },
+ {
+  "ticket_id": 5155,
+  "client": 29,
+  "priority": "P2",
+  "category": "Billing query",
+  "summary": "Billing query issue reported by contact29@dale29.example.co.uk",
+  "opened_at": "2026-07-31T08:00:00",
+  "resolved_at": "2026-07-31T10:55:04",
+  "csat": 3
+ },
+ {
+  "ticket_id": 5156,
+  "client": 29,
+  "priority": "P2",
+  "category": "Email",
+  "summary": "Email issue reported by contact29@dale29.example.co.uk",
+  "opened_at": "2026-07-28T15:00:00",
+  "resolved_at": "2026-07-29T09:27:40",
+  "csat": 2
+ },
+ {
+  "ticket_id": 5157,
+  "client": 29,
+  "priority": "P2",
+  "category": "Billing query",
+  "summary": "Billing query issue reported by contact29@dale29.example.co.uk",
+  "opened_at": "2026-06-20T12:00:00",
+  "resolved_at": "2026-06-21T04:28:49",
+  "csat": null
+ },
+ {
+  "ticket_id": 5158,
+  "client": 29,
+  "priority": "P4",
+  "category": "Email",
+  "summary": "Email issue reported by contact29@dale29.example.co.uk",
+  "opened_at": "2026-05-30T00:00:00",
+  "resolved_at": "2026-06-02T18:35:10",
+  "csat": null
+ },
+ {
+  "ticket_id": 5159,
+  "client": 29,
+  "priority": "P3",
+  "category": "Hosting",
+  "summary": "Hosting issue reported by contact29@dale29.example.co.uk",
+  "opened_at": "2026-08-16T16:00:00",
+  "resolved_at": "2026-08-18T07:18:54",
+  "csat": null
+ },
+ {
+  "ticket_id": 5160,
+  "client": 29,
+  "priority": "P3",
+  "category": "Connectivity",
+  "summary": "Connectivity issue reported by contact29@dale29.example.co.uk",
+  "opened_at": "2026-08-26T02:00:00",
+  "resolved_at": "2026-08-27T13:02:48",
+  "csat": 2
+ },
+ {
+  "ticket_id": 5161,
+  "client": 29,
+  "priority": "P4",
+  "category": "Email",
+  "summary": "Email issue reported by contact29@dale29.example.co.uk",
+  "opened_at": "2026-05-27T12:00:00",
+  "resolved_at": "2026-05-30T06:35:38",
+  "csat": null
+ },
+ {
+  "ticket_id": 5162,
+  "client": 30,
+  "priority": "P4",
+  "category": "Hosting",
+  "summary": "Hosting issue reported by contact30@dale30.example.co.uk",
+  "opened_at": "2026-09-11T11:00:00",
+  "resolved_at": "2026-09-12T01:49:04",
+  "csat": 4
+ },
+ {
+  "ticket_id": 5163,
+  "client": 30,
+  "priority": "P3",
+  "category": "Connectivity",
+  "summary": "Connectivity issue reported by contact30@dale30.example.co.uk",
+  "opened_at": "2026-07-02T08:00:00",
+  "resolved_at": "2026-07-02T17:54:39",
+  "csat": 5
+ },
+ {
+  "ticket_id": 5164,
+  "client": 30,
+  "priority": "P3",
+  "category": "Billing query",
+  "summary": "Billing query issue reported by contact30@dale30.example.co.uk",
+  "opened_at": "2026-07-28T17:00:00",
+  "resolved_at": "2026-07-29T02:46:22",
+  "csat": 5
+ },
+ {
+  "ticket_id": 5165,
+  "client": 30,
+  "priority": "P3",
+  "category": "VoIP",
+  "summary": "VoIP issue reported by contact30@dale30.example.co.uk",
+  "opened_at": "2026-08-23T16:00:00",
+  "resolved_at": "2026-08-23T21:24:22",
+  "csat": 3
+ },
+ {
+  "ticket_id": 5166,
+  "client": 33,
+  "priority": "P3",
+  "category": "Connectivity",
+  "summary": "Connectivity issue reported by contact33@dale33.example.co.uk",
+  "opened_at": "2026-09-06T04:00:00",
+  "resolved_at": "2026-09-06T20:48:13",
+  "csat": null
+ },
+ {
+  "ticket_id": 5167,
+  "client": 33,
+  "priority": "P4",
+  "category": "Hosting",
+  "summary": "Hosting issue reported by contact33@dale33.example.co.uk",
+  "opened_at": "2026-06-13T19:00:00",
+  "resolved_at": "2026-06-14T20:41:45",
+  "csat": null
+ },
+ {
+  "ticket_id": 5168,
+  "client": 33,
+  "priority": "P3",
+  "category": "Connectivity",
+  "summary": "Connectivity issue reported by contact33@dale33.example.co.uk",
+  "opened_at": "2026-07-13T01:00:00",
+  "resolved_at": "2026-07-13T18:14:38",
+  "csat": 4
+ },
+ {
+  "ticket_id": 5169,
+  "client": 33,
+  "priority": "P4",
+  "category": "Email",
+  "summary": "Email issue reported by contact33@dale33.example.co.uk",
+  "opened_at": "2026-08-24T16:00:00",
+  "resolved_at": null,
+  "csat": null
+ },
+ {
+  "ticket_id": 5170,
+  "client": 33,
+  "priority": "P2",
+  "category": "Hardware",
+  "summary": "Hardware issue reported by contact33@dale33.example.co.uk",
+  "opened_at": "2026-05-28T00:00:00",
+  "resolved_at": "2026-05-28T03:38:28",
+  "csat": 3
+ },
+ {
+  "ticket_id": 5171,
+  "client": 33,
+  "priority": "P2",
+  "category": "Hosting",
+  "summary": "Hosting issue reported by contact33@dale33.example.co.uk",
+  "opened_at": "2026-08-15T13:00:00",
+  "resolved_at": "2026-08-15T17:06:28",
+  "csat": 3
+ },
+ {
+  "ticket_id": 5172,
+  "client": 34,
+  "priority": "P4",
+  "category": "Security",
+  "summary": "Security issue reported by contact34@dale34.example.co.uk",
+  "opened_at": "2026-08-09T23:00:00",
+  "resolved_at": "2026-08-10T17:56:36",
+  "csat": 5
+ },
+ {
+  "ticket_id": 5173,
+  "client": 36,
+  "priority": "P2",
+  "category": "Connectivity",
+  "summary": "Connectivity issue reported by contact36@dale36.example.co.uk",
+  "opened_at": "2026-09-09T15:00:00",
+  "resolved_at": "2026-09-10T00:46:36",
+  "csat": 3
+ },
+ {
+  "ticket_id": 5174,
+  "client": 36,
+  "priority": "P1",
+  "category": "Hosting",
+  "summary": "Hosting issue reported by contact36@dale36.example.co.uk",
+  "opened_at": "2026-09-05T00:00:00",
+  "resolved_at": "2026-09-05T00:25:28",
+  "csat": null
+ },
+ {
+  "ticket_id": 5175,
+  "client": 36,
+  "priority": "P4",
+  "category": "Security",
+  "summary": "Security issue reported by contact36@dale36.example.co.uk",
+  "opened_at": "2026-08-06T08:00:00",
+  "resolved_at": "2026-08-12T14:20:46",
+  "csat": 2
+ },
+ {
+  "ticket_id": 5176,
+  "client": 36,
+  "priority": "P3",
+  "category": "Email",
+  "summary": "Email issue reported by contact36@dale36.example.co.uk",
+  "opened_at": "2026-04-28T11:00:00",
+  "resolved_at": "2026-04-28T20:23:55",
+  "csat": 3
+ },
+ {
+  "ticket_id": 5177,
+  "client": 36,
+  "priority": "P3",
+  "category": "Security",
+  "summary": "Security issue reported by contact36@dale36.example.co.uk",
+  "opened_at": "2026-06-19T12:00:00",
+  "resolved_at": "2026-06-20T08:12:38",
+  "csat": 3
+ },
+ {
+  "ticket_id": 5178,
+  "client": 36,
+  "priority": "P4",
+  "category": "Connectivity",
+  "summary": "Connectivity issue reported by contact36@dale36.example.co.uk",
+  "opened_at": "2026-06-19T01:00:00",
+  "resolved_at": "2026-06-19T09:46:17",
+  "csat": null
+ },
+ {
+  "ticket_id": 5179,
+  "client": 36,
+  "priority": "P3",
+  "category": "Hardware",
+  "summary": "Hardware issue reported by contact36@dale36.example.co.uk",
+  "opened_at": "2026-04-03T17:00:00",
+  "resolved_at": "2026-04-04T08:50:27",
+  "csat": 1
+ },
+ {
+  "ticket_id": 5180,
+  "client": 36,
+  "priority": "P1",
+  "category": "Security",
+  "summary": "Security issue reported by contact36@dale36.example.co.uk",
+  "opened_at": "2026-04-19T14:00:00",
+  "resolved_at": "2026-04-19T18:44:51",
+  "csat": 1
+ },
+ {
+  "ticket_id": 5181,
+  "client": 36,
+  "priority": "P3",
+  "category": "Hardware",
+  "summary": "Hardware issue reported by contact36@dale36.example.co.uk",
+  "opened_at": "2026-04-27T09:00:00",
+  "resolved_at": "2026-04-27T13:03:35",
+  "csat": 2
+ },
+ {
+  "ticket_id": 5182,
+  "client": 36,
+  "priority": "P4",
+  "category": "VoIP",
+  "summary": "VoIP issue reported by contact36@dale36.example.co.uk",
+  "opened_at": "2026-04-14T02:00:00",
+  "resolved_at": "2026-04-15T03:11:03",
+  "csat": 3
+ },
+ {
+  "ticket_id": 5183,
+  "client": 36,
+  "priority": "P2",
+  "category": "Billing query",
+  "summary": "Billing query issue reported by contact36@dale36.example.co.uk",
+  "opened_at": "2026-05-23T23:00:00",
+  "resolved_at": "2026-05-24T01:50:57",
+  "csat": 2
+ },
+ {
+  "ticket_id": 5184,
+  "client": 36,
+  "priority": "P4",
+  "category": "VoIP",
+  "summary": "VoIP issue reported by contact36@dale36.example.co.uk",
+  "opened_at": "2026-08-17T10:00:00",
+  "resolved_at": "2026-08-19T02:17:19",
+  "csat": 3
+ },
+ {
+  "ticket_id": 5185,
+  "client": 37,
+  "priority": "P3",
+  "category": "Email",
+  "summary": "Email issue reported by contact37@dale37.example.co.uk",
+  "opened_at": "2026-09-07T21:00:00",
+  "resolved_at": "2026-09-08T02:40:07",
+  "csat": 3
+ },
+ {
+  "ticket_id": 5186,
+  "client": 37,
+  "priority": "P3",
+  "category": "VoIP",
+  "summary": "VoIP issue reported by contact37@dale37.example.co.uk",
+  "opened_at": "2026-07-26T03:00:00",
+  "resolved_at": "2026-07-26T07:54:40",
+  "csat": 4
+ },
+ {
+  "ticket_id": 5187,
+  "client": 37,
+  "priority": "P3",
+  "category": "Hosting",
+  "summary": "Hosting issue reported by contact37@dale37.example.co.uk",
+  "opened_at": "2026-09-06T02:00:00",
+  "resolved_at": null,
+  "csat": null
+ },
+ {
+  "ticket_id": 5188,
+  "client": 37,
+  "priority": "P3",
+  "category": "Security",
+  "summary": "Security issue reported by contact37@dale37.example.co.uk",
+  "opened_at": "2026-06-24T04:00:00",
+  "resolved_at": "2026-06-24T23:51:54",
+  "csat": null
+ },
+ {
+  "ticket_id": 5189,
+  "client": 37,
+  "priority": "P2",
+  "category": "VoIP",
+  "summary": "VoIP issue reported by contact37@dale37.example.co.uk",
+  "opened_at": "2026-07-17T22:00:00",
+  "resolved_at": "2026-07-18T02:49:37",
+  "csat": null
+ },
+ {
+  "ticket_id": 5190,
+  "client": 38,
+  "priority": "P4",
+  "category": "Connectivity",
+  "summary": "Connectivity issue reported by contact38@dale38.example.co.uk",
+  "opened_at": "2026-08-28T14:00:00",
+  "resolved_at": "2026-08-28T21:18:09",
+  "csat": null
+ },
+ {
+  "ticket_id": 5191,
+  "client": 38,
+  "priority": "P3",
+  "category": "Security",
+  "summary": "Security issue reported by contact38@dale38.example.co.uk",
+  "opened_at": "2026-06-22T11:00:00",
+  "resolved_at": "2026-06-23T03:15:27",
+  "csat": 5
+ },
+ {
+  "ticket_id": 5192,
+  "client": 39,
+  "priority": "P1",
+  "category": "Security",
+  "summary": "Security issue reported by contact39@dale39.example.co.uk",
+  "opened_at": "2026-09-02T12:00:00",
+  "resolved_at": "2026-09-02T13:28:26",
+  "csat": 4
+ },
+ {
+  "ticket_id": 5193,
+  "client": 40,
+  "priority": "P2",
+  "category": "Security",
+  "summary": "Security issue reported by contact40@dale40.example.co.uk",
+  "opened_at": "2026-08-23T05:00:00",
+  "resolved_at": "2026-08-23T11:34:26",
+  "csat": 2
+ },
+ {
+  "ticket_id": 5194,
+  "client": 40,
+  "priority": "P2",
+  "category": "Hardware",
+  "summary": "Hardware issue reported by contact40@dale40.example.co.uk",
+  "opened_at": "2026-05-24T02:00:00",
+  "resolved_at": "2026-05-24T07:36:15",
+  "csat": null
+ },
+ {
+  "ticket_id": 5195,
+  "client": 40,
+  "priority": "P4",
+  "category": "VoIP",
+  "summary": "VoIP issue reported by contact40@dale40.example.co.uk",
+  "opened_at": "2026-07-17T02:00:00",
+  "resolved_at": "2026-07-25T00:02:12",
+  "csat": null
+ },
+ {
+  "ticket_id": 5196,
+  "client": 40,
+  "priority": "P4",
+  "category": "Security",
+  "summary": "Security issue reported by contact40@dale40.example.co.uk",
+  "opened_at": "2026-08-03T02:00:00",
+  "resolved_at": "2026-08-05T08:41:36",
+  "csat": null
+ },
+ {
+  "ticket_id": 5197,
+  "client": 40,
+  "priority": "P4",
+  "category": "Billing query",
+  "summary": "Billing query issue reported by contact40@dale40.example.co.uk",
+  "opened_at": "2026-04-14T19:00:00",
+  "resolved_at": "2026-04-15T22:50:58",
+  "csat": null
+ },
+ {
+  "ticket_id": 5198,
+  "client": 40,
+  "priority": "P2",
+  "category": "VoIP",
+  "summary": "VoIP issue reported by contact40@dale40.example.co.uk",
+  "opened_at": "2026-06-21T12:00:00",
+  "resolved_at": "2026-06-21T14:43:12",
+  "csat": 1
+ },
+ {
+  "ticket_id": 5199,
+  "client": 40,
+  "priority": "P4",
+  "category": "Security",
+  "summary": "Security issue reported by contact40@dale40.example.co.uk",
+  "opened_at": "2026-08-27T14:00:00",
+  "resolved_at": "2026-08-29T22:28:13",
+  "csat": null
+ },
+ {
+  "ticket_id": 5200,
+  "client": 40,
+  "priority": "P3",
+  "category": "VoIP",
+  "summary": "VoIP issue reported by contact40@dale40.example.co.uk",
+  "opened_at": "2026-04-15T19:00:00",
+  "resolved_at": "2026-04-17T19:23:57",
+  "csat": 1
+ },
+ {
+  "ticket_id": 5201,
+  "client": 40,
+  "priority": "P3",
+  "category": "Security",
+  "summary": "Security issue reported by contact40@dale40.example.co.uk",
+  "opened_at": "2026-04-17T00:00:00",
+  "resolved_at": "2026-04-17T04:28:47",
+  "csat": null
+ },
+ {
+  "ticket_id": 5202,
+  "client": 40,
+  "priority": "P4",
+  "category": "Hardware",
+  "summary": "Hardware issue reported by contact40@dale40.example.co.uk",
+  "opened_at": "2026-06-12T03:00:00",
+  "resolved_at": "2026-06-12T16:04:41",
+  "csat": null
+ },
+ {
+  "ticket_id": 5203,
+  "client": 40,
+  "priority": "P3",
+  "category": "Billing query",
+  "summary": "Billing query issue reported by contact40@dale40.example.co.uk",
+  "opened_at": "2026-05-21T04:00:00",
+  "resolved_at": "2026-05-22T13:10:28",
+  "csat": null
+ },
+ {
+  "ticket_id": 5204,
+  "client": 40,
+  "priority": "P3",
+  "category": "Billing query",
+  "summary": "Billing query issue reported by contact40@dale40.example.co.uk",
+  "opened_at": "2026-07-30T12:00:00",
+  "resolved_at": "2026-07-31T09:52:22",
+  "csat": 3
+ },
+ {
+  "ticket_id": 5205,
+  "client": 40,
+  "priority": "P4",
+  "category": "Email",
+  "summary": "Email issue reported by contact40@dale40.example.co.uk",
+  "opened_at": "2026-04-14T22:00:00",
+  "resolved_at": "2026-04-16T20:59:56",
+  "csat": 1
+ },
+ {
+  "ticket_id": 5206,
+  "client": 40,
+  "priority": "P2",
+  "category": "Hosting",
+  "summary": "Hosting issue reported by contact40@dale40.example.co.uk",
+  "opened_at": "2026-08-30T21:00:00",
+  "resolved_at": "2026-08-31T02:20:52",
+  "csat": 3
+ },
+ {
+  "ticket_id": 5207,
+  "client": 40,
+  "priority": "P3",
+  "category": "Hardware",
+  "summary": "Hardware issue reported by contact40@dale40.example.co.uk",
+  "opened_at": "2026-05-30T16:00:00",
+  "resolved_at": "2026-06-01T21:26:07",
+  "csat": 2
+ },
+ {
+  "ticket_id": 5208,
+  "client": 40,
+  "priority": "P2",
+  "category": "Security",
+  "summary": "Security issue reported by contact40@dale40.example.co.uk",
+  "opened_at": "2026-07-15T06:00:00",
+  "resolved_at": "2026-07-16T01:38:57",
+  "csat": null
+ },
+ {
+  "ticket_id": 5209,
+  "client": 41,
+  "priority": "P3",
+  "category": "Hosting",
+  "summary": "Hosting issue reported by contact41@dale41.example.co.uk",
+  "opened_at": "2026-04-04T00:00:00",
+  "resolved_at": "2026-04-04T18:22:58",
+  "csat": 5
+ },
+ {
+  "ticket_id": 5210,
+  "client": 41,
+  "priority": "P4",
+  "category": "VoIP",
+  "summary": "VoIP issue reported by contact41@dale41.example.co.uk",
+  "opened_at": "2026-05-15T02:00:00",
+  "resolved_at": "2026-05-17T07:18:52",
+  "csat": 3
+ },
+ {
+  "ticket_id": 5211,
+  "client": 41,
+  "priority": "P2",
+  "category": "Connectivity",
+  "summary": "Connectivity issue reported by contact41@dale41.example.co.uk",
+  "opened_at": "2026-04-29T02:00:00",
+  "resolved_at": null,
+  "csat": 5
+ },
+ {
+  "ticket_id": 5212,
+  "client": 41,
+  "priority": "P3",
+  "category": "Connectivity",
+  "summary": "Connectivity issue reported by contact41@dale41.example.co.uk",
+  "opened_at": "2026-08-19T22:00:00",
+  "resolved_at": "2026-08-20T01:06:50",
+  "csat": null
+ },
+ {
+  "ticket_id": 5213,
+  "client": 41,
+  "priority": "P3",
+  "category": "Email",
+  "summary": "Email issue reported by contact41@dale41.example.co.uk",
+  "opened_at": "2026-05-13T19:00:00",
+  "resolved_at": null,
+  "csat": 4
+ },
+ {
+  "ticket_id": 5214,
+  "client": 41,
+  "priority": "P3",
+  "category": "Hosting",
+  "summary": "Hosting issue reported by contact41@dale41.example.co.uk",
+  "opened_at": "2026-04-14T07:00:00",
+  "resolved_at": "2026-04-14T23:34:48",
+  "csat": 5
+ },
+ {
+  "ticket_id": 5215,
+  "client": 42,
+  "priority": "P3",
+  "category": "Connectivity",
+  "summary": "Connectivity issue reported by contact42@harbour42.example.co.uk",
+  "opened_at": "2026-05-22T18:00:00",
+  "resolved_at": "2026-05-22T21:18:45",
+  "csat": null
+ },
+ {
+  "ticket_id": 5216,
+  "client": 42,
+  "priority": "P3",
+  "category": "VoIP",
+  "summary": "VoIP issue reported by contact42@harbour42.example.co.uk",
+  "opened_at": "2026-08-05T20:00:00",
+  "resolved_at": "2026-08-06T05:43:29",
+  "csat": 5
+ },
+ {
+  "ticket_id": 5217,
+  "client": 42,
+  "priority": "P3",
+  "category": "Connectivity",
+  "summary": "Connectivity issue reported by contact42@harbour42.example.co.uk",
+  "opened_at": "2026-07-26T16:00:00",
+  "resolved_at": "2026-07-27T02:33:40",
+  "csat": 5
+ },
+ {
+  "ticket_id": 5218,
+  "client": 42,
+  "priority": "P2",
+  "category": "Billing query",
+  "summary": "Billing query issue reported by contact42@harbour42.example.co.uk",
+  "opened_at": "2026-08-24T07:00:00",
+  "resolved_at": "2026-08-24T09:37:54",
+  "csat": null
+ },
+ {
+  "ticket_id": 5219,
+  "client": 43,
+  "priority": "P3",
+  "category": "Security",
+  "summary": "Security issue reported by contact43@harbour43.example.co.uk",
+  "opened_at": "2026-05-08T03:00:00",
+  "resolved_at": "2026-05-08T08:44:47",
+  "csat": 4
+ },
+ {
+  "ticket_id": 5220,
+  "client": 43,
+  "priority": "P4",
+  "category": "Hosting",
+  "summary": "Hosting issue reported by contact43@harbour43.example.co.uk",
+  "opened_at": "2026-06-25T00:00:00",
+  "resolved_at": "2026-06-25T23:43:53",
+  "csat": 3
+ },
+ {
+  "ticket_id": 5221,
+  "client": 44,
+  "priority": "P3",
+  "category": "Security",
+  "summary": "Security issue reported by contact44@harbour44.example.co.uk",
+  "opened_at": "2026-04-19T22:00:00",
+  "resolved_at": "2026-04-20T05:58:27",
+  "csat": null
+ },
+ {
+  "ticket_id": 5222,
+  "client": 44,
+  "priority": "P4",
+  "category": "Security",
+  "summary": "Security issue reported by contact44@harbour44.example.co.uk",
+  "opened_at": "2026-09-04T12:00:00",
+  "resolved_at": "2026-09-07T05:26:56",
+  "csat": null
+ },
+ {
+  "ticket_id": 5223,
+  "client": 45,
+  "priority": "P2",
+  "category": "Email",
+  "summary": "Email issue reported by contact45@harbour45.example.co.uk",
+  "opened_at": "2026-05-02T09:00:00",
+  "resolved_at": "2026-05-03T02:29:48",
+  "csat": 1
+ },
+ {
+  "ticket_id": 5224,
+  "client": 45,
+  "priority": "P4",
+  "category": "Billing query",
+  "summary": "Billing query issue reported by contact45@harbour45.example.co.uk",
+  "opened_at": "2026-08-17T14:00:00",
+  "resolved_at": "2026-08-22T20:25:10",
+  "csat": 3
+ },
+ {
+  "ticket_id": 5225,
+  "client": 45,
+  "priority": "P3",
+  "category": "Hosting",
+  "summary": "Hosting issue reported by contact45@harbour45.example.co.uk",
+  "opened_at": "2026-04-30T12:00:00",
+  "resolved_at": "2026-05-01T14:49:59",
+  "csat": 1
+ },
+ {
+  "ticket_id": 5226,
+  "client": 45,
+  "priority": "P4",
+  "category": "Email",
+  "summary": "Email issue reported by contact45@harbour45.example.co.uk",
+  "opened_at": "2026-06-25T06:00:00",
+  "resolved_at": "2026-07-02T16:26:14",
+  "csat": null
+ },
+ {
+  "ticket_id": 5227,
+  "client": 45,
+  "priority": "P3",
+  "category": "Security",
+  "summary": "Security issue reported by contact45@harbour45.example.co.uk",
+  "opened_at": "2026-04-27T11:00:00",
+  "resolved_at": "2026-04-30T10:22:22",
+  "csat": null
+ },
+ {
+  "ticket_id": 5228,
+  "client": 45,
+  "priority": "P4",
+  "category": "Email",
+  "summary": "Email issue reported by contact45@harbour45.example.co.uk",
+  "opened_at": "2026-06-12T08:00:00",
+  "resolved_at": "2026-06-14T17:01:05",
+  "csat": null
+ },
+ {
+  "ticket_id": 5229,
+  "client": 45,
+  "priority": "P4",
+  "category": "Connectivity",
+  "summary": "Connectivity issue reported by contact45@harbour45.example.co.uk",
+  "opened_at": "2026-07-13T11:00:00",
+  "resolved_at": "2026-07-15T09:02:31",
+  "csat": 1
+ },
+ {
+  "ticket_id": 5230,
+  "client": 45,
+  "priority": "P2",
+  "category": "Security",
+  "summary": "Security issue reported by contact45@harbour45.example.co.uk",
+  "opened_at": "2026-05-05T23:00:00",
+  "resolved_at": "2026-05-06T21:55:47",
+  "csat": 2
+ },
+ {
+  "ticket_id": 5231,
+  "client": 45,
+  "priority": "P4",
+  "category": "Billing query",
+  "summary": "Billing query issue reported by contact45@harbour45.example.co.uk",
+  "opened_at": "2026-04-09T08:00:00",
+  "resolved_at": "2026-04-15T11:17:59",
+  "csat": 3
+ },
+ {
+  "ticket_id": 5232,
+  "client": 45,
+  "priority": "P1",
+  "category": "Connectivity",
+  "summary": "Connectivity issue reported by contact45@harbour45.example.co.uk",
+  "opened_at": "2026-08-29T12:00:00",
+  "resolved_at": "2026-08-29T22:43:07",
+  "csat": 3
+ },
+ {
+  "ticket_id": 5233,
+  "client": 45,
+  "priority": "P4",
+  "category": "Hosting",
+  "summary": "Hosting issue reported by contact45@harbour45.example.co.uk",
+  "opened_at": "2026-07-03T17:00:00",
+  "resolved_at": "2026-07-06T08:31:55",
+  "csat": null
+ },
+ {
+  "ticket_id": 5234,
+  "client": 45,
+  "priority": "P3",
+  "category": "VoIP",
+  "summary": "VoIP issue reported by contact45@harbour45.example.co.uk",
+  "opened_at": "2026-06-07T19:00:00",
+  "resolved_at": "2026-06-08T08:04:47",
+  "csat": null
+ },
+ {
+  "ticket_id": 5235,
+  "client": 45,
+  "priority": "P3",
+  "category": "VoIP",
+  "summary": "VoIP issue reported by contact45@harbour45.example.co.uk",
+  "opened_at": "2026-08-26T08:00:00",
+  "resolved_at": "2026-08-28T08:59:42",
+  "csat": null
+ },
+ {
+  "ticket_id": 5236,
+  "client": 46,
+  "priority": "P3",
+  "category": "Connectivity",
+  "summary": "Connectivity issue reported by contact46@harbour46.example.co.uk",
+  "opened_at": "2026-05-14T21:00:00",
+  "resolved_at": "2026-05-15T04:48:03",
+  "csat": 1
+ },
+ {
+  "ticket_id": 5237,
+  "client": 46,
+  "priority": "P3",
+  "category": "Hosting",
+  "summary": "Hosting issue reported by contact46@harbour46.example.co.uk",
+  "opened_at": "2026-07-13T04:00:00",
+  "resolved_at": "2026-07-14T01:28:56",
+  "csat": null
+ },
+ {
+  "ticket_id": 5238,
+  "client": 46,
+  "priority": "P3",
+  "category": "Email",
+  "summary": "Email issue reported by contact46@harbour46.example.co.uk",
+  "opened_at": "2026-09-28T05:00:00",
+  "resolved_at": "2026-09-29T12:17:12",
+  "csat": null
+ },
+ {
+  "ticket_id": 5239,
+  "client": 46,
+  "priority": "P2",
+  "category": "Hosting",
+  "summary": "Hosting issue reported by contact46@harbour46.example.co.uk",
+  "opened_at": "2026-07-02T00:00:00",
+  "resolved_at": "2026-07-02T01:22:34",
+  "csat": 2
+ },
+ {
+  "ticket_id": 5240,
+  "client": 46,
+  "priority": "P4",
+  "category": "Email",
+  "summary": "Email issue reported by contact46@harbour46.example.co.uk",
+  "opened_at": "2026-09-28T20:00:00",
+  "resolved_at": "2026-10-04T19:35:29",
+  "csat": 1
+ },
+ {
+  "ticket_id": 5241,
+  "client": 46,
+  "priority": "P2",
+  "category": "VoIP",
+  "summary": "VoIP issue reported by contact46@harbour46.example.co.uk",
+  "opened_at": "2026-05-15T16:00:00",
+  "resolved_at": "2026-05-16T13:33:29",
+  "csat": 1
+ },
+ {
+  "ticket_id": 5242,
+  "client": 46,
+  "priority": "P2",
+  "category": "Hardware",
+  "summary": "Hardware issue reported by contact46@harbour46.example.co.uk",
+  "opened_at": "2026-06-30T02:00:00",
+  "resolved_at": "2026-06-30T11:24:42",
+  "csat": null
+ },
+ {
+  "ticket_id": 5243,
+  "client": 46,
+  "priority": "P3",
+  "category": "Email",
+  "summary": "Email issue reported by contact46@harbour46.example.co.uk",
+  "opened_at": "2026-09-21T19:00:00",
+  "resolved_at": "2026-09-22T16:58:40",
+  "csat": 2
+ },
+ {
+  "ticket_id": 5244,
+  "client": 46,
+  "priority": "P2",
+  "category": "Hardware",
+  "summary": "Hardware issue reported by contact46@harbour46.example.co.uk",
+  "opened_at": "2026-04-08T02:00:00",
+  "resolved_at": "2026-04-08T08:06:22",
+  "csat": 2
+ },
+ {
+  "ticket_id": 5245,
+  "client": 46,
+  "priority": "P4",
+  "category": "Email",
+  "summary": "Email issue reported by contact46@harbour46.example.co.uk",
+  "opened_at": "2026-08-27T21:00:00",
+  "resolved_at": "2026-08-28T11:55:07",
+  "csat": 1
+ },
+ {
+  "ticket_id": 5246,
+  "client": 46,
+  "priority": "P4",
+  "category": "Connectivity",
+  "summary": "Connectivity issue reported by contact46@harbour46.example.co.uk",
+  "opened_at": "2026-09-16T03:00:00",
+  "resolved_at": "2026-09-22T19:52:53",
+  "csat": null
+ },
+ {
+  "ticket_id": 5247,
+  "client": 46,
+  "priority": "P4",
+  "category": "Hosting",
+  "summary": "Hosting issue reported by contact46@harbour46.example.co.uk",
+  "opened_at": "2026-05-28T22:00:00",
+  "resolved_at": "2026-06-02T02:03:41",
+  "csat": null
+ },
+ {
+  "ticket_id": 5248,
+  "client": 48,
+  "priority": "P2",
+  "category": "Billing query",
+  "summary": "Billing query issue reported by contact48@harbour48.example.co.uk",
+  "opened_at": "2026-07-24T02:00:00",
+  "resolved_at": "2026-07-24T04:08:57",
+  "csat": null
+ },
+ {
+  "ticket_id": 5249,
+  "client": 48,
+  "priority": "P2",
+  "category": "Billing query",
+  "summary": "Billing query issue reported by contact48@harbour48.example.co.uk",
+  "opened_at": "2026-05-24T05:00:00",
+  "resolved_at": "2026-05-24T09:49:12",
+  "csat": null
+ },
+ {
+  "ticket_id": 5250,
+  "client": 48,
+  "priority": "P2",
+  "category": "Connectivity",
+  "summary": "Connectivity issue reported by contact48@harbour48.example.co.uk",
+  "opened_at": "2026-06-19T23:00:00",
+  "resolved_at": "2026-06-20T00:47:39",
+  "csat": null
+ },
+ {
+  "ticket_id": 5251,
+  "client": 48,
+  "priority": "P3",
+  "category": "VoIP",
+  "summary": "VoIP issue reported by contact48@harbour48.example.co.uk",
+  "opened_at": "2026-09-16T12:00:00",
+  "resolved_at": "2026-09-17T03:19:10",
+  "csat": 3
+ },
+ {
+  "ticket_id": 5252,
+  "client": 48,
+  "priority": "P3",
+  "category": "Email",
+  "summary": "Email issue reported by contact48@harbour48.example.co.uk",
+  "opened_at": "2026-05-22T11:00:00",
+  "resolved_at": "2026-05-22T18:53:33",
+  "csat": 3
+ },
+ {
+  "ticket_id": 5253,
+  "client": 48,
+  "priority": "P2",
+  "category": "Email",
+  "summary": "Email issue reported by contact48@harbour48.example.co.uk",
+  "opened_at": "2026-07-10T23:00:00",
+  "resolved_at": "2026-07-11T17:50:18",
+  "csat": 5
+ },
+ {
+  "ticket_id": 5254,
+  "client": 50,
+  "priority": "P4",
+  "category": "Connectivity",
+  "summary": "Connectivity issue reported by contact50@harbour50.example.co.uk",
+  "opened_at": "2026-08-13T16:00:00",
+  "resolved_at": "2026-08-14T17:49:35",
+  "csat": 3
+ },
+ {
+  "ticket_id": 5255,
+  "client": 50,
+  "priority": "P4",
+  "category": "Hosting",
+  "summary": "Hosting issue reported by contact50@harbour50.example.co.uk",
+  "opened_at": "2026-07-07T13:00:00",
+  "resolved_at": "2026-07-09T19:51:47",
+  "csat": null
+ },
+ {
+  "ticket_id": 5256,
+  "client": 50,
+  "priority": "P3",
+  "category": "Billing query",
+  "summary": "Billing query issue reported by contact50@harbour50.example.co.uk",
+  "opened_at": "2026-07-21T18:00:00",
+  "resolved_at": "2026-07-23T01:15:00",
+  "csat": null
+ },
+ {
+  "ticket_id": 5257,
+  "client": 51,
+  "priority": "P2",
+  "category": "Hosting",
+  "summary": "Hosting issue reported by contact51@harbour51.example.co.uk",
+  "opened_at": "2026-04-15T18:00:00",
+  "resolved_at": "2026-04-15T19:28:14",
+  "csat": null
+ },
+ {
+  "ticket_id": 5258,
+  "client": 51,
+  "priority": "P3",
+  "category": "Hardware",
+  "summary": "Hardware issue reported by contact51@harbour51.example.co.uk",
+  "opened_at": "2026-05-31T18:00:00",
+  "resolved_at": "2026-05-31T23:00:27",
+  "csat": null
+ },
+ {
+  "ticket_id": 5259,
+  "client": 51,
+  "priority": "P4",
+  "category": "Hardware",
+  "summary": "Hardware issue reported by contact51@harbour51.example.co.uk",
+  "opened_at": "2026-05-09T13:00:00",
+  "resolved_at": null,
+  "csat": 5
+ },
+ {
+  "ticket_id": 5260,
+  "client": 51,
+  "priority": "P3",
+  "category": "Connectivity",
+  "summary": "Connectivity issue reported by contact51@harbour51.example.co.uk",
+  "opened_at": "2026-09-24T19:00:00",
+  "resolved_at": "2026-09-25T00:01:48",
+  "csat": null
+ },
+ {
+  "ticket_id": 5261,
+  "client": 52,
+  "priority": "P3",
+  "category": "VoIP",
+  "summary": "VoIP issue reported by contact52@harbour52.example.co.uk",
+  "opened_at": "2026-06-20T09:00:00",
+  "resolved_at": "2026-06-21T07:13:09",
+  "csat": 3
+ },
+ {
+  "ticket_id": 5262,
+  "client": 52,
+  "priority": "P3",
+  "category": "Hosting",
+  "summary": "Hosting issue reported by contact52@harbour52.example.co.uk",
+  "opened_at": "2026-06-22T12:00:00",
+  "resolved_at": "2026-06-23T14:33:51",
+  "csat": 3
+ },
+ {
+  "ticket_id": 5263,
+  "client": 52,
+  "priority": "P3",
+  "category": "VoIP",
+  "summary": "VoIP issue reported by contact52@harbour52.example.co.uk",
+  "opened_at": "2026-06-05T08:00:00",
+  "resolved_at": "2026-06-05T16:35:22",
+  "csat": null
+ },
+ {
+  "ticket_id": 5264,
+  "client": 52,
+  "priority": "P2",
+  "category": "Billing query",
+  "summary": "Billing query issue reported by contact52@harbour52.example.co.uk",
+  "opened_at": "2026-08-30T19:00:00",
+  "resolved_at": "2026-08-30T21:47:04",
+  "csat": 1
+ },
+ {
+  "ticket_id": 5265,
+  "client": 52,
+  "priority": "P3",
+  "category": "Hosting",
+  "summary": "Hosting issue reported by contact52@harbour52.example.co.uk",
+  "opened_at": "2026-07-22T23:00:00",
+  "resolved_at": "2026-07-25T14:56:51",
+  "csat": 3
+ },
+ {
+  "ticket_id": 5266,
+  "client": 52,
+  "priority": "P3",
+  "category": "Email",
+  "summary": "Email issue reported by contact52@harbour52.example.co.uk",
+  "opened_at": "2026-04-28T13:00:00",
+  "resolved_at": "2026-04-29T09:25:59",
+  "csat": 3
+ },
+ {
+  "ticket_id": 5267,
+  "client": 52,
+  "priority": "P4",
+  "category": "Email",
+  "summary": "Email issue reported by contact52@harbour52.example.co.uk",
+  "opened_at": "2026-07-16T14:00:00",
+  "resolved_at": "2026-07-16T21:50:13",
+  "csat": 1
+ },
+ {
+  "ticket_id": 5268,
+  "client": 52,
+  "priority": "P3",
+  "category": "Security",
+  "summary": "Security issue reported by contact52@harbour52.example.co.uk",
+  "opened_at": "2026-07-27T00:00:00",
+  "resolved_at": "2026-07-27T18:16:29",
+  "csat": 3
+ },
+ {
+  "ticket_id": 5269,
+  "client": 52,
+  "priority": "P2",
+  "category": "VoIP",
+  "summary": "VoIP issue reported by contact52@harbour52.example.co.uk",
+  "opened_at": "2026-06-24T04:00:00",
+  "resolved_at": "2026-06-24T08:54:34",
+  "csat": null
+ },
+ {
+  "ticket_id": 5270,
+  "client": 52,
+  "priority": "P3",
+  "category": "VoIP",
+  "summary": "VoIP issue reported by contact52@harbour52.example.co.uk",
+  "opened_at": "2026-07-23T18:00:00",
+  "resolved_at": "2026-07-24T11:45:32",
+  "csat": 2
+ },
+ {
+  "ticket_id": 5271,
+  "client": 52,
+  "priority": "P4",
+  "category": "VoIP",
+  "summary": "VoIP issue reported by contact52@harbour52.example.co.uk",
+  "opened_at": "2026-06-27T20:00:00",
+  "resolved_at": "2026-07-02T04:01:51",
+  "csat": null
+ },
+ {
+  "ticket_id": 5272,
+  "client": 52,
+  "priority": "P4",
+  "category": "Email",
+  "summary": "Email issue reported by contact52@harbour52.example.co.uk",
+  "opened_at": "2026-05-07T09:00:00",
+  "resolved_at": "2026-05-12T06:47:01",
+  "csat": null
+ },
+ {
+  "ticket_id": 5273,
+  "client": 53,
+  "priority": "P2",
+  "category": "Hardware",
+  "summary": "Hardware issue reported by contact53@harbour53.example.co.uk",
+  "opened_at": "2026-04-07T05:00:00",
+  "resolved_at": "2026-04-07T08:41:58",
+  "csat": 3
+ },
+ {
+  "ticket_id": 5274,
+  "client": 53,
+  "priority": "P4",
+  "category": "Hardware",
+  "summary": "Hardware issue reported by contact53@harbour53.example.co.uk",
+  "opened_at": "2026-05-18T20:00:00",
+  "resolved_at": "2026-05-20T16:07:17",
+  "csat": null
+ },
+ {
+  "ticket_id": 5275,
+  "client": 53,
+  "priority": "P4",
+  "category": "Email",
+  "summary": "Email issue reported by contact53@harbour53.example.co.uk",
+  "opened_at": "2026-09-26T04:00:00",
+  "resolved_at": "2026-09-28T10:19:52",
+  "csat": 3
+ },
+ {
+  "ticket_id": 5276,
+  "client": 54,
+  "priority": "P3",
+  "category": "Connectivity",
+  "summary": "Connectivity issue reported by contact54@iron54.example.co.uk",
+  "opened_at": "2026-09-27T21:00:00",
+  "resolved_at": "2026-09-28T16:47:43",
+  "csat": 5
+ },
+ {
+  "ticket_id": 5277,
+  "client": 54,
+  "priority": "P3",
+  "category": "Hosting",
+  "summary": "Hosting issue reported by contact54@iron54.example.co.uk",
+  "opened_at": "2026-06-08T19:00:00",
+  "resolved_at": "2026-06-09T02:22:25",
+  "csat": 3
+ },
+ {
+  "ticket_id": 5278,
+  "client": 54,
+  "priority": "P2",
+  "category": "Security",
+  "summary": "Security issue reported by contact54@iron54.example.co.uk",
+  "opened_at": "2026-09-24T23:00:00",
+  "resolved_at": "2026-09-25T03:16:42",
+  "csat": null
+ },
+ {
+  "ticket_id": 5279,
+  "client": 54,
+  "priority": "P2",
+  "category": "Email",
+  "summary": "Email issue reported by contact54@iron54.example.co.uk",
+  "opened_at": "2026-08-04T00:00:00",
+  "resolved_at": "2026-08-04T03:12:09",
+  "csat": 4
+ },
+ {
+  "ticket_id": 5280,
+  "client": 54,
+  "priority": "P4",
+  "category": "Connectivity",
+  "summary": "Connectivity issue reported by contact54@iron54.example.co.uk",
+  "opened_at": "2026-04-07T02:00:00",
+  "resolved_at": "2026-04-07T19:34:37",
+  "csat": 4
+ },
+ {
+  "ticket_id": 5281,
+  "client": 54,
+  "priority": "P3",
+  "category": "Connectivity",
+  "summary": "Connectivity issue reported by contact54@iron54.example.co.uk",
+  "opened_at": "2026-06-30T22:00:00",
+  "resolved_at": "2026-07-01T19:14:08",
+  "csat": 3
+ },
+ {
+  "ticket_id": 5282,
+  "client": 55,
+  "priority": "P3",
+  "category": "Billing query",
+  "summary": "Billing query issue reported by contact55@iron55.example.co.uk",
+  "opened_at": "2026-05-17T14:00:00",
+  "resolved_at": "2026-05-17T19:27:52",
+  "csat": 4
+ },
+ {
+  "ticket_id": 5283,
+  "client": 55,
+  "priority": "P2",
+  "category": "Email",
+  "summary": "Email issue reported by contact55@iron55.example.co.uk",
+  "opened_at": "2026-07-02T21:00:00",
+  "resolved_at": "2026-07-03T00:18:35",
+  "csat": 3
+ },
+ {
+  "ticket_id": 5284,
+  "client": 55,
+  "priority": "P4",
+  "category": "Hardware",
+  "summary": "Hardware issue reported by contact55@iron55.example.co.uk",
+  "opened_at": "2026-09-29T20:00:00",
+  "resolved_at": "2026-09-30T12:14:38",
+  "csat": 4
+ },
+ {
+  "ticket_id": 5285,
+  "client": 56,
+  "priority": "P3",
+  "category": "Email",
+  "summary": "Email issue reported by contact56@iron56.example.co.uk",
+  "opened_at": "2026-09-01T06:00:00",
+  "resolved_at": "2026-09-01T11:21:04",
+  "csat": null
+ },
+ {
+  "ticket_id": 5286,
+  "client": 56,
+  "priority": "P3",
+  "category": "Hardware",
+  "summary": "Hardware issue reported by contact56@iron56.example.co.uk",
+  "opened_at": "2026-06-23T13:00:00",
+  "resolved_at": "2026-06-25T23:01:11",
+  "csat": 1
+ },
+ {
+  "ticket_id": 5287,
+  "client": 56,
+  "priority": "P3",
+  "category": "Hardware",
+  "summary": "Hardware issue reported by contact56@iron56.example.co.uk",
+  "opened_at": "2026-04-15T17:00:00",
+  "resolved_at": "2026-04-16T06:23:25",
+  "csat": 2
+ },
+ {
+  "ticket_id": 5288,
+  "client": 56,
+  "priority": "P4",
+  "category": "Security",
+  "summary": "Security issue reported by contact56@iron56.example.co.uk",
+  "opened_at": "2026-09-08T06:00:00",
+  "resolved_at": "2026-09-10T12:43:38",
+  "csat": 1
+ },
+ {
+  "ticket_id": 5289,
+  "client": 56,
+  "priority": "P2",
+  "category": "Hardware",
+  "summary": "Hardware issue reported by contact56@iron56.example.co.uk",
+  "opened_at": "2026-06-30T00:00:00",
+  "resolved_at": "2026-06-30T03:15:51",
+  "csat": 1
+ },
+ {
+  "ticket_id": 5290,
+  "client": 56,
+  "priority": "P4",
+  "category": "Email",
+  "summary": "Email issue reported by contact56@iron56.example.co.uk",
+  "opened_at": "2026-07-02T13:00:00",
+  "resolved_at": "2026-07-04T22:19:24",
+  "csat": 3
+ },
+ {
+  "ticket_id": 5291,
+  "client": 56,
+  "priority": "P2",
+  "category": "Connectivity",
+  "summary": "Connectivity issue reported by contact56@iron56.example.co.uk",
+  "opened_at": "2026-06-14T17:00:00",
+  "resolved_at": "2026-06-15T13:09:15",
+  "csat": 2
+ },
+ {
+  "ticket_id": 5292,
+  "client": 56,
+  "priority": "P4",
+  "category": "Billing query",
+  "summary": "Billing query issue reported by contact56@iron56.example.co.uk",
+  "opened_at": "2026-09-23T02:00:00",
+  "resolved_at": "2026-09-30T09:09:06",
+  "csat": 3
+ },
+ {
+  "ticket_id": 5293,
+  "client": 56,
+  "priority": "P2",
+  "category": "Connectivity",
+  "summary": "Connectivity issue reported by contact56@iron56.example.co.uk",
+  "opened_at": "2026-08-21T00:00:00",
+  "resolved_at": "2026-08-21T12:31:28",
+  "csat": 1
+ },
+ {
+  "ticket_id": 5294,
+  "client": 56,
+  "priority": "P4",
+  "category": "Email",
+  "summary": "Email issue reported by contact56@iron56.example.co.uk",
+  "opened_at": "2026-08-14T09:00:00",
+  "resolved_at": "2026-08-16T10:57:07",
+  "csat": 2
+ },
+ {
+  "ticket_id": 5295,
+  "client": 56,
+  "priority": "P1",
+  "category": "Billing query",
+  "summary": "Billing query issue reported by contact56@iron56.example.co.uk",
+  "opened_at": "2026-04-17T02:00:00",
+  "resolved_at": null,
+  "csat": 3
+ },
+ {
+  "ticket_id": 5296,
+  "client": 57,
+  "priority": "P4",
+  "category": "Hosting",
+  "summary": "Hosting issue reported by contact57@iron57.example.co.uk",
+  "opened_at": "2026-09-27T12:00:00",
+  "resolved_at": "2026-09-30T00:48:35",
+  "csat": null
+ },
+ {
+  "ticket_id": 5297,
+  "client": 58,
+  "priority": "P3",
+  "category": "Connectivity",
+  "summary": "Connectivity issue reported by contact58@iron58.example.co.uk",
+  "opened_at": "2026-05-24T15:00:00",
+  "resolved_at": "2026-05-24T20:35:55",
+  "csat": 3
+ },
+ {
+  "ticket_id": 5298,
+  "client": 58,
+  "priority": "P3",
+  "category": "Billing query",
+  "summary": "Billing query issue reported by contact58@iron58.example.co.uk",
+  "opened_at": "2026-08-06T12:00:00",
+  "resolved_at": "2026-08-06T18:08:50",
+  "csat": 3
+ },
+ {
+  "ticket_id": 5299,
+  "client": 58,
+  "priority": "P3",
+  "category": "Hardware",
+  "summary": "Hardware issue reported by contact58@iron58.example.co.uk",
+  "opened_at": "2026-04-05T10:00:00",
+  "resolved_at": "2026-04-05T20:39:50",
+  "csat": 5
+ },
+ {
+  "ticket_id": 5300,
+  "client": 58,
+  "priority": "P2",
+  "category": "Security",
+  "summary": "Security issue reported by contact58@iron58.example.co.uk",
+  "opened_at": "2026-06-13T18:00:00",
+  "resolved_at": "2026-06-13T21:15:58",
+  "csat": null
+ },
+ {
+  "ticket_id": 5301,
+  "client": 59,
+  "priority": "P2",
+  "category": "Email",
+  "summary": "Email issue reported by contact59@iron59.example.co.uk",
+  "opened_at": "2026-08-19T07:00:00",
+  "resolved_at": "2026-08-19T07:52:28",
+  "csat": null
+ },
+ {
+  "ticket_id": 5302,
+  "client": 59,
+  "priority": "P2",
+  "category": "Hosting",
+  "summary": "Hosting issue reported by contact59@iron59.example.co.uk",
+  "opened_at": "2026-09-21T17:00:00",
+  "resolved_at": "2026-09-21T21:38:26",
+  "csat": 3
+ },
+ {
+  "ticket_id": 5303,
+  "client": 60,
+  "priority": "P1",
+  "category": "Hardware",
+  "summary": "Hardware issue reported by contact60@iron60.example.co.uk",
+  "opened_at": "2026-09-06T15:00:00",
+  "resolved_at": "2026-09-06T16:21:36",
+  "csat": null
+ },
+ {
+  "ticket_id": 5304,
+  "client": 60,
+  "priority": "P3",
+  "category": "Email",
+  "summary": "Email issue reported by contact60@iron60.example.co.uk",
+  "opened_at": "2026-06-21T01:00:00",
+  "resolved_at": "2026-06-21T17:09:48",
+  "csat": 3
+ },
+ {
+  "ticket_id": 5305,
+  "client": 61,
+  "priority": "P3",
+  "category": "Security",
+  "summary": "Security issue reported by contact61@iron61.example.co.uk",
+  "opened_at": "2026-08-23T00:00:00",
+  "resolved_at": null,
+  "csat": null
+ },
+ {
+  "ticket_id": 5306,
+  "client": 61,
+  "priority": "P2",
+  "category": "VoIP",
+  "summary": "VoIP issue reported by contact61@iron61.example.co.uk",
+  "opened_at": "2026-04-08T10:00:00",
+  "resolved_at": "2026-04-08T17:16:44",
+  "csat": 5
+ },
+ {
+  "ticket_id": 5307,
+  "client": 61,
+  "priority": "P2",
+  "category": "Billing query",
+  "summary": "Billing query issue reported by contact61@iron61.example.co.uk",
+  "opened_at": "2026-08-24T02:00:00",
+  "resolved_at": "2026-08-24T06:18:39",
+  "csat": 4
+ },
+ {
+  "ticket_id": 5308,
+  "client": 61,
+  "priority": "P3",
+  "category": "Hardware",
+  "summary": "Hardware issue reported by contact61@iron61.example.co.uk",
+  "opened_at": "2026-06-07T20:00:00",
+  "resolved_at": null,
+  "csat": 5
+ },
+ {
+  "ticket_id": 5309,
+  "client": 62,
+  "priority": "P4",
+  "category": "Hosting",
+  "summary": "Hosting issue reported by contact62@iron62.example.co.uk",
+  "opened_at": "2026-07-30T18:00:00",
+  "resolved_at": "2026-08-02T11:49:50",
+  "csat": 3
+ },
+ {
+  "ticket_id": 5310,
+  "client": 62,
+  "priority": "P3",
+  "category": "Connectivity",
+  "summary": "Connectivity issue reported by contact62@iron62.example.co.uk",
+  "opened_at": "2026-08-24T15:00:00",
+  "resolved_at": "2026-08-25T09:20:29",
+  "csat": 3
+ },
+ {
+  "ticket_id": 5311,
+  "client": 62,
+  "priority": "P1",
+  "category": "Connectivity",
+  "summary": "Connectivity issue reported by contact62@iron62.example.co.uk",
+  "opened_at": "2026-07-16T19:00:00",
+  "resolved_at": "2026-07-16T20:36:05",
+  "csat": 4
+ },
+ {
+  "ticket_id": 5312,
+  "client": 63,
+  "priority": "P3",
+  "category": "Hosting",
+  "summary": "Hosting issue reported by contact63@iron63.example.co.uk",
+  "opened_at": "2026-07-26T10:00:00",
+  "resolved_at": "2026-07-26T14:55:44",
+  "csat": null
+ },
+ {
+  "ticket_id": 5313,
+  "client": 63,
+  "priority": "P3",
+  "category": "Hardware",
+  "summary": "Hardware issue reported by contact63@iron63.example.co.uk",
+  "opened_at": "2026-07-18T12:00:00",
+  "resolved_at": "2026-07-19T04:17:02",
+  "csat": 4
+ },
+ {
+  "ticket_id": 5314,
+  "client": 63,
+  "priority": "P3",
+  "category": "Billing query",
+  "summary": "Billing query issue reported by contact63@iron63.example.co.uk",
+  "opened_at": "2026-06-26T22:00:00",
+  "resolved_at": null,
+  "csat": 3
+ },
+ {
+  "ticket_id": 5315,
+  "client": 64,
+  "priority": "P4",
+  "category": "Email",
+  "summary": "Email issue reported by contact64@iron64.example.co.uk",
+  "opened_at": "2026-07-29T02:00:00",
+  "resolved_at": "2026-08-06T05:53:54",
+  "csat": 3
+ },
+ {
+  "ticket_id": 5316,
+  "client": 64,
+  "priority": "P4",
+  "category": "Hardware",
+  "summary": "Hardware issue reported by contact64@iron64.example.co.uk",
+  "opened_at": "2026-08-03T12:00:00",
+  "resolved_at": "2026-08-04T16:33:18",
+  "csat": 4
+ },
+ {
+  "ticket_id": 5317,
+  "client": 64,
+  "priority": "P2",
+  "category": "Hardware",
+  "summary": "Hardware issue reported by contact64@iron64.example.co.uk",
+  "opened_at": "2026-09-02T22:00:00",
+  "resolved_at": "2026-09-03T05:19:29",
+  "csat": null
+ },
+ {
+  "ticket_id": 5318,
+  "client": 64,
+  "priority": "P3",
+  "category": "Billing query",
+  "summary": "Billing query issue reported by contact64@iron64.example.co.uk",
+  "opened_at": "2026-07-07T22:00:00",
+  "resolved_at": "2026-07-08T10:19:13",
+  "csat": null
+ },
+ {
+  "ticket_id": 5319,
+  "client": 64,
+  "priority": "P3",
+  "category": "VoIP",
+  "summary": "VoIP issue reported by contact64@iron64.example.co.uk",
+  "opened_at": "2026-06-05T23:00:00",
+  "resolved_at": "2026-06-06T04:22:06",
+  "csat": null
+ },
+ {
+  "ticket_id": 5320,
+  "client": 65,
+  "priority": "P4",
+  "category": "Hardware",
+  "summary": "Hardware issue reported by contact65@iron65.example.co.uk",
+  "opened_at": "2026-06-24T23:00:00",
+  "resolved_at": "2026-06-26T08:31:21",
+  "csat": null
+ },
+ {
+  "ticket_id": 5321,
+  "client": 65,
+  "priority": "P3",
+  "category": "VoIP",
+  "summary": "VoIP issue reported by contact65@iron65.example.co.uk",
+  "opened_at": "2026-09-24T03:00:00",
+  "resolved_at": null,
+  "csat": 4
+ },
+ {
+  "ticket_id": 5322,
+  "client": 65,
+  "priority": "P3",
+  "category": "Security",
+  "summary": "Security issue reported by contact65@iron65.example.co.uk",
+  "opened_at": "2026-06-06T11:00:00",
+  "resolved_at": null,
+  "csat": 4
+ },
+ {
+  "ticket_id": 5323,
+  "client": 65,
+  "priority": "P2",
+  "category": "Hardware",
+  "summary": "Hardware issue reported by contact65@iron65.example.co.uk",
+  "opened_at": "2026-07-04T15:00:00",
+  "resolved_at": "2026-07-04T18:38:59",
+  "csat": 5
+ },
+ {
+  "ticket_id": 5324,
+  "client": 66,
+  "priority": "P3",
+  "category": "Hosting",
+  "summary": "Hosting issue reported by contact66@iron66.example.co.uk",
+  "opened_at": "2026-07-01T02:00:00",
+  "resolved_at": "2026-07-01T15:50:33",
+  "csat": 5
+ },
+ {
+  "ticket_id": 5325,
+  "client": 66,
+  "priority": "P3",
+  "category": "Billing query",
+  "summary": "Billing query issue reported by contact66@iron66.example.co.uk",
+  "opened_at": "2026-04-25T20:00:00",
+  "resolved_at": "2026-04-26T17:33:17",
+  "csat": 3
+ },
+ {
+  "ticket_id": 5326,
+  "client": 66,
+  "priority": "P4",
+  "category": "Security",
+  "summary": "Security issue reported by contact66@iron66.example.co.uk",
+  "opened_at": "2026-08-22T10:00:00",
+  "resolved_at": "2026-08-23T12:33:50",
+  "csat": 5
+ },
+ {
+  "ticket_id": 5327,
+  "client": 67,
+  "priority": "P4",
+  "category": "Billing query",
+  "summary": "Billing query issue reported by contact67@iron67.example.co.uk",
+  "opened_at": "2026-09-29T10:00:00",
+  "resolved_at": "2026-10-01T08:01:07",
+  "csat": null
+ },
+ {
+  "ticket_id": 5328,
+  "client": 67,
+  "priority": "P4",
+  "category": "VoIP",
+  "summary": "VoIP issue reported by contact67@iron67.example.co.uk",
+  "opened_at": "2026-08-05T01:00:00",
+  "resolved_at": "2026-08-06T17:37:13",
+  "csat": null
+ },
+ {
+  "ticket_id": 5329,
+  "client": 67,
+  "priority": "P4",
+  "category": "Security",
+  "summary": "Security issue reported by contact67@iron67.example.co.uk",
+  "opened_at": "2026-08-07T18:00:00",
+  "resolved_at": "2026-08-08T02:04:46",
+  "csat": null
+ },
+ {
+  "ticket_id": 5330,
+  "client": 67,
+  "priority": "P4",
+  "category": "Hardware",
+  "summary": "Hardware issue reported by contact67@iron67.example.co.uk",
+  "opened_at": "2026-07-13T08:00:00",
+  "resolved_at": "2026-07-14T21:44:48",
+  "csat": null
+ },
+ {
+  "ticket_id": 5331,
+  "client": 67,
+  "priority": "P3",
+  "category": "VoIP",
+  "summary": "VoIP issue reported by contact67@iron67.example.co.uk",
+  "opened_at": "2026-05-14T11:00:00",
+  "resolved_at": "2026-05-14T15:42:46",
+  "csat": null
+ },
+ {
+  "ticket_id": 5332,
+  "client": 68,
+  "priority": "P3",
+  "category": "Billing query",
+  "summary": "Billing query issue reported by contact68@iron68.example.co.uk",
+  "opened_at": "2026-04-30T19:00:00",
+  "resolved_at": "2026-05-01T14:38:23",
+  "csat": 5
+ },
+ {
+  "ticket_id": 5333,
+  "client": 68,
+  "priority": "P4",
+  "category": "Billing query",
+  "summary": "Billing query issue reported by contact68@iron68.example.co.uk",
+  "opened_at": "2026-04-24T21:00:00",
+  "resolved_at": null,
+  "csat": 3
+ },
+ {
+  "ticket_id": 5334,
+  "client": 68,
+  "priority": "P4",
+  "category": "Hardware",
+  "summary": "Hardware issue reported by contact68@iron68.example.co.uk",
+  "opened_at": "2026-05-25T01:00:00",
+  "resolved_at": "2026-05-25T14:18:06",
+  "csat": 5
+ },
+ {
+  "ticket_id": 5335,
+  "client": 68,
+  "priority": "P2",
+  "category": "Connectivity",
+  "summary": "Connectivity issue reported by contact68@iron68.example.co.uk",
+  "opened_at": "2026-07-17T11:00:00",
+  "resolved_at": "2026-07-17T15:33:02",
+  "csat": 3
+ },
+ {
+  "ticket_id": 5336,
+  "client": 69,
+  "priority": "P3",
+  "category": "Email",
+  "summary": "Email issue reported by contact69@iron69.example.co.uk",
+  "opened_at": "2026-06-16T04:00:00",
+  "resolved_at": "2026-06-16T06:33:18",
+  "csat": 2
+ },
+ {
+  "ticket_id": 5337,
+  "client": 69,
+  "priority": "P3",
+  "category": "Billing query",
+  "summary": "Billing query issue reported by contact69@iron69.example.co.uk",
+  "opened_at": "2026-04-14T16:00:00",
+  "resolved_at": "2026-04-15T12:57:01",
+  "csat": 2
+ },
+ {
+  "ticket_id": 5338,
+  "client": 69,
+  "priority": "P1",
+  "category": "Hosting",
+  "summary": "Hosting issue reported by contact69@iron69.example.co.uk",
+  "opened_at": "2026-09-22T00:00:00",
+  "resolved_at": "2026-09-22T03:15:31",
+  "csat": 2
+ },
+ {
+  "ticket_id": 5339,
+  "client": 69,
+  "priority": "P4",
+  "category": "VoIP",
+  "summary": "VoIP issue reported by contact69@iron69.example.co.uk",
+  "opened_at": "2026-08-17T06:00:00",
+  "resolved_at": "2026-08-26T02:22:24",
+  "csat": null
+ },
+ {
+  "ticket_id": 5340,
+  "client": 69,
+  "priority": "P3",
+  "category": "Billing query",
+  "summary": "Billing query issue reported by contact69@iron69.example.co.uk",
+  "opened_at": "2026-09-16T06:00:00",
+  "resolved_at": "2026-09-16T16:21:51",
+  "csat": 3
+ },
+ {
+  "ticket_id": 5341,
+  "client": 69,
+  "priority": "P2",
+  "category": "Connectivity",
+  "summary": "Connectivity issue reported by contact69@iron69.example.co.uk",
+  "opened_at": "2026-08-20T11:00:00",
+  "resolved_at": "2026-08-20T12:39:32",
+  "csat": 3
+ },
+ {
+  "ticket_id": 5342,
+  "client": 69,
+  "priority": "P2",
+  "category": "Connectivity",
+  "summary": "Connectivity issue reported by contact69@iron69.example.co.uk",
+  "opened_at": "2026-07-25T07:00:00",
+  "resolved_at": "2026-07-25T17:13:02",
+  "csat": 3
+ },
+ {
+  "ticket_id": 5343,
+  "client": 69,
+  "priority": "P3",
+  "category": "Hosting",
+  "summary": "Hosting issue reported by contact69@iron69.example.co.uk",
+  "opened_at": "2026-08-22T00:00:00",
+  "resolved_at": "2026-08-22T22:14:13",
+  "csat": 1
+ },
+ {
+  "ticket_id": 5344,
+  "client": 69,
+  "priority": "P3",
+  "category": "VoIP",
+  "summary": "VoIP issue reported by contact69@iron69.example.co.uk",
+  "opened_at": "2026-06-05T04:00:00",
+  "resolved_at": "2026-06-06T17:19:52",
+  "csat": 1
+ },
+ {
+  "ticket_id": 5345,
+  "client": 69,
+  "priority": "P3",
+  "category": "Billing query",
+  "summary": "Billing query issue reported by contact69@iron69.example.co.uk",
+  "opened_at": "2026-06-25T16:00:00",
+  "resolved_at": null,
+  "csat": 1
+ },
+ {
+  "ticket_id": 5346,
+  "client": 69,
+  "priority": "P4",
+  "category": "Email",
+  "summary": "Email issue reported by contact69@iron69.example.co.uk",
+  "opened_at": "2026-09-01T10:00:00",
+  "resolved_at": "2026-09-05T12:36:11",
+  "csat": null
+ },
+ {
+  "ticket_id": 5347,
+  "client": 69,
+  "priority": "P4",
+  "category": "Security",
+  "summary": "Security issue reported by contact69@iron69.example.co.uk",
+  "opened_at": "2026-05-26T13:00:00",
+  "resolved_at": null,
+  "csat": null
+ },
+ {
+  "ticket_id": 5348,
+  "client": 69,
+  "priority": "P2",
+  "category": "Billing query",
+  "summary": "Billing query issue reported by contact69@iron69.example.co.uk",
+  "opened_at": "2026-04-22T22:00:00",
+  "resolved_at": "2026-04-23T20:19:25",
+  "csat": 1
+ },
+ {
+  "ticket_id": 5349,
+  "client": 70,
+  "priority": "P3",
+  "category": "Connectivity",
+  "summary": "Connectivity issue reported by contact70@iron70.example.co.uk",
+  "opened_at": "2026-09-27T19:00:00",
+  "resolved_at": "2026-09-28T14:50:17",
+  "csat": 4
+ },
+ {
+  "ticket_id": 5350,
+  "client": 70,
+  "priority": "P3",
+  "category": "Connectivity",
+  "summary": "Connectivity issue reported by contact70@iron70.example.co.uk",
+  "opened_at": "2026-04-25T05:00:00",
+  "resolved_at": "2026-04-25T22:31:50",
+  "csat": null
+ },
+ {
+  "ticket_id": 5351,
+  "client": 72,
+  "priority": "P2",
+  "category": "Connectivity",
+  "summary": "Connectivity issue reported by contact72@moor72.example.co.uk",
+  "opened_at": "2026-05-21T20:00:00",
+  "resolved_at": "2026-05-22T02:54:37",
+  "csat": null
+ },
+ {
+  "ticket_id": 5352,
+  "client": 72,
+  "priority": "P2",
+  "category": "Email",
+  "summary": "Email issue reported by contact72@moor72.example.co.uk",
+  "opened_at": "2026-04-05T20:00:00",
+  "resolved_at": "2026-04-06T03:16:55",
+  "csat": 4
+ },
+ {
+  "ticket_id": 5353,
+  "client": 72,
+  "priority": "P3",
+  "category": "VoIP",
+  "summary": "VoIP issue reported by contact72@moor72.example.co.uk",
+  "opened_at": "2026-05-26T11:00:00",
+  "resolved_at": "2026-05-26T17:20:17",
+  "csat": 5
+ },
+ {
+  "ticket_id": 5354,
+  "client": 72,
+  "priority": "P2",
+  "category": "VoIP",
+  "summary": "VoIP issue reported by contact72@moor72.example.co.uk",
+  "opened_at": "2026-07-20T12:00:00",
+  "resolved_at": "2026-07-20T16:47:43",
+  "csat": 4
+ },
+ {
+  "ticket_id": 5355,
+  "client": 73,
+  "priority": "P4",
+  "category": "Hosting",
+  "summary": "Hosting issue reported by contact73@moor73.example.co.uk",
+  "opened_at": "2026-06-13T05:00:00",
+  "resolved_at": "2026-06-15T02:19:19",
+  "csat": null
+ },
+ {
+  "ticket_id": 5356,
+  "client": 73,
+  "priority": "P4",
+  "category": "Connectivity",
+  "summary": "Connectivity issue reported by contact73@moor73.example.co.uk",
+  "opened_at": "2026-07-01T13:00:00",
+  "resolved_at": "2026-07-02T23:42:12",
+  "csat": null
+ },
+ {
+  "ticket_id": 5357,
+  "client": 73,
+  "priority": "P3",
+  "category": "Hosting",
+  "summary": "Hosting issue reported by contact73@moor73.example.co.uk",
+  "opened_at": "2026-06-17T15:00:00",
+  "resolved_at": "2026-06-18T12:47:15",
+  "csat": null
+ },
+ {
+  "ticket_id": 5358,
+  "client": 73,
+  "priority": "P3",
+  "category": "VoIP",
+  "summary": "VoIP issue reported by contact73@moor73.example.co.uk",
+  "opened_at": "2026-08-14T14:00:00",
+  "resolved_at": "2026-08-16T03:35:11",
+  "csat": null
+ },
+ {
+  "ticket_id": 5359,
+  "client": 73,
+  "priority": "P1",
+  "category": "VoIP",
+  "summary": "VoIP issue reported by contact73@moor73.example.co.uk",
+  "opened_at": "2026-07-11T21:00:00",
+  "resolved_at": "2026-07-11T23:50:13",
+  "csat": 1
+ },
+ {
+  "ticket_id": 5360,
+  "client": 73,
+  "priority": "P3",
+  "category": "Connectivity",
+  "summary": "Connectivity issue reported by contact73@moor73.example.co.uk",
+  "opened_at": "2026-05-09T22:00:00",
+  "resolved_at": "2026-05-10T11:09:22",
+  "csat": 3
+ },
+ {
+  "ticket_id": 5361,
+  "client": 73,
+  "priority": "P4",
+  "category": "Email",
+  "summary": "Email issue reported by contact73@moor73.example.co.uk",
+  "opened_at": "2026-09-10T06:00:00",
+  "resolved_at": "2026-09-17T20:38:53",
+  "csat": null
+ },
+ {
+  "ticket_id": 5362,
+  "client": 73,
+  "priority": "P3",
+  "category": "Connectivity",
+  "summary": "Connectivity issue reported by contact73@moor73.example.co.uk",
+  "opened_at": "2026-09-17T09:00:00",
+  "resolved_at": "2026-09-17T19:59:35",
+  "csat": 3
+ },
+ {
+  "ticket_id": 5363,
+  "client": 73,
+  "priority": "P3",
+  "category": "Security",
+  "summary": "Security issue reported by contact73@moor73.example.co.uk",
+  "opened_at": "2026-06-23T17:00:00",
+  "resolved_at": "2026-06-26T00:45:04",
+  "csat": null
+ },
+ {
+  "ticket_id": 5364,
+  "client": 73,
+  "priority": "P2",
+  "category": "Hosting",
+  "summary": "Hosting issue reported by contact73@moor73.example.co.uk",
+  "opened_at": "2026-06-03T15:00:00",
+  "resolved_at": "2026-06-03T16:03:05",
+  "csat": null
+ },
+ {
+  "ticket_id": 5365,
+  "client": 73,
+  "priority": "P1",
+  "category": "Billing query",
+  "summary": "Billing query issue reported by contact73@moor73.example.co.uk",
+  "opened_at": "2026-04-18T00:00:00",
+  "resolved_at": "2026-04-18T10:29:56",
+  "csat": null
+ },
+ {
+  "ticket_id": 5366,
+  "client": 73,
+  "priority": "P2",
+  "category": "Connectivity",
+  "summary": "Connectivity issue reported by contact73@moor73.example.co.uk",
+  "opened_at": "2026-07-03T12:00:00",
+  "resolved_at": "2026-07-03T16:09:28",
+  "csat": 2
+ },
+ {
+  "ticket_id": 5367,
+  "client": 73,
+  "priority": "P4",
+  "category": "Hosting",
+  "summary": "Hosting issue reported by contact73@moor73.example.co.uk",
+  "opened_at": "2026-05-26T04:00:00",
+  "resolved_at": "2026-05-31T14:21:01",
+  "csat": null
+ },
+ {
+  "ticket_id": 5368,
+  "client": 73,
+  "priority": "P2",
+  "category": "Hardware",
+  "summary": "Hardware issue reported by contact73@moor73.example.co.uk",
+  "opened_at": "2026-09-27T20:00:00",
+  "resolved_at": "2026-09-28T15:15:05",
+  "csat": null
+ },
+ {
+  "ticket_id": 5369,
+  "client": 74,
+  "priority": "P4",
+  "category": "Security",
+  "summary": "Security issue reported by contact74@moor74.example.co.uk",
+  "opened_at": "2026-05-16T00:00:00",
+  "resolved_at": null,
+  "csat": null
+ },
+ {
+  "ticket_id": 5370,
+  "client": 74,
+  "priority": "P2",
+  "category": "Hardware",
+  "summary": "Hardware issue reported by contact74@moor74.example.co.uk",
+  "opened_at": "2026-07-14T22:00:00",
+  "resolved_at": "2026-07-15T04:10:59",
+  "csat": null
+ },
+ {
+  "ticket_id": 5371,
+  "client": 74,
+  "priority": "P3",
+  "category": "Security",
+  "summary": "Security issue reported by contact74@moor74.example.co.uk",
+  "opened_at": "2026-08-25T06:00:00",
+  "resolved_at": "2026-08-27T23:42:08",
+  "csat": 2
+ },
+ {
+  "ticket_id": 5372,
+  "client": 74,
+  "priority": "P3",
+  "category": "Hardware",
+  "summary": "Hardware issue reported by contact74@moor74.example.co.uk",
+  "opened_at": "2026-04-19T10:00:00",
+  "resolved_at": "2026-04-19T17:18:24",
+  "csat": 2
+ },
+ {
+  "ticket_id": 5373,
+  "client": 74,
+  "priority": "P2",
+  "category": "Email",
+  "summary": "Email issue reported by contact74@moor74.example.co.uk",
+  "opened_at": "2026-05-29T17:00:00",
+  "resolved_at": "2026-05-29T22:38:14",
+  "csat": 3
+ },
+ {
+  "ticket_id": 5374,
+  "client": 74,
+  "priority": "P4",
+  "category": "Hardware",
+  "summary": "Hardware issue reported by contact74@moor74.example.co.uk",
+  "opened_at": "2026-04-17T01:00:00",
+  "resolved_at": null,
+  "csat": null
+ },
+ {
+  "ticket_id": 5375,
+  "client": 74,
+  "priority": "P4",
+  "category": "VoIP",
+  "summary": "VoIP issue reported by contact74@moor74.example.co.uk",
+  "opened_at": "2026-08-05T10:00:00",
+  "resolved_at": "2026-08-09T07:30:01",
+  "csat": 3
+ },
+ {
+  "ticket_id": 5376,
+  "client": 74,
+  "priority": "P3",
+  "category": "Connectivity",
+  "summary": "Connectivity issue reported by contact74@moor74.example.co.uk",
+  "opened_at": "2026-07-11T15:00:00",
+  "resolved_at": "2026-07-12T10:41:42",
+  "csat": null
+ },
+ {
+  "ticket_id": 5377,
+  "client": 74,
+  "priority": "P4",
+  "category": "Security",
+  "summary": "Security issue reported by contact74@moor74.example.co.uk",
+  "opened_at": "2026-06-28T12:00:00",
+  "resolved_at": "2026-06-30T02:37:26",
+  "csat": null
+ },
+ {
+  "ticket_id": 5378,
+  "client": 74,
+  "priority": "P3",
+  "category": "Connectivity",
+  "summary": "Connectivity issue reported by contact74@moor74.example.co.uk",
+  "opened_at": "2026-06-13T19:00:00",
+  "resolved_at": "2026-06-14T09:10:32",
+  "csat": 3
+ },
+ {
+  "ticket_id": 5379,
+  "client": 74,
+  "priority": "P1",
+  "category": "Hardware",
+  "summary": "Hardware issue reported by contact74@moor74.example.co.uk",
+  "opened_at": "2026-09-01T17:00:00",
+  "resolved_at": "2026-09-01T18:18:25",
+  "csat": 2
+ },
+ {
+  "ticket_id": 5380,
+  "client": 74,
+  "priority": "P2",
+  "category": "Hosting",
+  "summary": "Hosting issue reported by contact74@moor74.example.co.uk",
+  "opened_at": "2026-08-30T07:00:00",
+  "resolved_at": "2026-08-30T18:05:21",
+  "csat": null
+ },
+ {
+  "ticket_id": 5381,
+  "client": 74,
+  "priority": "P3",
+  "category": "Hardware",
+  "summary": "Hardware issue reported by contact74@moor74.example.co.uk",
+  "opened_at": "2026-06-09T16:00:00",
+  "resolved_at": "2026-06-11T11:50:34",
+  "csat": null
+ },
+ {
+  "ticket_id": 5382,
+  "client": 74,
+  "priority": "P2",
+  "category": "Connectivity",
+  "summary": "Connectivity issue reported by contact74@moor74.example.co.uk",
+  "opened_at": "2026-08-15T05:00:00",
+  "resolved_at": "2026-08-15T09:19:35",
+  "csat": 1
+ },
+ {
+  "ticket_id": 5383,
+  "client": 75,
+  "priority": "P4",
+  "category": "Hosting",
+  "summary": "Hosting issue reported by contact75@moor75.example.co.uk",
+  "opened_at": "2026-08-31T23:00:00",
+  "resolved_at": "2026-09-01T20:48:45",
+  "csat": null
+ },
+ {
+  "ticket_id": 5384,
+  "client": 76,
+  "priority": "P3",
+  "category": "Security",
+  "summary": "Security issue reported by contact76@moor76.example.co.uk",
+  "opened_at": "2026-04-03T02:00:00",
+  "resolved_at": "2026-04-03T08:53:08",
+  "csat": null
+ },
+ {
+  "ticket_id": 5385,
+  "client": 76,
+  "priority": "P4",
+  "category": "Hosting",
+  "summary": "Hosting issue reported by contact76@moor76.example.co.uk",
+  "opened_at": "2026-08-08T19:00:00",
+  "resolved_at": "2026-08-09T19:49:30",
+  "csat": null
+ },
+ {
+  "ticket_id": 5386,
+  "client": 76,
+  "priority": "P4",
+  "category": "Security",
+  "summary": "Security issue reported by contact76@moor76.example.co.uk",
+  "opened_at": "2026-08-13T08:00:00",
+  "resolved_at": "2026-08-15T12:25:56",
+  "csat": null
+ },
+ {
+  "ticket_id": 5387,
+  "client": 76,
+  "priority": "P1",
+  "category": "VoIP",
+  "summary": "VoIP issue reported by contact76@moor76.example.co.uk",
+  "opened_at": "2026-07-11T03:00:00",
+  "resolved_at": "2026-07-11T06:27:34",
+  "csat": 4
+ },
+ {
+  "ticket_id": 5388,
+  "client": 77,
+  "priority": "P4",
+  "category": "Security",
+  "summary": "Security issue reported by contact77@moor77.example.co.uk",
+  "opened_at": "2026-09-24T19:00:00",
+  "resolved_at": "2026-09-25T12:38:54",
+  "csat": 4
+ },
+ {
+  "ticket_id": 5389,
+  "client": 77,
+  "priority": "P3",
+  "category": "Security",
+  "summary": "Security issue reported by contact77@moor77.example.co.uk",
+  "opened_at": "2026-05-04T00:00:00",
+  "resolved_at": null,
+  "csat": 4
+ },
+ {
+  "ticket_id": 5390,
+  "client": 78,
+  "priority": "P2",
+  "category": "Email",
+  "summary": "Email issue reported by contact78@moor78.example.co.uk",
+  "opened_at": "2026-05-18T08:00:00",
+  "resolved_at": "2026-05-18T18:13:38",
+  "csat": null
+ },
+ {
+  "ticket_id": 5391,
+  "client": 78,
+  "priority": "P3",
+  "category": "Email",
+  "summary": "Email issue reported by contact78@moor78.example.co.uk",
+  "opened_at": "2026-05-27T01:00:00",
+  "resolved_at": "2026-05-27T16:56:00",
+  "csat": null
+ },
+ {
+  "ticket_id": 5392,
+  "client": 78,
+  "priority": "P3",
+  "category": "Security",
+  "summary": "Security issue reported by contact78@moor78.example.co.uk",
+  "opened_at": "2026-07-01T15:00:00",
+  "resolved_at": "2026-07-02T09:12:01",
+  "csat": 2
+ },
+ {
+  "ticket_id": 5393,
+  "client": 78,
+  "priority": "P3",
+  "category": "Hardware",
+  "summary": "Hardware issue reported by contact78@moor78.example.co.uk",
+  "opened_at": "2026-09-01T16:00:00",
+  "resolved_at": "2026-09-01T18:49:22",
+  "csat": 1
+ },
+ {
+  "ticket_id": 5394,
+  "client": 78,
+  "priority": "P1",
+  "category": "Hardware",
+  "summary": "Hardware issue reported by contact78@moor78.example.co.uk",
+  "opened_at": "2026-06-30T09:00:00",
+  "resolved_at": "2026-06-30T11:45:56",
+  "csat": 1
+ },
+ {
+  "ticket_id": 5395,
+  "client": 78,
+  "priority": "P2",
+  "category": "Hosting",
+  "summary": "Hosting issue reported by contact78@moor78.example.co.uk",
+  "opened_at": "2026-06-25T04:00:00",
+  "resolved_at": "2026-06-25T22:19:43",
+  "csat": 3
+ },
+ {
+  "ticket_id": 5396,
+  "client": 78,
+  "priority": "P4",
+  "category": "Hosting",
+  "summary": "Hosting issue reported by contact78@moor78.example.co.uk",
+  "opened_at": "2026-08-16T16:00:00",
+  "resolved_at": "2026-08-21T20:30:27",
+  "csat": 2
+ },
+ {
+  "ticket_id": 5397,
+  "client": 78,
+  "priority": "P3",
+  "category": "Connectivity",
+  "summary": "Connectivity issue reported by contact78@moor78.example.co.uk",
+  "opened_at": "2026-08-12T23:00:00",
+  "resolved_at": "2026-08-13T18:25:01",
+  "csat": 2
+ },
+ {
+  "ticket_id": 5398,
+  "client": 78,
+  "priority": "P4",
+  "category": "Hardware",
+  "summary": "Hardware issue reported by contact78@moor78.example.co.uk",
+  "opened_at": "2026-07-18T21:00:00",
+  "resolved_at": "2026-07-20T22:09:15",
+  "csat": 2
+ },
+ {
+  "ticket_id": 5399,
+  "client": 78,
+  "priority": "P3",
+  "category": "Security",
+  "summary": "Security issue reported by contact78@moor78.example.co.uk",
+  "opened_at": "2026-04-23T07:00:00",
+  "resolved_at": "2026-04-24T22:32:40",
+  "csat": 1
+ },
+ {
+  "ticket_id": 5400,
+  "client": 78,
+  "priority": "P2",
+  "category": "Email",
+  "summary": "Email issue reported by contact78@moor78.example.co.uk",
+  "opened_at": "2026-07-19T06:00:00",
+  "resolved_at": "2026-07-19T06:50:04",
+  "csat": null
+ },
+ {
+  "ticket_id": 5401,
+  "client": 78,
+  "priority": "P3",
+  "category": "Billing query",
+  "summary": "Billing query issue reported by contact78@moor78.example.co.uk",
+  "opened_at": "2026-07-27T20:00:00",
+  "resolved_at": "2026-07-30T13:34:15",
+  "csat": 1
+ },
+ {
+  "ticket_id": 5402,
+  "client": 78,
+  "priority": "P4",
+  "category": "Connectivity",
+  "summary": "Connectivity issue reported by contact78@moor78.example.co.uk",
+  "opened_at": "2026-07-22T20:00:00",
+  "resolved_at": "2026-07-29T11:15:31",
+  "csat": null
+ },
+ {
+  "ticket_id": 5403,
+  "client": 79,
+  "priority": "P3",
+  "category": "Email",
+  "summary": "Email issue reported by contact79@moor79.example.co.uk",
+  "opened_at": "2026-04-09T04:00:00",
+  "resolved_at": "2026-04-11T23:37:47",
+  "csat": 1
+ },
+ {
+  "ticket_id": 5404,
+  "client": 79,
+  "priority": "P3",
+  "category": "Billing query",
+  "summary": "Billing query issue reported by contact79@moor79.example.co.uk",
+  "opened_at": "2026-05-08T11:00:00",
+  "resolved_at": "2026-05-10T15:45:51",
+  "csat": null
+ },
+ {
+  "ticket_id": 5405,
+  "client": 79,
+  "priority": "P2",
+  "category": "Billing query",
+  "summary": "Billing query issue reported by contact79@moor79.example.co.uk",
+  "opened_at": "2026-06-15T07:00:00",
+  "resolved_at": "2026-06-15T20:19:10",
+  "csat": null
+ },
+ {
+  "ticket_id": 5406,
+  "client": 79,
+  "priority": "P2",
+  "category": "Billing query",
+  "summary": "Billing query issue reported by contact79@moor79.example.co.uk",
+  "opened_at": "2026-06-10T21:00:00",
+  "resolved_at": "2026-06-11T10:33:41",
+  "csat": 2
+ },
+ {
+  "ticket_id": 5407,
+  "client": 79,
+  "priority": "P4",
+  "category": "Connectivity",
+  "summary": "Connectivity issue reported by contact79@moor79.example.co.uk",
+  "opened_at": "2026-06-02T11:00:00",
+  "resolved_at": "2026-06-05T02:02:54",
+  "csat": 1
+ },
+ {
+  "ticket_id": 5408,
+  "client": 79,
+  "priority": "P4",
+  "category": "Hosting",
+  "summary": "Hosting issue reported by contact79@moor79.example.co.uk",
+  "opened_at": "2026-04-25T15:00:00",
+  "resolved_at": "2026-04-26T21:02:03",
+  "csat": 2
+ },
+ {
+  "ticket_id": 5409,
+  "client": 79,
+  "priority": "P2",
+  "category": "Security",
+  "summary": "Security issue reported by contact79@moor79.example.co.uk",
+  "opened_at": "2026-09-16T12:00:00",
+  "resolved_at": "2026-09-16T15:56:49",
+  "csat": 1
+ },
+ {
+  "ticket_id": 5410,
+  "client": 79,
+  "priority": "P2",
+  "category": "Hosting",
+  "summary": "Hosting issue reported by contact79@moor79.example.co.uk",
+  "opened_at": "2026-09-08T23:00:00",
+  "resolved_at": "2026-09-09T00:31:40",
+  "csat": null
+ },
+ {
+  "ticket_id": 5411,
+  "client": 79,
+  "priority": "P3",
+  "category": "Billing query",
+  "summary": "Billing query issue reported by contact79@moor79.example.co.uk",
+  "opened_at": "2026-05-29T02:00:00",
+  "resolved_at": "2026-05-31T14:09:56",
+  "csat": 3
+ },
+ {
+  "ticket_id": 5412,
+  "client": 80,
+  "priority": "P3",
+  "category": "Billing query",
+  "summary": "Billing query issue reported by contact80@moor80.example.co.uk",
+  "opened_at": "2026-05-20T20:00:00",
+  "resolved_at": "2026-05-21T01:10:57",
+  "csat": null
+ },
+ {
+  "ticket_id": 5413,
+  "client": 81,
+  "priority": "P4",
+  "category": "Billing query",
+  "summary": "Billing query issue reported by contact81@moor81.example.co.uk",
+  "opened_at": "2026-07-12T01:00:00",
+  "resolved_at": "2026-07-18T02:32:30",
+  "csat": null
+ },
+ {
+  "ticket_id": 5414,
+  "client": 81,
+  "priority": "P4",
+  "category": "Connectivity",
+  "summary": "Connectivity issue reported by contact81@moor81.example.co.uk",
+  "opened_at": "2026-08-21T05:00:00",
+  "resolved_at": "2026-08-22T03:19:44",
+  "csat": 4
+ },
+ {
+  "ticket_id": 5415,
+  "client": 81,
+  "priority": "P4",
+  "category": "VoIP",
+  "summary": "VoIP issue reported by contact81@moor81.example.co.uk",
+  "opened_at": "2026-06-21T23:00:00",
+  "resolved_at": "2026-06-23T11:48:13",
+  "csat": 5
+ },
+ {
+  "ticket_id": 5416,
+  "client": 81,
+  "priority": "P3",
+  "category": "Hardware",
+  "summary": "Hardware issue reported by contact81@moor81.example.co.uk",
+  "opened_at": "2026-07-25T05:00:00",
+  "resolved_at": "2026-07-25T19:59:24",
+  "csat": null
+ },
+ {
+  "ticket_id": 5417,
+  "client": 81,
+  "priority": "P3",
+  "category": "Hosting",
+  "summary": "Hosting issue reported by contact81@moor81.example.co.uk",
+  "opened_at": "2026-08-24T01:00:00",
+  "resolved_at": "2026-08-24T18:31:47",
+  "csat": 4
+ },
+ {
+  "ticket_id": 5418,
+  "client": 82,
+  "priority": "P3",
+  "category": "Billing query",
+  "summary": "Billing query issue reported by contact82@north82.example.co.uk",
+  "opened_at": "2026-09-04T06:00:00",
+  "resolved_at": "2026-09-04T16:22:48",
+  "csat": 4
+ },
+ {
+  "ticket_id": 5419,
+  "client": 82,
+  "priority": "P2",
+  "category": "Hosting",
+  "summary": "Hosting issue reported by contact82@north82.example.co.uk",
+  "opened_at": "2026-08-24T00:00:00",
+  "resolved_at": "2026-08-24T03:26:53",
+  "csat": 5
+ },
+ {
+  "ticket_id": 5420,
+  "client": 82,
+  "priority": "P1",
+  "category": "Hardware",
+  "summary": "Hardware issue reported by contact82@north82.example.co.uk",
+  "opened_at": "2026-04-24T10:00:00",
+  "resolved_at": "2026-04-24T13:40:24",
+  "csat": 3
+ },
+ {
+  "ticket_id": 5421,
+  "client": 82,
+  "priority": "P3",
+  "category": "Billing query",
+  "summary": "Billing query issue reported by contact82@north82.example.co.uk",
+  "opened_at": "2026-08-20T13:00:00",
+  "resolved_at": "2026-08-20T19:41:59",
+  "csat": 3
+ },
+ {
+  "ticket_id": 5422,
+  "client": 82,
+  "priority": "P3",
+  "category": "Billing query",
+  "summary": "Billing query issue reported by contact82@north82.example.co.uk",
+  "opened_at": "2026-04-15T20:00:00",
+  "resolved_at": "2026-04-16T05:19:17",
+  "csat": null
+ },
+ {
+  "ticket_id": 5423,
+  "client": 83,
+  "priority": "P4",
+  "category": "Hardware",
+  "summary": "Hardware issue reported by contact83@north83.example.co.uk",
+  "opened_at": "2026-04-14T15:00:00",
+  "resolved_at": "2026-04-22T17:01:11",
+  "csat": 5
+ },
+ {
+  "ticket_id": 5424,
+  "client": 83,
+  "priority": "P3",
+  "category": "Email",
+  "summary": "Email issue reported by contact83@north83.example.co.uk",
+  "opened_at": "2026-08-14T06:00:00",
+  "resolved_at": "2026-08-14T21:50:29",
+  "csat": null
+ },
+ {
+  "ticket_id": 5425,
+  "client": 83,
+  "priority": "P3",
+  "category": "Connectivity",
+  "summary": "Connectivity issue reported by contact83@north83.example.co.uk",
+  "opened_at": "2026-05-04T13:00:00",
+  "resolved_at": "2026-05-04T16:46:42",
+  "csat": null
+ },
+ {
+  "ticket_id": 5426,
+  "client": 83,
+  "priority": "P2",
+  "category": "Security",
+  "summary": "Security issue reported by contact83@north83.example.co.uk",
+  "opened_at": "2026-09-05T03:00:00",
+  "resolved_at": "2026-09-05T07:02:22",
+  "csat": 5
+ },
+ {
+  "ticket_id": 5427,
+  "client": 83,
+  "priority": "P4",
+  "category": "Security",
+  "summary": "Security issue reported by contact83@north83.example.co.uk",
+  "opened_at": "2026-07-31T21:00:00",
+  "resolved_at": "2026-08-03T10:49:09",
+  "csat": 3
+ },
+ {
+  "ticket_id": 5428,
+  "client": 83,
+  "priority": "P2",
+  "category": "Security",
+  "summary": "Security issue reported by contact83@north83.example.co.uk",
+  "opened_at": "2026-04-26T16:00:00",
+  "resolved_at": "2026-04-26T17:17:44",
+  "csat": 3
+ },
+ {
+  "ticket_id": 5429,
+  "client": 84,
+  "priority": "P3",
+  "category": "Hosting",
+  "summary": "Hosting issue reported by contact84@north84.example.co.uk",
+  "opened_at": "2026-07-09T21:00:00",
+  "resolved_at": "2026-07-10T19:34:22",
+  "csat": null
+ },
+ {
+  "ticket_id": 5430,
+  "client": 85,
+  "priority": "P3",
+  "category": "Security",
+  "summary": "Security issue reported by contact85@north85.example.co.uk",
+  "opened_at": "2026-06-09T03:00:00",
+  "resolved_at": "2026-06-09T08:42:23",
+  "csat": 3
+ },
+ {
+  "ticket_id": 5431,
+  "client": 85,
+  "priority": "P3",
+  "category": "Security",
+  "summary": "Security issue reported by contact85@north85.example.co.uk",
+  "opened_at": "2026-05-04T00:00:00",
+  "resolved_at": "2026-05-04T06:33:07",
+  "csat": null
+ },
+ {
+  "ticket_id": 5432,
+  "client": 85,
+  "priority": "P3",
+  "category": "Billing query",
+  "summary": "Billing query issue reported by contact85@north85.example.co.uk",
+  "opened_at": "2026-06-17T06:00:00",
+  "resolved_at": "2026-06-18T16:50:59",
+  "csat": 5
+ },
+ {
+  "ticket_id": 5433,
+  "client": 86,
+  "priority": "P3",
+  "category": "Hosting",
+  "summary": "Hosting issue reported by contact86@north86.example.co.uk",
+  "opened_at": "2026-08-12T18:00:00",
+  "resolved_at": "2026-08-13T03:34:58",
+  "csat": 3
+ },
+ {
+  "ticket_id": 5434,
+  "client": 86,
+  "priority": "P3",
+  "category": "VoIP",
+  "summary": "VoIP issue reported by contact86@north86.example.co.uk",
+  "opened_at": "2026-06-09T11:00:00",
+  "resolved_at": "2026-06-10T01:00:38",
+  "csat": null
+ },
+ {
+  "ticket_id": 5435,
+  "client": 86,
+  "priority": "P2",
+  "category": "VoIP",
+  "summary": "VoIP issue reported by contact86@north86.example.co.uk",
+  "opened_at": "2026-08-30T09:00:00",
+  "resolved_at": "2026-08-30T12:03:00",
+  "csat": null
+ },
+ {
+  "ticket_id": 5436,
+  "client": 87,
+  "priority": "P3",
+  "category": "Email",
+  "summary": "Email issue reported by contact87@north87.example.co.uk",
+  "opened_at": "2026-07-27T12:00:00",
+  "resolved_at": null,
+  "csat": 5
+ },
+ {
+  "ticket_id": 5437,
+  "client": 87,
+  "priority": "P3",
+  "category": "Connectivity",
+  "summary": "Connectivity issue reported by contact87@north87.example.co.uk",
+  "opened_at": "2026-04-26T08:00:00",
+  "resolved_at": "2026-04-26T21:32:13",
+  "csat": 4
+ },
+ {
+  "ticket_id": 5438,
+  "client": 87,
+  "priority": "P1",
+  "category": "Security",
+  "summary": "Security issue reported by contact87@north87.example.co.uk",
+  "opened_at": "2026-04-16T00:00:00",
+  "resolved_at": null,
+  "csat": null
+ },
+ {
+  "ticket_id": 5439,
+  "client": 87,
+  "priority": "P4",
+  "category": "Security",
+  "summary": "Security issue reported by contact87@north87.example.co.uk",
+  "opened_at": "2026-07-07T03:00:00",
+  "resolved_at": "2026-07-13T05:43:06",
+  "csat": 5
+ },
+ {
+  "ticket_id": 5440,
+  "client": 87,
+  "priority": "P4",
+  "category": "Hosting",
+  "summary": "Hosting issue reported by contact87@north87.example.co.uk",
+  "opened_at": "2026-09-20T13:00:00",
+  "resolved_at": "2026-09-22T08:48:23",
+  "csat": 4
+ },
+ {
+  "ticket_id": 5441,
+  "client": 87,
+  "priority": "P4",
+  "category": "VoIP",
+  "summary": "VoIP issue reported by contact87@north87.example.co.uk",
+  "opened_at": "2026-08-27T16:00:00",
+  "resolved_at": "2026-08-29T05:35:30",
+  "csat": 4
+ },
+ {
+  "ticket_id": 5442,
+  "client": 88,
+  "priority": "P1",
+  "category": "Hosting",
+  "summary": "Hosting issue reported by contact88@north88.example.co.uk",
+  "opened_at": "2026-09-24T23:00:00",
+  "resolved_at": "2026-09-25T00:04:01",
+  "csat": 3
+ },
+ {
+  "ticket_id": 5443,
+  "client": 88,
+  "priority": "P3",
+  "category": "VoIP",
+  "summary": "VoIP issue reported by contact88@north88.example.co.uk",
+  "opened_at": "2026-09-25T07:00:00",
+  "resolved_at": "2026-09-27T02:36:05",
+  "csat": 1
+ },
+ {
+  "ticket_id": 5444,
+  "client": 88,
+  "priority": "P2",
+  "category": "Email",
+  "summary": "Email issue reported by contact88@north88.example.co.uk",
+  "opened_at": "2026-08-31T10:00:00",
+  "resolved_at": "2026-08-31T16:56:38",
+  "csat": 1
+ },
+ {
+  "ticket_id": 5445,
+  "client": 88,
+  "priority": "P2",
+  "category": "Security",
+  "summary": "Security issue reported by contact88@north88.example.co.uk",
+  "opened_at": "2026-07-31T17:00:00",
+  "resolved_at": "2026-08-01T08:04:42",
+  "csat": 3
+ },
+ {
+  "ticket_id": 5446,
+  "client": 88,
+  "priority": "P4",
+  "category": "Connectivity",
+  "summary": "Connectivity issue reported by contact88@north88.example.co.uk",
+  "opened_at": "2026-09-19T00:00:00",
+  "resolved_at": "2026-09-22T14:58:54",
+  "csat": null
+ },
+ {
+  "ticket_id": 5447,
+  "client": 88,
+  "priority": "P3",
+  "category": "Email",
+  "summary": "Email issue reported by contact88@north88.example.co.uk",
+  "opened_at": "2026-09-18T14:00:00",
+  "resolved_at": "2026-09-18T21:22:57",
+  "csat": null
+ },
+ {
+  "ticket_id": 5448,
+  "client": 88,
+  "priority": "P3",
+  "category": "VoIP",
+  "summary": "VoIP issue reported by contact88@north88.example.co.uk",
+  "opened_at": "2026-04-14T21:00:00",
+  "resolved_at": "2026-04-17T18:11:22",
+  "csat": 2
+ },
+ {
+  "ticket_id": 5449,
+  "client": 88,
+  "priority": "P3",
+  "category": "Email",
+  "summary": "Email issue reported by contact88@north88.example.co.uk",
+  "opened_at": "2026-08-04T10:00:00",
+  "resolved_at": "2026-08-05T04:18:58",
+  "csat": null
+ },
+ {
+  "ticket_id": 5450,
+  "client": 88,
+  "priority": "P3",
+  "category": "Hardware",
+  "summary": "Hardware issue reported by contact88@north88.example.co.uk",
+  "opened_at": "2026-07-23T14:00:00",
+  "resolved_at": "2026-07-23T17:30:05",
+  "csat": 2
+ },
+ {
+  "ticket_id": 5451,
+  "client": 88,
+  "priority": "P4",
+  "category": "Email",
+  "summary": "Email issue reported by contact88@north88.example.co.uk",
+  "opened_at": "2026-09-09T18:00:00",
+  "resolved_at": "2026-09-11T09:05:05",
+  "csat": null
+ },
+ {
+  "ticket_id": 5452,
+  "client": 88,
+  "priority": "P4",
+  "category": "Billing query",
+  "summary": "Billing query issue reported by contact88@north88.example.co.uk",
+  "opened_at": "2026-06-26T01:00:00",
+  "resolved_at": "2026-07-04T21:58:40",
+  "csat": 1
+ },
+ {
+  "ticket_id": 5453,
+  "client": 88,
+  "priority": "P4",
+  "category": "Email",
+  "summary": "Email issue reported by contact88@north88.example.co.uk",
+  "opened_at": "2026-09-24T09:00:00",
+  "resolved_at": "2026-10-01T00:40:16",
+  "csat": null
+ },
+ {
+  "ticket_id": 5454,
+  "client": 88,
+  "priority": "P3",
+  "category": "Hardware",
+  "summary": "Hardware issue reported by contact88@north88.example.co.uk",
+  "opened_at": "2026-07-20T05:00:00",
+  "resolved_at": null,
+  "csat": null
+ },
+ {
+  "ticket_id": 5455,
+  "client": 89,
+  "priority": "P3",
+  "category": "Connectivity",
+  "summary": "Connectivity issue reported by contact89@north89.example.co.uk",
+  "opened_at": "2026-05-16T23:00:00",
+  "resolved_at": "2026-05-19T12:11:33",
+  "csat": 2
+ },
+ {
+  "ticket_id": 5456,
+  "client": 89,
+  "priority": "P2",
+  "category": "Hosting",
+  "summary": "Hosting issue reported by contact89@north89.example.co.uk",
+  "opened_at": "2026-07-24T06:00:00",
+  "resolved_at": "2026-07-25T01:49:55",
+  "csat": 3
+ },
+ {
+  "ticket_id": 5457,
+  "client": 89,
+  "priority": "P3",
+  "category": "Email",
+  "summary": "Email issue reported by contact89@north89.example.co.uk",
+  "opened_at": "2026-09-15T21:00:00",
+  "resolved_at": "2026-09-16T18:25:20",
+  "csat": 2
+ },
+ {
+  "ticket_id": 5458,
+  "client": 89,
+  "priority": "P4",
+  "category": "Hardware",
+  "summary": "Hardware issue reported by contact89@north89.example.co.uk",
+  "opened_at": "2026-06-13T06:00:00",
+  "resolved_at": "2026-06-14T05:07:05",
+  "csat": 1
+ },
+ {
+  "ticket_id": 5459,
+  "client": 89,
+  "priority": "P2",
+  "category": "VoIP",
+  "summary": "VoIP issue reported by contact89@north89.example.co.uk",
+  "opened_at": "2026-08-28T00:00:00",
+  "resolved_at": "2026-08-28T02:39:57",
+  "csat": null
+ },
+ {
+  "ticket_id": 5460,
+  "client": 89,
+  "priority": "P1",
+  "category": "Email",
+  "summary": "Email issue reported by contact89@north89.example.co.uk",
+  "opened_at": "2026-05-06T12:00:00",
+  "resolved_at": "2026-05-06T18:26:32",
+  "csat": 3
+ },
+ {
+  "ticket_id": 5461,
+  "client": 89,
+  "priority": "P3",
+  "category": "Security",
+  "summary": "Security issue reported by contact89@north89.example.co.uk",
+  "opened_at": "2026-09-26T21:00:00",
+  "resolved_at": "2026-09-27T16:27:15",
+  "csat": 2
+ },
+ {
+  "ticket_id": 5462,
+  "client": 89,
+  "priority": "P1",
+  "category": "Hosting",
+  "summary": "Hosting issue reported by contact89@north89.example.co.uk",
+  "opened_at": "2026-09-27T10:00:00",
+  "resolved_at": "2026-09-27T19:14:48",
+  "csat": null
+ },
+ {
+  "ticket_id": 5463,
+  "client": 89,
+  "priority": "P4",
+  "category": "Hardware",
+  "summary": "Hardware issue reported by contact89@north89.example.co.uk",
+  "opened_at": "2026-09-09T16:00:00",
+  "resolved_at": "2026-09-12T09:32:29",
+  "csat": 2
+ },
+ {
+  "ticket_id": 5464,
+  "client": 89,
+  "priority": "P2",
+  "category": "Hosting",
+  "summary": "Hosting issue reported by contact89@north89.example.co.uk",
+  "opened_at": "2026-07-25T09:00:00",
+  "resolved_at": "2026-07-25T10:47:56",
+  "csat": null
+ },
+ {
+  "ticket_id": 5465,
+  "client": 89,
+  "priority": "P2",
+  "category": "Email",
+  "summary": "Email issue reported by contact89@north89.example.co.uk",
+  "opened_at": "2026-04-15T23:00:00",
+  "resolved_at": null,
+  "csat": 1
+ },
+ {
+  "ticket_id": 5466,
+  "client": 90,
+  "priority": "P1",
+  "category": "Hosting",
+  "summary": "Hosting issue reported by contact90@north90.example.co.uk",
+  "opened_at": "2026-07-25T16:00:00",
+  "resolved_at": "2026-07-25T19:17:16",
+  "csat": 4
+ },
+ {
+  "ticket_id": 5467,
+  "client": 90,
+  "priority": "P3",
+  "category": "VoIP",
+  "summary": "VoIP issue reported by contact90@north90.example.co.uk",
+  "opened_at": "2026-09-02T22:00:00",
+  "resolved_at": "2026-09-03T01:58:47",
+  "csat": null
+ },
+ {
+  "ticket_id": 5468,
+  "client": 90,
+  "priority": "P1",
+  "category": "Connectivity",
+  "summary": "Connectivity issue reported by contact90@north90.example.co.uk",
+  "opened_at": "2026-04-08T11:00:00",
+  "resolved_at": "2026-04-08T12:21:44",
+  "csat": 4
+ },
+ {
+  "ticket_id": 5469,
+  "client": 90,
+  "priority": "P3",
+  "category": "Connectivity",
+  "summary": "Connectivity issue reported by contact90@north90.example.co.uk",
+  "opened_at": "2026-06-17T04:00:00",
+  "resolved_at": "2026-06-17T12:23:55",
+  "csat": null
+ },
+ {
+  "ticket_id": 5470,
+  "client": 90,
+  "priority": "P1",
+  "category": "Hosting",
+  "summary": "Hosting issue reported by contact90@north90.example.co.uk",
+  "opened_at": "2026-08-22T06:00:00",
+  "resolved_at": "2026-08-22T09:08:50",
+  "csat": 5
+ },
+ {
+  "ticket_id": 5471,
+  "client": 91,
+  "priority": "P4",
+  "category": "Hardware",
+  "summary": "Hardware issue reported by contact91@north91.example.co.uk",
+  "opened_at": "2026-08-05T12:00:00",
+  "resolved_at": "2026-08-12T22:33:08",
+  "csat": 1
+ },
+ {
+  "ticket_id": 5472,
+  "client": 91,
+  "priority": "P3",
+  "category": "Hardware",
+  "summary": "Hardware issue reported by contact91@north91.example.co.uk",
+  "opened_at": "2026-08-03T06:00:00",
+  "resolved_at": "2026-08-03T19:35:02",
+  "csat": null
+ },
+ {
+  "ticket_id": 5473,
+  "client": 91,
+  "priority": "P3",
+  "category": "Email",
+  "summary": "Email issue reported by contact91@north91.example.co.uk",
+  "opened_at": "2026-05-17T23:00:00",
+  "resolved_at": "2026-05-18T12:00:53",
+  "csat": 2
+ },
+ {
+  "ticket_id": 5474,
+  "client": 91,
+  "priority": "P2",
+  "category": "Hardware",
+  "summary": "Hardware issue reported by contact91@north91.example.co.uk",
+  "opened_at": "2026-07-29T14:00:00",
+  "resolved_at": "2026-07-29T17:15:40",
+  "csat": 3
+ },
+ {
+  "ticket_id": 5475,
+  "client": 91,
+  "priority": "P4",
+  "category": "Email",
+  "summary": "Email issue reported by contact91@north91.example.co.uk",
+  "opened_at": "2026-07-30T10:00:00",
+  "resolved_at": "2026-07-31T15:20:49",
+  "csat": null
+ },
+ {
+  "ticket_id": 5476,
+  "client": 91,
+  "priority": "P3",
+  "category": "VoIP",
+  "summary": "VoIP issue reported by contact91@north91.example.co.uk",
+  "opened_at": "2026-06-29T04:00:00",
+  "resolved_at": "2026-07-01T18:15:19",
+  "csat": 1
+ },
+ {
+  "ticket_id": 5477,
+  "client": 91,
+  "priority": "P4",
+  "category": "VoIP",
+  "summary": "VoIP issue reported by contact91@north91.example.co.uk",
+  "opened_at": "2026-05-15T17:00:00",
+  "resolved_at": "2026-05-22T08:11:40",
+  "csat": 2
+ },
+ {
+  "ticket_id": 5478,
+  "client": 91,
+  "priority": "P2",
+  "category": "Hosting",
+  "summary": "Hosting issue reported by contact91@north91.example.co.uk",
+  "opened_at": "2026-07-11T21:00:00",
+  "resolved_at": "2026-07-12T20:44:43",
+  "csat": 1
+ },
+ {
+  "ticket_id": 5479,
+  "client": 91,
+  "priority": "P1",
+  "category": "Hosting",
+  "summary": "Hosting issue reported by contact91@north91.example.co.uk",
+  "opened_at": "2026-08-14T10:00:00",
+  "resolved_at": "2026-08-14T16:24:05",
+  "csat": 1
+ },
+ {
+  "ticket_id": 5480,
+  "client": 91,
+  "priority": "P4",
+  "category": "Connectivity",
+  "summary": "Connectivity issue reported by contact91@north91.example.co.uk",
+  "opened_at": "2026-08-28T23:00:00",
+  "resolved_at": "2026-09-02T05:02:12",
+  "csat": 2
+ },
+ {
+  "ticket_id": 5481,
+  "client": 91,
+  "priority": "P2",
+  "category": "Email",
+  "summary": "Email issue reported by contact91@north91.example.co.uk",
+  "opened_at": "2026-06-13T13:00:00",
+  "resolved_at": "2026-06-13T15:26:30",
+  "csat": 2
+ },
+ {
+  "ticket_id": 5482,
+  "client": 91,
+  "priority": "P3",
+  "category": "Billing query",
+  "summary": "Billing query issue reported by contact91@north91.example.co.uk",
+  "opened_at": "2026-05-01T05:00:00",
+  "resolved_at": "2026-05-01T08:19:22",
+  "csat": 2
+ },
+ {
+  "ticket_id": 5483,
+  "client": 91,
+  "priority": "P4",
+  "category": "Billing query",
+  "summary": "Billing query issue reported by contact91@north91.example.co.uk",
+  "opened_at": "2026-04-21T10:00:00",
+  "resolved_at": "2026-04-29T00:50:52",
+  "csat": null
+ },
+ {
+  "ticket_id": 5484,
+  "client": 91,
+  "priority": "P2",
+  "category": "Email",
+  "summary": "Email issue reported by contact91@north91.example.co.uk",
+  "opened_at": "2026-05-02T08:00:00",
+  "resolved_at": "2026-05-02T12:50:10",
+  "csat": 2
+ },
+ {
+  "ticket_id": 5485,
+  "client": 92,
+  "priority": "P4",
+  "category": "VoIP",
+  "summary": "VoIP issue reported by contact92@north92.example.co.uk",
+  "opened_at": "2026-08-15T08:00:00",
+  "resolved_at": "2026-08-17T14:30:28",
+  "csat": null
+ },
+ {
+  "ticket_id": 5486,
+  "client": 92,
+  "priority": "P4",
+  "category": "Hardware",
+  "summary": "Hardware issue reported by contact92@north92.example.co.uk",
+  "opened_at": "2026-05-08T08:00:00",
+  "resolved_at": "2026-05-10T18:51:24",
+  "csat": null
+ },
+ {
+  "ticket_id": 5487,
+  "client": 92,
+  "priority": "P1",
+  "category": "Billing query",
+  "summary": "Billing query issue reported by contact92@north92.example.co.uk",
+  "opened_at": "2026-08-15T20:00:00",
+  "resolved_at": "2026-08-15T23:24:00",
+  "csat": 5
+ },
+ {
+  "ticket_id": 5488,
+  "client": 93,
+  "priority": "P2",
+  "category": "Hardware",
+  "summary": "Hardware issue reported by contact93@north93.example.co.uk",
+  "opened_at": "2026-09-04T13:00:00",
+  "resolved_at": "2026-09-05T01:57:44",
+  "csat": null
+ },
+ {
+  "ticket_id": 5489,
+  "client": 93,
+  "priority": "P4",
+  "category": "VoIP",
+  "summary": "VoIP issue reported by contact93@north93.example.co.uk",
+  "opened_at": "2026-07-25T05:00:00",
+  "resolved_at": "2026-07-27T04:59:08",
+  "csat": 3
+ },
+ {
+  "ticket_id": 5490,
+  "client": 93,
+  "priority": "P3",
+  "category": "Hosting",
+  "summary": "Hosting issue reported by contact93@north93.example.co.uk",
+  "opened_at": "2026-08-18T00:00:00",
+  "resolved_at": "2026-08-20T19:00:48",
+  "csat": null
+ },
+ {
+  "ticket_id": 5491,
+  "client": 93,
+  "priority": "P2",
+  "category": "Billing query",
+  "summary": "Billing query issue reported by contact93@north93.example.co.uk",
+  "opened_at": "2026-09-23T13:00:00",
+  "resolved_at": "2026-09-23T17:41:02",
+  "csat": null
+ },
+ {
+  "ticket_id": 5492,
+  "client": 93,
+  "priority": "P4",
+  "category": "Connectivity",
+  "summary": "Connectivity issue reported by contact93@north93.example.co.uk",
+  "opened_at": "2026-06-05T15:00:00",
+  "resolved_at": "2026-06-08T06:27:14",
+  "csat": 2
+ },
+ {
+  "ticket_id": 5493,
+  "client": 93,
+  "priority": "P4",
+  "category": "Email",
+  "summary": "Email issue reported by contact93@north93.example.co.uk",
+  "opened_at": "2026-09-07T20:00:00",
+  "resolved_at": "2026-09-08T10:19:39",
+  "csat": 1
+ },
+ {
+  "ticket_id": 5494,
+  "client": 93,
+  "priority": "P2",
+  "category": "Billing query",
+  "summary": "Billing query issue reported by contact93@north93.example.co.uk",
+  "opened_at": "2026-09-10T14:00:00",
+  "resolved_at": "2026-09-11T05:41:33",
+  "csat": 3
+ },
+ {
+  "ticket_id": 5495,
+  "client": 93,
+  "priority": "P4",
+  "category": "Billing query",
+  "summary": "Billing query issue reported by contact93@north93.example.co.uk",
+  "opened_at": "2026-04-06T14:00:00",
+  "resolved_at": "2026-04-10T10:56:24",
+  "csat": null
+ },
+ {
+  "ticket_id": 5496,
+  "client": 93,
+  "priority": "P4",
+  "category": "Billing query",
+  "summary": "Billing query issue reported by contact93@north93.example.co.uk",
+  "opened_at": "2026-05-10T03:00:00",
+  "resolved_at": null,
+  "csat": null
+ },
+ {
+  "ticket_id": 5497,
+  "client": 93,
+  "priority": "P3",
+  "category": "Security",
+  "summary": "Security issue reported by contact93@north93.example.co.uk",
+  "opened_at": "2026-06-25T17:00:00",
+  "resolved_at": "2026-06-27T02:18:19",
+  "csat": 1
+ },
+ {
+  "ticket_id": 5498,
+  "client": 93,
+  "priority": "P4",
+  "category": "Billing query",
+  "summary": "Billing query issue reported by contact93@north93.example.co.uk",
+  "opened_at": "2026-08-10T04:00:00",
+  "resolved_at": "2026-08-12T15:39:28",
+  "csat": 2
+ },
+ {
+  "ticket_id": 5499,
+  "client": 93,
+  "priority": "P2",
+  "category": "Email",
+  "summary": "Email issue reported by contact93@north93.example.co.uk",
+  "opened_at": "2026-05-10T05:00:00",
+  "resolved_at": "2026-05-10T20:09:21",
+  "csat": 1
+ },
+ {
+  "ticket_id": 5500,
+  "client": 93,
+  "priority": "P3",
+  "category": "Email",
+  "summary": "Email issue reported by contact93@north93.example.co.uk",
+  "opened_at": "2026-04-19T13:00:00",
+  "resolved_at": "2026-04-19T19:04:23",
+  "csat": 3
+ },
+ {
+  "ticket_id": 5501,
+  "client": 94,
+  "priority": "P3",
+  "category": "Connectivity",
+  "summary": "Connectivity issue reported by contact94@north94.example.co.uk",
+  "opened_at": "2026-05-27T04:00:00",
+  "resolved_at": "2026-05-27T16:12:41",
+  "csat": 4
+ },
+ {
+  "ticket_id": 5502,
+  "client": 94,
+  "priority": "P3",
+  "category": "Hardware",
+  "summary": "Hardware issue reported by contact94@north94.example.co.uk",
+  "opened_at": "2026-06-14T10:00:00",
+  "resolved_at": "2026-06-14T14:45:45",
+  "csat": 4
+ },
+ {
+  "ticket_id": 5503,
+  "client": 94,
+  "priority": "P3",
+  "category": "Security",
+  "summary": "Security issue reported by contact94@north94.example.co.uk",
+  "opened_at": "2026-04-04T12:00:00",
+  "resolved_at": "2026-04-05T00:16:05",
+  "csat": 5
+ },
+ {
+  "ticket_id": 5504,
+  "client": 95,
+  "priority": "P2",
+  "category": "Hardware",
+  "summary": "Hardware issue reported by contact95@north95.example.co.uk",
+  "opened_at": "2026-09-22T15:00:00",
+  "resolved_at": null,
+  "csat": 4
+ },
+ {
+  "ticket_id": 5505,
+  "client": 96,
+  "priority": "P3",
+  "category": "Connectivity",
+  "summary": "Connectivity issue reported by contact96@north96.example.co.uk",
+  "opened_at": "2026-07-10T11:00:00",
+  "resolved_at": "2026-07-10T21:31:59",
+  "csat": 4
+ },
+ {
+  "ticket_id": 5506,
+  "client": 96,
+  "priority": "P3",
+  "category": "VoIP",
+  "summary": "VoIP issue reported by contact96@north96.example.co.uk",
+  "opened_at": "2026-04-20T23:00:00",
+  "resolved_at": "2026-04-21T13:04:44",
+  "csat": 3
+ },
+ {
+  "ticket_id": 5507,
+  "client": 96,
+  "priority": "P3",
+  "category": "Billing query",
+  "summary": "Billing query issue reported by contact96@north96.example.co.uk",
+  "opened_at": "2026-04-25T05:00:00",
+  "resolved_at": null,
+  "csat": null
+ },
+ {
+  "ticket_id": 5508,
+  "client": 96,
+  "priority": "P4",
+  "category": "Billing query",
+  "summary": "Billing query issue reported by contact96@north96.example.co.uk",
+  "opened_at": "2026-04-02T14:00:00",
+  "resolved_at": null,
+  "csat": null
+ },
+ {
+  "ticket_id": 5509,
+  "client": 96,
+  "priority": "P4",
+  "category": "Billing query",
+  "summary": "Billing query issue reported by contact96@north96.example.co.uk",
+  "opened_at": "2026-05-15T18:00:00",
+  "resolved_at": "2026-05-17T01:24:22",
+  "csat": 4
+ },
+ {
+  "ticket_id": 5510,
+  "client": 97,
+  "priority": "P3",
+  "category": "Security",
+  "summary": "Security issue reported by contact97@north97.example.co.uk",
+  "opened_at": "2026-06-16T18:00:00",
+  "resolved_at": null,
+  "csat": 3
+ },
+ {
+  "ticket_id": 5511,
+  "client": 97,
+  "priority": "P4",
+  "category": "Connectivity",
+  "summary": "Connectivity issue reported by contact97@north97.example.co.uk",
+  "opened_at": "2026-05-24T12:00:00",
+  "resolved_at": "2026-05-29T09:55:36",
+  "csat": 3
+ },
+ {
+  "ticket_id": 5512,
+  "client": 98,
+  "priority": "P3",
+  "category": "Email",
+  "summary": "Email issue reported by contact98@north98.example.co.uk",
+  "opened_at": "2026-08-29T12:00:00",
+  "resolved_at": "2026-09-01T00:10:04",
+  "csat": null
+ },
+ {
+  "ticket_id": 5513,
+  "client": 98,
+  "priority": "P3",
+  "category": "Billing query",
+  "summary": "Billing query issue reported by contact98@north98.example.co.uk",
+  "opened_at": "2026-05-23T01:00:00",
+  "resolved_at": "2026-05-23T03:48:40",
+  "csat": 1
+ },
+ {
+  "ticket_id": 5514,
+  "client": 98,
+  "priority": "P3",
+  "category": "Security",
+  "summary": "Security issue reported by contact98@north98.example.co.uk",
+  "opened_at": "2026-09-05T01:00:00",
+  "resolved_at": "2026-09-07T17:18:54",
+  "csat": null
+ },
+ {
+  "ticket_id": 5515,
+  "client": 98,
+  "priority": "P1",
+  "category": "Email",
+  "summary": "Email issue reported by contact98@north98.example.co.uk",
+  "opened_at": "2026-05-21T01:00:00",
+  "resolved_at": "2026-05-21T06:56:24",
+  "csat": 2
+ },
+ {
+  "ticket_id": 5516,
+  "client": 98,
+  "priority": "P2",
+  "category": "Hardware",
+  "summary": "Hardware issue reported by contact98@north98.example.co.uk",
+  "opened_at": "2026-07-17T11:00:00",
+  "resolved_at": "2026-07-17T15:36:53",
+  "csat": 3
+ },
+ {
+  "ticket_id": 5517,
+  "client": 98,
+  "priority": "P1",
+  "category": "Email",
+  "summary": "Email issue reported by contact98@north98.example.co.uk",
+  "opened_at": "2026-07-29T12:00:00",
+  "resolved_at": "2026-07-29T13:44:18",
+  "csat": 2
+ },
+ {
+  "ticket_id": 5518,
+  "client": 98,
+  "priority": "P4",
+  "category": "Email",
+  "summary": "Email issue reported by contact98@north98.example.co.uk",
+  "opened_at": "2026-08-03T06:00:00",
+  "resolved_at": "2026-08-07T20:57:12",
+  "csat": null
+ },
+ {
+  "ticket_id": 5519,
+  "client": 98,
+  "priority": "P2",
+  "category": "Hosting",
+  "summary": "Hosting issue reported by contact98@north98.example.co.uk",
+  "opened_at": "2026-07-12T14:00:00",
+  "resolved_at": "2026-07-12T15:22:07",
+  "csat": 2
+ },
+ {
+  "ticket_id": 5520,
+  "client": 99,
+  "priority": "P3",
+  "category": "Security",
+  "summary": "Security issue reported by contact99@river99.example.co.uk",
+  "opened_at": "2026-09-08T20:00:00",
+  "resolved_at": "2026-09-09T09:04:38",
+  "csat": null
+ },
+ {
+  "ticket_id": 5521,
+  "client": 99,
+  "priority": "P3",
+  "category": "Connectivity",
+  "summary": "Connectivity issue reported by contact99@river99.example.co.uk",
+  "opened_at": "2026-05-26T16:00:00",
+  "resolved_at": "2026-05-27T11:25:12",
+  "csat": 2
+ },
+ {
+  "ticket_id": 5522,
+  "client": 99,
+  "priority": "P3",
+  "category": "Hosting",
+  "summary": "Hosting issue reported by contact99@river99.example.co.uk",
+  "opened_at": "2026-09-28T16:00:00",
+  "resolved_at": "2026-09-29T10:36:42",
+  "csat": 1
+ },
+ {
+  "ticket_id": 5523,
+  "client": 99,
+  "priority": "P3",
+  "category": "Billing query",
+  "summary": "Billing query issue reported by contact99@river99.example.co.uk",
+  "opened_at": "2026-07-09T10:00:00",
+  "resolved_at": "2026-07-10T05:54:59",
+  "csat": null
+ },
+ {
+  "ticket_id": 5524,
+  "client": 99,
+  "priority": "P3",
+  "category": "Billing query",
+  "summary": "Billing query issue reported by contact99@river99.example.co.uk",
+  "opened_at": "2026-04-03T22:00:00",
+  "resolved_at": "2026-04-04T03:42:24",
+  "csat": null
+ },
+ {
+  "ticket_id": 5525,
+  "client": 99,
+  "priority": "P4",
+  "category": "Hosting",
+  "summary": "Hosting issue reported by contact99@river99.example.co.uk",
+  "opened_at": "2026-08-31T23:00:00",
+  "resolved_at": "2026-09-02T20:31:16",
+  "csat": 3
+ },
+ {
+  "ticket_id": 5526,
+  "client": 99,
+  "priority": "P1",
+  "category": "Billing query",
+  "summary": "Billing query issue reported by contact99@river99.example.co.uk",
+  "opened_at": "2026-06-14T12:00:00",
+  "resolved_at": "2026-06-14T23:58:03",
+  "csat": 3
+ },
+ {
+  "ticket_id": 5527,
+  "client": 99,
+  "priority": "P4",
+  "category": "Email",
+  "summary": "Email issue reported by contact99@river99.example.co.uk",
+  "opened_at": "2026-07-09T05:00:00",
+  "resolved_at": "2026-07-09T22:21:21",
+  "csat": null
+ },
+ {
+  "ticket_id": 5528,
+  "client": 99,
+  "priority": "P3",
+  "category": "VoIP",
+  "summary": "VoIP issue reported by contact99@river99.example.co.uk",
+  "opened_at": "2026-04-25T02:00:00",
+  "resolved_at": "2026-04-25T14:01:51",
+  "csat": 3
+ },
+ {
+  "ticket_id": 5529,
+  "client": 99,
+  "priority": "P3",
+  "category": "Hardware",
+  "summary": "Hardware issue reported by contact99@river99.example.co.uk",
+  "opened_at": "2026-08-26T19:00:00",
+  "resolved_at": "2026-08-26T21:36:01",
+  "csat": 1
+ },
+ {
+  "ticket_id": 5530,
+  "client": 99,
+  "priority": "P2",
+  "category": "Email",
+  "summary": "Email issue reported by contact99@river99.example.co.uk",
+  "opened_at": "2026-07-12T02:00:00",
+  "resolved_at": "2026-07-12T06:27:23",
+  "csat": 3
+ },
+ {
+  "ticket_id": 5531,
+  "client": 100,
+  "priority": "P3",
+  "category": "VoIP",
+  "summary": "VoIP issue reported by contact100@river100.example.co.uk",
+  "opened_at": "2026-07-02T04:00:00",
+  "resolved_at": "2026-07-04T11:04:27",
+  "csat": 2
+ },
+ {
+  "ticket_id": 5532,
+  "client": 100,
+  "priority": "P3",
+  "category": "Email",
+  "summary": "Email issue reported by contact100@river100.example.co.uk",
+  "opened_at": "2026-05-03T01:00:00",
+  "resolved_at": "2026-05-03T11:37:36",
+  "csat": 1
+ },
+ {
+  "ticket_id": 5533,
+  "client": 100,
+  "priority": "P2",
+  "category": "Email",
+  "summary": "Email issue reported by contact100@river100.example.co.uk",
+  "opened_at": "2026-09-10T06:00:00",
+  "resolved_at": "2026-09-10T08:42:14",
+  "csat": null
+ },
+ {
+  "ticket_id": 5534,
+  "client": 100,
+  "priority": "P3",
+  "category": "Security",
+  "summary": "Security issue reported by contact100@river100.example.co.uk",
+  "opened_at": "2026-05-19T06:00:00",
+  "resolved_at": "2026-05-21T10:38:59",
+  "csat": null
+ },
+ {
+  "ticket_id": 5535,
+  "client": 100,
+  "priority": "P4",
+  "category": "VoIP",
+  "summary": "VoIP issue reported by contact100@river100.example.co.uk",
+  "opened_at": "2026-04-25T03:00:00",
+  "resolved_at": "2026-04-28T10:33:55",
+  "csat": null
+ },
+ {
+  "ticket_id": 5536,
+  "client": 100,
+  "priority": "P2",
+  "category": "Connectivity",
+  "summary": "Connectivity issue reported by contact100@river100.example.co.uk",
+  "opened_at": "2026-04-25T20:00:00",
+  "resolved_at": "2026-04-25T20:48:06",
+  "csat": null
+ },
+ {
+  "ticket_id": 5537,
+  "client": 101,
+  "priority": "P3",
+  "category": "Connectivity",
+  "summary": "Connectivity issue reported by contact101@river101.example.co.uk",
+  "opened_at": "2026-06-09T11:00:00",
+  "resolved_at": "2026-06-09T23:36:27",
+  "csat": null
+ },
+ {
+  "ticket_id": 5538,
+  "client": 101,
+  "priority": "P3",
+  "category": "Hosting",
+  "summary": "Hosting issue reported by contact101@river101.example.co.uk",
+  "opened_at": "2026-06-23T02:00:00",
+  "resolved_at": null,
+  "csat": 3
+ },
+ {
+  "ticket_id": 5539,
+  "client": 101,
+  "priority": "P4",
+  "category": "Hosting",
+  "summary": "Hosting issue reported by contact101@river101.example.co.uk",
+  "opened_at": "2026-08-18T04:00:00",
+  "resolved_at": "2026-08-20T14:36:01",
+  "csat": 4
+ },
+ {
+  "ticket_id": 5540,
+  "client": 101,
+  "priority": "P3",
+  "category": "Connectivity",
+  "summary": "Connectivity issue reported by contact101@river101.example.co.uk",
+  "opened_at": "2026-04-07T21:00:00",
+  "resolved_at": "2026-04-08T06:30:10",
+  "csat": 5
+ },
+ {
+  "ticket_id": 5541,
+  "client": 102,
+  "priority": "P3",
+  "category": "VoIP",
+  "summary": "VoIP issue reported by contact102@river102.example.co.uk",
+  "opened_at": "2026-06-13T18:00:00",
+  "resolved_at": "2026-06-14T15:10:49",
+  "csat": null
+ },
+ {
+  "ticket_id": 5542,
+  "client": 102,
+  "priority": "P3",
+  "category": "Email",
+  "summary": "Email issue reported by contact102@river102.example.co.uk",
+  "opened_at": "2026-09-27T18:00:00",
+  "resolved_at": "2026-09-27T20:30:52",
+  "csat": 4
+ },
+ {
+  "ticket_id": 5543,
+  "client": 103,
+  "priority": "P2",
+  "category": "Hardware",
+  "summary": "Hardware issue reported by contact103@river103.example.co.uk",
+  "opened_at": "2026-09-26T05:00:00",
+  "resolved_at": null,
+  "csat": 4
+ },
+ {
+  "ticket_id": 5544,
+  "client": 103,
+  "priority": "P1",
+  "category": "Billing query",
+  "summary": "Billing query issue reported by contact103@river103.example.co.uk",
+  "opened_at": "2026-07-21T04:00:00",
+  "resolved_at": "2026-07-21T04:30:12",
+  "csat": 5
+ },
+ {
+  "ticket_id": 5545,
+  "client": 103,
+  "priority": "P2",
+  "category": "Hosting",
+  "summary": "Hosting issue reported by contact103@river103.example.co.uk",
+  "opened_at": "2026-06-05T09:00:00",
+  "resolved_at": "2026-06-05T14:12:11",
+  "csat": null
+ },
+ {
+  "ticket_id": 5546,
+  "client": 103,
+  "priority": "P4",
+  "category": "Security",
+  "summary": "Security issue reported by contact103@river103.example.co.uk",
+  "opened_at": "2026-09-22T05:00:00",
+  "resolved_at": "2026-09-24T09:15:18",
+  "csat": null
+ },
+ {
+  "ticket_id": 5547,
+  "client": 104,
+  "priority": "P3",
+  "category": "Security",
+  "summary": "Security issue reported by contact104@river104.example.co.uk",
+  "opened_at": "2026-08-30T23:00:00",
+  "resolved_at": "2026-08-31T07:48:37",
+  "csat": 3
+ },
+ {
+  "ticket_id": 5548,
+  "client": 104,
+  "priority": "P4",
+  "category": "Email",
+  "summary": "Email issue reported by contact104@river104.example.co.uk",
+  "opened_at": "2026-04-15T05:00:00",
+  "resolved_at": "2026-04-17T05:19:33",
+  "csat": null
+ },
+ {
+  "ticket_id": 5549,
+  "client": 104,
+  "priority": "P4",
+  "category": "Hardware",
+  "summary": "Hardware issue reported by contact104@river104.example.co.uk",
+  "opened_at": "2026-05-02T01:00:00",
+  "resolved_at": "2026-05-04T17:45:40",
+  "csat": 3
+ },
+ {
+  "ticket_id": 5550,
+  "client": 104,
+  "priority": "P4",
+  "category": "Connectivity",
+  "summary": "Connectivity issue reported by contact104@river104.example.co.uk",
+  "opened_at": "2026-09-13T18:00:00",
+  "resolved_at": "2026-09-15T21:48:43",
+  "csat": null
+ },
+ {
+  "ticket_id": 5551,
+  "client": 104,
+  "priority": "P3",
+  "category": "Security",
+  "summary": "Security issue reported by contact104@river104.example.co.uk",
+  "opened_at": "2026-04-27T18:00:00",
+  "resolved_at": "2026-04-28T09:21:36",
+  "csat": null
+ },
+ {
+  "ticket_id": 5552,
+  "client": 104,
+  "priority": "P3",
+  "category": "Billing query",
+  "summary": "Billing query issue reported by contact104@river104.example.co.uk",
+  "opened_at": "2026-07-21T07:00:00",
+  "resolved_at": "2026-07-21T20:59:26",
+  "csat": 3
+ },
+ {
+  "ticket_id": 5553,
+  "client": 107,
+  "priority": "P3",
+  "category": "VoIP",
+  "summary": "VoIP issue reported by contact107@river107.example.co.uk",
+  "opened_at": "2026-09-07T19:00:00",
+  "resolved_at": "2026-09-07T21:48:36",
+  "csat": null
+ },
+ {
+  "ticket_id": 5554,
+  "client": 108,
+  "priority": "P4",
+  "category": "Billing query",
+  "summary": "Billing query issue reported by contact108@river108.example.co.uk",
+  "opened_at": "2026-06-04T22:00:00",
+  "resolved_at": "2026-06-06T00:02:10",
+  "csat": 3
+ },
+ {
+  "ticket_id": 5555,
+  "client": 108,
+  "priority": "P1",
+  "category": "VoIP",
+  "summary": "VoIP issue reported by contact108@river108.example.co.uk",
+  "opened_at": "2026-08-27T15:00:00",
+  "resolved_at": "2026-08-27T16:00:18",
+  "csat": 3
+ },
+ {
+  "ticket_id": 5556,
+  "client": 109,
+  "priority": "P4",
+  "category": "Connectivity",
+  "summary": "Connectivity issue reported by contact109@river109.example.co.uk",
+  "opened_at": "2026-08-09T19:00:00",
+  "resolved_at": "2026-08-11T05:06:12",
+  "csat": 4
+ },
+ {
+  "ticket_id": 5557,
+  "client": 109,
+  "priority": "P3",
+  "category": "Connectivity",
+  "summary": "Connectivity issue reported by contact109@river109.example.co.uk",
+  "opened_at": "2026-04-18T08:00:00",
+  "resolved_at": "2026-04-19T03:22:02",
+  "csat": 3
+ },
+ {
+  "ticket_id": 5558,
+  "client": 110,
+  "priority": "P3",
+  "category": "VoIP",
+  "summary": "VoIP issue reported by contact110@river110.example.co.uk",
+  "opened_at": "2026-04-03T11:00:00",
+  "resolved_at": "2026-04-04T05:38:38",
+  "csat": 3
+ },
+ {
+  "ticket_id": 5559,
+  "client": 110,
+  "priority": "P3",
+  "category": "Email",
+  "summary": "Email issue reported by contact110@river110.example.co.uk",
+  "opened_at": "2026-07-23T22:00:00",
+  "resolved_at": null,
+  "csat": null
+ },
+ {
+  "ticket_id": 5560,
+  "client": 110,
+  "priority": "P2",
+  "category": "Email",
+  "summary": "Email issue reported by contact110@river110.example.co.uk",
+  "opened_at": "2026-04-14T04:00:00",
+  "resolved_at": "2026-04-14T21:43:10",
+  "csat": 1
+ },
+ {
+  "ticket_id": 5561,
+  "client": 110,
+  "priority": "P2",
+  "category": "VoIP",
+  "summary": "VoIP issue reported by contact110@river110.example.co.uk",
+  "opened_at": "2026-07-09T02:00:00",
+  "resolved_at": "2026-07-10T00:29:44",
+  "csat": null
+ },
+ {
+  "ticket_id": 5562,
+  "client": 110,
+  "priority": "P2",
+  "category": "Hosting",
+  "summary": "Hosting issue reported by contact110@river110.example.co.uk",
+  "opened_at": "2026-04-17T21:00:00",
+  "resolved_at": "2026-04-18T08:16:25",
+  "csat": null
+ },
+ {
+  "ticket_id": 5563,
+  "client": 110,
+  "priority": "P3",
+  "category": "Hardware",
+  "summary": "Hardware issue reported by contact110@river110.example.co.uk",
+  "opened_at": "2026-04-25T10:00:00",
+  "resolved_at": "2026-04-26T03:18:41",
+  "csat": null
+ },
+ {
+  "ticket_id": 5564,
+  "client": 110,
+  "priority": "P3",
+  "category": "VoIP",
+  "summary": "VoIP issue reported by contact110@river110.example.co.uk",
+  "opened_at": "2026-06-26T05:00:00",
+  "resolved_at": "2026-06-26T13:31:24",
+  "csat": 3
+ },
+ {
+  "ticket_id": 5565,
+  "client": 110,
+  "priority": "P3",
+  "category": "Hosting",
+  "summary": "Hosting issue reported by contact110@river110.example.co.uk",
+  "opened_at": "2026-09-02T11:00:00",
+  "resolved_at": null,
+  "csat": 2
+ },
+ {
+  "ticket_id": 5566,
+  "client": 110,
+  "priority": "P4",
+  "category": "Security",
+  "summary": "Security issue reported by contact110@river110.example.co.uk",
+  "opened_at": "2026-04-30T02:00:00",
+  "resolved_at": "2026-05-08T22:13:41",
+  "csat": 1
+ },
+ {
+  "ticket_id": 5567,
+  "client": 110,
+  "priority": "P4",
+  "category": "Hardware",
+  "summary": "Hardware issue reported by contact110@river110.example.co.uk",
+  "opened_at": "2026-09-06T15:00:00",
+  "resolved_at": "2026-09-11T21:32:48",
+  "csat": null
+ },
+ {
+  "ticket_id": 5568,
+  "client": 110,
+  "priority": "P4",
+  "category": "VoIP",
+  "summary": "VoIP issue reported by contact110@river110.example.co.uk",
+  "opened_at": "2026-08-23T18:00:00",
+  "resolved_at": "2026-08-27T12:11:43",
+  "csat": 3
+ },
+ {
+  "ticket_id": 5569,
+  "client": 111,
+  "priority": "P4",
+  "category": "Email",
+  "summary": "Email issue reported by contact111@tees111.example.co.uk",
+  "opened_at": "2026-04-07T07:00:00",
+  "resolved_at": "2026-04-13T07:30:02",
+  "csat": 2
+ },
+ {
+  "ticket_id": 5570,
+  "client": 111,
+  "priority": "P4",
+  "category": "Billing query",
+  "summary": "Billing query issue reported by contact111@tees111.example.co.uk",
+  "opened_at": "2026-04-04T18:00:00",
+  "resolved_at": "2026-04-07T04:04:42",
+  "csat": 2
+ },
+ {
+  "ticket_id": 5571,
+  "client": 111,
+  "priority": "P4",
+  "category": "Email",
+  "summary": "Email issue reported by contact111@tees111.example.co.uk",
+  "opened_at": "2026-08-28T14:00:00",
+  "resolved_at": "2026-09-05T06:58:55",
+  "csat": 2
+ },
+ {
+  "ticket_id": 5572,
+  "client": 111,
+  "priority": "P3",
+  "category": "Hosting",
+  "summary": "Hosting issue reported by contact111@tees111.example.co.uk",
+  "opened_at": "2026-04-30T12:00:00",
+  "resolved_at": null,
+  "csat": 1
+ },
+ {
+  "ticket_id": 5573,
+  "client": 111,
+  "priority": "P3",
+  "category": "Hosting",
+  "summary": "Hosting issue reported by contact111@tees111.example.co.uk",
+  "opened_at": "2026-07-31T13:00:00",
+  "resolved_at": "2026-07-31T15:25:56",
+  "csat": 3
+ },
+ {
+  "ticket_id": 5574,
+  "client": 111,
+  "priority": "P3",
+  "category": "Connectivity",
+  "summary": "Connectivity issue reported by contact111@tees111.example.co.uk",
+  "opened_at": "2026-08-02T20:00:00",
+  "resolved_at": "2026-08-04T12:10:06",
+  "csat": 2
+ },
+ {
+  "ticket_id": 5575,
+  "client": 111,
+  "priority": "P3",
+  "category": "Email",
+  "summary": "Email issue reported by contact111@tees111.example.co.uk",
+  "opened_at": "2026-08-22T15:00:00",
+  "resolved_at": "2026-08-23T03:12:19",
+  "csat": 1
+ },
+ {
+  "ticket_id": 5576,
+  "client": 112,
+  "priority": "P4",
+  "category": "Billing query",
+  "summary": "Billing query issue reported by contact112@tees112.example.co.uk",
+  "opened_at": "2026-04-08T08:00:00",
+  "resolved_at": "2026-04-08T20:15:27",
+  "csat": 4
+ },
+ {
+  "ticket_id": 5577,
+  "client": 112,
+  "priority": "P3",
+  "category": "Hardware",
+  "summary": "Hardware issue reported by contact112@tees112.example.co.uk",
+  "opened_at": "2026-09-26T19:00:00",
+  "resolved_at": null,
+  "csat": 5
+ },
+ {
+  "ticket_id": 5578,
+  "client": 112,
+  "priority": "P4",
+  "category": "Billing query",
+  "summary": "Billing query issue reported by contact112@tees112.example.co.uk",
+  "opened_at": "2026-06-19T11:00:00",
+  "resolved_at": "2026-06-20T10:01:45",
+  "csat": 4
+ },
+ {
+  "ticket_id": 5579,
+  "client": 113,
+  "priority": "P3",
+  "category": "Connectivity",
+  "summary": "Connectivity issue reported by contact113@tees113.example.co.uk",
+  "opened_at": "2026-06-26T09:00:00",
+  "resolved_at": "2026-06-27T07:13:26",
+  "csat": 5
+ },
+ {
+  "ticket_id": 5580,
+  "client": 113,
+  "priority": "P2",
+  "category": "Billing query",
+  "summary": "Billing query issue reported by contact113@tees113.example.co.uk",
+  "opened_at": "2026-06-23T03:00:00",
+  "resolved_at": "2026-06-24T02:12:45",
+  "csat": null
+ },
+ {
+  "ticket_id": 5581,
+  "client": 113,
+  "priority": "P4",
+  "category": "Connectivity",
+  "summary": "Connectivity issue reported by contact113@tees113.example.co.uk",
+  "opened_at": "2026-04-25T01:00:00",
+  "resolved_at": "2026-04-26T12:38:36",
+  "csat": 4
+ },
+ {
+  "ticket_id": 5582,
+  "client": 113,
+  "priority": "P3",
+  "category": "Email",
+  "summary": "Email issue reported by contact113@tees113.example.co.uk",
+  "opened_at": "2026-09-17T05:00:00",
+  "resolved_at": "2026-09-17T14:17:03",
+  "csat": null
+ },
+ {
+  "ticket_id": 5583,
+  "client": 114,
+  "priority": "P3",
+  "category": "Billing query",
+  "summary": "Billing query issue reported by contact114@tees114.example.co.uk",
+  "opened_at": "2026-08-15T15:00:00",
+  "resolved_at": null,
+  "csat": null
+ },
+ {
+  "ticket_id": 5584,
+  "client": 114,
+  "priority": "P4",
+  "category": "Connectivity",
+  "summary": "Connectivity issue reported by contact114@tees114.example.co.uk",
+  "opened_at": "2026-09-20T07:00:00",
+  "resolved_at": "2026-09-20T19:20:37",
+  "csat": null
+ },
+ {
+  "ticket_id": 5585,
+  "client": 115,
+  "priority": "P4",
+  "category": "Security",
+  "summary": "Security issue reported by contact115@tees115.example.co.uk",
+  "opened_at": "2026-07-21T13:00:00",
+  "resolved_at": "2026-07-22T11:08:20",
+  "csat": 3
+ },
+ {
+  "ticket_id": 5586,
+  "client": 115,
+  "priority": "P1",
+  "category": "Hosting",
+  "summary": "Hosting issue reported by contact115@tees115.example.co.uk",
+  "opened_at": "2026-05-07T10:00:00",
+  "resolved_at": "2026-05-07T14:41:27",
+  "csat": 1
+ },
+ {
+  "ticket_id": 5587,
+  "client": 115,
+  "priority": "P4",
+  "category": "Billing query",
+  "summary": "Billing query issue reported by contact115@tees115.example.co.uk",
+  "opened_at": "2026-06-24T08:00:00",
+  "resolved_at": "2026-07-02T22:04:25",
+  "csat": 1
+ },
+ {
+  "ticket_id": 5588,
+  "client": 115,
+  "priority": "P3",
+  "category": "Hardware",
+  "summary": "Hardware issue reported by contact115@tees115.example.co.uk",
+  "opened_at": "2026-07-26T01:00:00",
+  "resolved_at": "2026-07-26T20:28:18",
+  "csat": 3
+ },
+ {
+  "ticket_id": 5589,
+  "client": 115,
+  "priority": "P3",
+  "category": "Billing query",
+  "summary": "Billing query issue reported by contact115@tees115.example.co.uk",
+  "opened_at": "2026-07-25T15:00:00",
+  "resolved_at": "2026-07-26T09:35:31",
+  "csat": null
+ },
+ {
+  "ticket_id": 5590,
+  "client": 115,
+  "priority": "P4",
+  "category": "Security",
+  "summary": "Security issue reported by contact115@tees115.example.co.uk",
+  "opened_at": "2026-05-31T18:00:00",
+  "resolved_at": "2026-06-08T07:22:18",
+  "csat": 1
+ },
+ {
+  "ticket_id": 5591,
+  "client": 115,
+  "priority": "P4",
+  "category": "Hardware",
+  "summary": "Hardware issue reported by contact115@tees115.example.co.uk",
+  "opened_at": "2026-04-28T12:00:00",
+  "resolved_at": "2026-04-29T11:53:16",
+  "csat": 3
+ },
+ {
+  "ticket_id": 5592,
+  "client": 115,
+  "priority": "P2",
+  "category": "Email",
+  "summary": "Email issue reported by contact115@tees115.example.co.uk",
+  "opened_at": "2026-08-27T16:00:00",
+  "resolved_at": "2026-08-27T23:26:09",
+  "csat": null
+ },
+ {
+  "ticket_id": 5593,
+  "client": 115,
+  "priority": "P1",
+  "category": "Security",
+  "summary": "Security issue reported by contact115@tees115.example.co.uk",
+  "opened_at": "2026-07-08T17:00:00",
+  "resolved_at": "2026-07-09T02:48:41",
+  "csat": 3
+ },
+ {
+  "ticket_id": 5594,
+  "client": 115,
+  "priority": "P3",
+  "category": "Email",
+  "summary": "Email issue reported by contact115@tees115.example.co.uk",
+  "opened_at": "2026-07-07T07:00:00",
+  "resolved_at": "2026-07-07T09:39:22",
+  "csat": 1
+ },
+ {
+  "ticket_id": 5595,
+  "client": 115,
+  "priority": "P3",
+  "category": "Hardware",
+  "summary": "Hardware issue reported by contact115@tees115.example.co.uk",
+  "opened_at": "2026-06-03T01:00:00",
+  "resolved_at": "2026-06-03T06:52:05",
+  "csat": null
+ },
+ {
+  "ticket_id": 5596,
+  "client": 115,
+  "priority": "P3",
+  "category": "VoIP",
+  "summary": "VoIP issue reported by contact115@tees115.example.co.uk",
+  "opened_at": "2026-05-06T22:00:00",
+  "resolved_at": "2026-05-07T07:26:38",
+  "csat": 2
+ },
+ {
+  "ticket_id": 5597,
+  "client": 115,
+  "priority": "P3",
+  "category": "Hosting",
+  "summary": "Hosting issue reported by contact115@tees115.example.co.uk",
+  "opened_at": "2026-07-17T14:00:00",
+  "resolved_at": "2026-07-17T19:34:49",
+  "csat": null
+ },
+ {
+  "ticket_id": 5598,
+  "client": 116,
+  "priority": "P3",
+  "category": "Hosting",
+  "summary": "Hosting issue reported by contact116@tees116.example.co.uk",
+  "opened_at": "2026-09-24T15:00:00",
+  "resolved_at": "2026-09-24T22:11:17",
+  "csat": 1
+ },
+ {
+  "ticket_id": 5599,
+  "client": 116,
+  "priority": "P2",
+  "category": "VoIP",
+  "summary": "VoIP issue reported by contact116@tees116.example.co.uk",
+  "opened_at": "2026-09-05T12:00:00",
+  "resolved_at": "2026-09-05T16:40:51",
+  "csat": 3
+ },
+ {
+  "ticket_id": 5600,
+  "client": 116,
+  "priority": "P3",
+  "category": "Hosting",
+  "summary": "Hosting issue reported by contact116@tees116.example.co.uk",
+  "opened_at": "2026-06-19T07:00:00",
+  "resolved_at": "2026-06-19T17:55:51",
+  "csat": 3
+ },
+ {
+  "ticket_id": 5601,
+  "client": 116,
+  "priority": "P4",
+  "category": "Email",
+  "summary": "Email issue reported by contact116@tees116.example.co.uk",
+  "opened_at": "2026-09-02T03:00:00",
+  "resolved_at": "2026-09-04T08:49:09",
+  "csat": 1
+ },
+ {
+  "ticket_id": 5602,
+  "client": 116,
+  "priority": "P4",
+  "category": "VoIP",
+  "summary": "VoIP issue reported by contact116@tees116.example.co.uk",
+  "opened_at": "2026-06-18T09:00:00",
+  "resolved_at": "2026-06-26T22:40:42",
+  "csat": null
+ },
+ {
+  "ticket_id": 5603,
+  "client": 116,
+  "priority": "P3",
+  "category": "VoIP",
+  "summary": "VoIP issue reported by contact116@tees116.example.co.uk",
+  "opened_at": "2026-07-19T00:00:00",
+  "resolved_at": "2026-07-20T23:33:33",
+  "csat": null
+ },
+ {
+  "ticket_id": 5604,
+  "client": 116,
+  "priority": "P3",
+  "category": "Connectivity",
+  "summary": "Connectivity issue reported by contact116@tees116.example.co.uk",
+  "opened_at": "2026-05-04T04:00:00",
+  "resolved_at": "2026-05-05T15:00:45",
+  "csat": null
+ },
+ {
+  "ticket_id": 5605,
+  "client": 116,
+  "priority": "P4",
+  "category": "Connectivity",
+  "summary": "Connectivity issue reported by contact116@tees116.example.co.uk",
+  "opened_at": "2026-04-24T08:00:00",
+  "resolved_at": "2026-04-26T12:00:26",
+  "csat": null
+ },
+ {
+  "ticket_id": 5606,
+  "client": 116,
+  "priority": "P3",
+  "category": "Billing query",
+  "summary": "Billing query issue reported by contact116@tees116.example.co.uk",
+  "opened_at": "2026-05-07T04:00:00",
+  "resolved_at": "2026-05-08T23:17:07",
+  "csat": 2
+ },
+ {
+  "ticket_id": 5607,
+  "client": 116,
+  "priority": "P4",
+  "category": "Email",
+  "summary": "Email issue reported by contact116@tees116.example.co.uk",
+  "opened_at": "2026-05-11T08:00:00",
+  "resolved_at": "2026-05-12T01:04:35",
+  "csat": null
+ },
+ {
+  "ticket_id": 5608,
+  "client": 116,
+  "priority": "P4",
+  "category": "Connectivity",
+  "summary": "Connectivity issue reported by contact116@tees116.example.co.uk",
+  "opened_at": "2026-06-01T02:00:00",
+  "resolved_at": "2026-06-06T01:16:47",
+  "csat": 1
+ },
+ {
+  "ticket_id": 5609,
+  "client": 116,
+  "priority": "P3",
+  "category": "Hardware",
+  "summary": "Hardware issue reported by contact116@tees116.example.co.uk",
+  "opened_at": "2026-04-07T05:00:00",
+  "resolved_at": "2026-04-08T15:27:56",
+  "csat": null
+ },
+ {
+  "ticket_id": 5610,
+  "client": 116,
+  "priority": "P4",
+  "category": "Billing query",
+  "summary": "Billing query issue reported by contact116@tees116.example.co.uk",
+  "opened_at": "2026-04-28T14:00:00",
+  "resolved_at": "2026-04-29T12:11:08",
+  "csat": null
+ },
+ {
+  "ticket_id": 5611,
+  "client": 118,
+  "priority": "P4",
+  "category": "Email",
+  "summary": "Email issue reported by contact118@tees118.example.co.uk",
+  "opened_at": "2026-05-19T09:00:00",
+  "resolved_at": "2026-05-25T01:15:28",
+  "csat": 3
+ },
+ {
+  "ticket_id": 5612,
+  "client": 118,
+  "priority": "P4",
+  "category": "Security",
+  "summary": "Security issue reported by contact118@tees118.example.co.uk",
+  "opened_at": "2026-04-27T04:00:00",
+  "resolved_at": "2026-04-28T14:02:14",
+  "csat": null
+ },
+ {
+  "ticket_id": 5613,
+  "client": 118,
+  "priority": "P4",
+  "category": "Hosting",
+  "summary": "Hosting issue reported by contact118@tees118.example.co.uk",
+  "opened_at": "2026-06-20T01:00:00",
+  "resolved_at": "2026-06-27T10:14:03",
+  "csat": 1
+ },
+ {
+  "ticket_id": 5614,
+  "client": 118,
+  "priority": "P4",
+  "category": "Security",
+  "summary": "Security issue reported by contact118@tees118.example.co.uk",
+  "opened_at": "2026-09-03T20:00:00",
+  "resolved_at": "2026-09-05T14:41:04",
+  "csat": null
+ },
+ {
+  "ticket_id": 5615,
+  "client": 118,
+  "priority": "P3",
+  "category": "VoIP",
+  "summary": "VoIP issue reported by contact118@tees118.example.co.uk",
+  "opened_at": "2026-06-16T03:00:00",
+  "resolved_at": "2026-06-16T21:37:45",
+  "csat": null
+ },
+ {
+  "ticket_id": 5616,
+  "client": 118,
+  "priority": "P3",
+  "category": "Security",
+  "summary": "Security issue reported by contact118@tees118.example.co.uk",
+  "opened_at": "2026-04-05T22:00:00",
+  "resolved_at": "2026-04-06T15:45:03",
+  "csat": null
+ },
+ {
+  "ticket_id": 5617,
+  "client": 118,
+  "priority": "P4",
+  "category": "Hosting",
+  "summary": "Hosting issue reported by contact118@tees118.example.co.uk",
+  "opened_at": "2026-06-08T14:00:00",
+  "resolved_at": null,
+  "csat": null
+ },
+ {
+  "ticket_id": 5618,
+  "client": 118,
+  "priority": "P1",
+  "category": "Billing query",
+  "summary": "Billing query issue reported by contact118@tees118.example.co.uk",
+  "opened_at": "2026-05-19T15:00:00",
+  "resolved_at": "2026-05-19T17:18:57",
+  "csat": 1
+ },
+ {
+  "ticket_id": 5619,
+  "client": 118,
+  "priority": "P3",
+  "category": "VoIP",
+  "summary": "VoIP issue reported by contact118@tees118.example.co.uk",
+  "opened_at": "2026-05-07T04:00:00",
+  "resolved_at": "2026-05-07T20:08:05",
+  "csat": 1
+ },
+ {
+  "ticket_id": 5620,
+  "client": 118,
+  "priority": "P4",
+  "category": "Security",
+  "summary": "Security issue reported by contact118@tees118.example.co.uk",
+  "opened_at": "2026-04-27T15:00:00",
+  "resolved_at": "2026-05-02T05:22:45",
+  "csat": null
+ },
+ {
+  "ticket_id": 5621,
+  "client": 118,
+  "priority": "P2",
+  "category": "Hosting",
+  "summary": "Hosting issue reported by contact118@tees118.example.co.uk",
+  "opened_at": "2026-05-04T00:00:00",
+  "resolved_at": "2026-05-04T05:52:08",
+  "csat": 1
+ },
+ {
+  "ticket_id": 5622,
+  "client": 118,
+  "priority": "P2",
+  "category": "Email",
+  "summary": "Email issue reported by contact118@tees118.example.co.uk",
+  "opened_at": "2026-07-03T04:00:00",
+  "resolved_at": "2026-07-03T06:56:13",
+  "csat": 3
+ },
+ {
+  "ticket_id": 5623,
+  "client": 118,
+  "priority": "P3",
+  "category": "Billing query",
+  "summary": "Billing query issue reported by contact118@tees118.example.co.uk",
+  "opened_at": "2026-08-17T08:00:00",
+  "resolved_at": "2026-08-17T18:08:57",
+  "csat": null
+ },
+ {
+  "ticket_id": 5624,
+  "client": 118,
+  "priority": "P2",
+  "category": "Security",
+  "summary": "Security issue reported by contact118@tees118.example.co.uk",
+  "opened_at": "2026-07-12T18:00:00",
+  "resolved_at": "2026-07-13T14:37:32",
+  "csat": null
+ },
+ {
+  "ticket_id": 5625,
+  "client": 118,
+  "priority": "P3",
+  "category": "Billing query",
+  "summary": "Billing query issue reported by contact118@tees118.example.co.uk",
+  "opened_at": "2026-05-25T10:00:00",
+  "resolved_at": "2026-05-25T12:38:56",
+  "csat": 3
+ },
+ {
+  "ticket_id": 5626,
+  "client": 119,
+  "priority": "P3",
+  "category": "Email",
+  "summary": "Email issue reported by contact119@tees119.example.co.uk",
+  "opened_at": "2026-08-09T13:00:00",
+  "resolved_at": "2026-08-09T17:24:58",
+  "csat": null
+ },
+ {
+  "ticket_id": 5627,
+  "client": 120,
+  "priority": "P4",
+  "category": "VoIP",
+  "summary": "VoIP issue reported by contact120@tees120.example.co.uk",
+  "opened_at": "2026-05-15T22:00:00",
+  "resolved_at": "2026-05-22T10:43:29",
+  "csat": 3
+ },
+ {
+  "ticket_id": 5628,
+  "client": 120,
+  "priority": "P4",
+  "category": "VoIP",
+  "summary": "VoIP issue reported by contact120@tees120.example.co.uk",
+  "opened_at": "2026-04-06T04:00:00",
+  "resolved_at": null,
+  "csat": 5
+ },
+ {
+  "ticket_id": 5629,
+  "client": 120,
+  "priority": "P4",
+  "category": "VoIP",
+  "summary": "VoIP issue reported by contact120@tees120.example.co.uk",
+  "opened_at": "2026-07-20T22:00:00",
+  "resolved_at": "2026-07-23T13:20:56",
+  "csat": null
+ },
+ {
+  "ticket_id": 5630,
+  "client": 120,
+  "priority": "P3",
+  "category": "Hosting",
+  "summary": "Hosting issue reported by contact120@tees120.example.co.uk",
+  "opened_at": "2026-08-02T17:00:00",
+  "resolved_at": "2026-08-03T04:52:16",
+  "csat": null
+ },
+ {
+  "ticket_id": 99001,
+  "client": "unknown",
+  "priority": "P3",
+  "category": "Hardware",
+  "summary": "Hardware issue reported by contact2@brunel2.example.co.uk",
+  "opened_at": "2026-04-02T15:00:00",
+  "resolved_at": "2026-04-03T08:51:00",
+  "csat": null
+ }
+]

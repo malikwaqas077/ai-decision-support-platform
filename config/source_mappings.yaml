@@ -1,0 +1,82 @@
+# Layer 1 — semantic integration.
+# Each source system names things differently. This file maps every source
+# onto one canonical vocabulary, so adding a new system means adding
+# configuration, not code.
+
+canonical_key: customer_id   # canonical form: C-0001
+
+sources:
+  crm:
+    file: crm_accounts.csv
+    format: csv
+    entity: customer
+    key: { field: "Account ID", pattern: "^C-(\\d+)$" }
+    fields:
+      "Account ID": customer_id
+      "Company": company_name
+      "Sector": sector
+      "Town": town
+      "Primary Contact Email": contact_email
+      "Account Manager": account_manager
+      "Customer Since": customer_since
+      "Seats": seats
+    types:
+      customer_since: { type: date, format: "%d/%m/%Y" }
+      seats: { type: int }
+    transforms:
+      sector: title_case
+    pii: [contact_email]
+
+  billing:
+    file: billing_invoices.csv
+    format: csv
+    entity: invoice
+    key: { field: "cust_ref", pattern: "^CUST(\\d+)$" }
+    fields:
+      invoice_no: invoice_id
+      cust_ref: customer_id
+      product_line: product
+      net_amount: amount_gbp
+      issued: issued_date
+      paid_on: paid_date
+    types:
+      amount_gbp: { type: currency }
+      issued_date: { type: date, format: "%Y-%m-%d" }
+      paid_date: { type: date, format: "%Y-%m-%d", nullable: true }
+
+  servicedesk:
+    file: servicedesk_tickets.json
+    format: json
+    entity: ticket
+    key: { field: "client", pattern: "^(\\d+)$" }
+    fields:
+      ticket_id: ticket_id
+      client: customer_id
+      priority: priority
+      category: category
+      summary: summary
+      opened_at: opened_at
+      resolved_at: resolved_at
+      csat: csat_score
+    types:
+      opened_at: { type: datetime, format: "%Y-%m-%dT%H:%M:%S" }
+      resolved_at: { type: datetime, format: "%Y-%m-%dT%H:%M:%S", nullable: true }
+      csat_score: { type: int, nullable: true }
+    pii: [summary]
+
+  network:
+    file: network_usage.csv
+    format: csv
+    entity: usage
+    key: { field: "acct", pattern: "^NB/(\\d+)$" }
+    fields:
+      acct: customer_id
+      period: month
+      voice_minutes: voice_minutes
+      data_gb: data_gb
+      outage_minutes: outage_minutes
+    types:
+      month: { type: date, format: "%Y-%m" }
+      voice_minutes: { type: int }
+      data_gb: { type: float }
+      outage_minutes: { type: int }

@@ -1,0 +1,121 @@
+Account ID,Company,Sector,Town,Primary Contact Email,Account Manager,Customer Since,Seats
+C-0001,Brunel Fabrication Group,Logistics,York,contact1@brunel1.example.co.uk,S. Khan,21/10/2025,19
+C-0002,Brunel Fabrication plc,LOGISTICS,Redcar,contact2@brunel2.example.co.uk,A. Patel,16/04/2025,60
+C-0003,Brunel Logistics Group,Professional Services,Durham,contact3@brunel3.example.co.uk,L. Turner,17/09/2021,315
+C-0004,Brunel Partners Ltd,Healthcare,Hartlepool,contact4@brunel4.example.co.uk,S. Khan,06/11/2020,27
+C-0005,Cleveland Academy Group,Manufacturing,Hartlepool,contact5@cleveland5.example.co.uk,S. Khan,10/09/2021,225
+C-0006,Cleveland Clinics Group,Professional Services,Stockton,contact6@cleveland6.example.co.uk,S. Khan,19/10/2025,264
+C-0007,Cleveland Clinics LLP,Public Sector,Redcar,contact7@cleveland7.example.co.uk,J. Morris,12/02/2023,103
+C-0008,Cleveland Council Services LLP,Public Sector,Darlington,contact8@cleveland8.example.co.uk,S. Khan,13/11/2021,212
+C-0009,Cleveland Engineering LLP,Logistics,York,contact9@cleveland9.example.co.uk,S. Khan,31/07/2026,243
+C-0010,Cleveland Engineering Ltd,Hospitality,Hull,contact10@cleveland10.example.co.uk,J. Morris,18/08/2021,342
+C-0011,Cleveland Foods Group,Logistics,Durham,contact11@cleveland11.example.co.uk,A. Patel,19/08/2025,389
+C-0012,Cleveland Foods LLP,Logistics,Hartlepool,contact12@cleveland12.example.co.uk,J. Morris,13/12/2023,17
+C-0013,Cleveland Freight LLP,Retail,Stockton,contact13@cleveland13.example.co.uk,L. Turner,24/01/2026,217
+C-0014,Cleveland Partners Group,Public Sector,Hartlepool,contact14@cleveland14.example.co.uk,J. Morris,27/05/2024,340
+C-0015,Coast Clinics plc,Healthcare,Hartlepool,contact15@coast15.example.co.uk,J. Morris,10/07/2026,361
+C-0016,Coast Council Services Ltd,HOSPITALITY,Hartlepool,contact16@coast16.example.co.uk,A. Patel,10/10/2020,238
+C-0017,Coast Council Services plc,Hospitality,Durham,contact17@coast17.example.co.uk,L. Turner,01/02/2025,318
+C-0018,Coast Dental Group,Public Sector,Hull,contact18@coast18.example.co.uk,J. Morris,03/12/2020,385
+C-0019,Coast Dental LLP,Hospitality,Hartlepool,contact19@coast19.example.co.uk,S. Khan,05/04/2021,397
+C-0020,Coast Fabrication LLP,Hospitality,Redcar,contact20@coast20.example.co.uk,L. Turner,26/09/2020,44
+C-0021,Coast Foods Ltd,Retail,Durham,contact21@coast21.example.co.uk,A. Patel,19/05/2023,75
+C-0022,Coast Hotels LLP,Retail,Darlington,contact22@coast22.example.co.uk,J. Morris,22/11/2024,37
+C-0023,Coast Labs Group,Public Sector,Hull,contact23@coast23.example.co.uk,L. Turner,06/12/2021,36
+C-0024,Coast Labs plc,Public Sector,Middlesbrough,contact24@coast24.example.co.uk,L. Turner,06/04/2024,249
+C-0025,Coast Logistics Ltd,Professional Services,York,contact25@coast25.example.co.uk,L. Turner,08/07/2026,280
+C-0026,Coast Partners LLP,Hospitality,York,contact26@coast26.example.co.uk,L. Turner,10/02/2024,19
+C-0027,Coast Partners plc,Professional Services,York,contact27@coast27.example.co.uk,J. Morris,23/03/2022,244
+C-0028,Dale Academy Group,Manufacturing,Middlesbrough,contact28@dale28.example.co.uk,A. Patel,25/02/2025,334
+C-0029,Dale Academy Ltd,Education,Darlington,contact29@dale29.example.co.uk,A. Patel,11/10/2021,138
+C-0030,Dale Clinics plc,Professional Services,Durham,contact30@dale30.example.co.uk,S. Khan,02/05/2022,394
+C-0031,Dale Dental LLP,Logistics,York,contact31@dale31.example.co.uk,S. Khan,02/05/2022,46
+C-0032,Dale Dental plc,Manufacturing,Middlesbrough,contact32@dale32.example.co.uk,S. Khan,23/04/2021,119
+C-0033,Dale Engineering Group,Manufacturing,Hartlepool,contact33@dale33.example.co.uk,J. Morris,24/10/2025,15
+C-0034,Dale Engineering Ltd,RETAIL,Stockton,contact34@dale34.example.co.uk,J. Morris,15/11/2024,243
+C-0035,Dale Fabrication Ltd,PROFESSIONAL SERVICES,Stockton,contact35@dale35.example.co.uk,J. Morris,17/09/2023,164
+C-0036,Dale Foods plc,Manufacturing,York,contact36@dale36.example.co.uk,L. Turner,16/05/2025,371
+C-0037,Dale Freight LLP,Healthcare,Hartlepool,contact37@dale37.example.co.uk,A. Patel,11/05/2024,361
+C-0038,Dale Freight Ltd,Healthcare,Middlesbrough,contact38@dale38.example.co.uk,S. Khan,15/03/2023,277
+C-0039,Dale Hotels Group,PROFESSIONAL SERVICES,Durham,contact39@dale39.example.co.uk,A. Patel,12/10/2021,220
+C-0040,Dale Hotels Ltd,Healthcare,Durham,contact40@dale40.example.co.uk,L. Turner,01/02/2021,367
+C-0041,Dale Labs plc,PUBLIC SECTOR,Redcar,contact41@dale41.example.co.uk,L. Turner,13/11/2024,243
+C-0042,Harbour Academy Ltd,Logistics,Hartlepool,contact42@harbour42.example.co.uk,A. Patel,12/09/2021,147
+C-0043,Harbour Clinics LLP,Retail,York,contact43@harbour43.example.co.uk,S. Khan,12/07/2021,19
+C-0044,Harbour Council Services Group,PROFESSIONAL SERVICES,Hartlepool,contact44@harbour44.example.co.uk,S. Khan,15/01/2021,137
+C-0045,Harbour Council Services plc,Logistics,Redcar,contact45@harbour45.example.co.uk,A. Patel,07/10/2022,269
+C-0046,Harbour Engineering Ltd,Healthcare,York,contact46@harbour46.example.co.uk,L. Turner,10/06/2024,289
+C-0047,Harbour Foods Group,Hospitality,Hull,contact47@harbour47.example.co.uk,L. Turner,21/11/2023,13
+C-0048,Harbour Foods Ltd,Logistics,Hartlepool,contact48@harbour48.example.co.uk,S. Khan,16/07/2025,344
+C-0049,Harbour Freight LLP,Hospitality,Durham,contact49@harbour49.example.co.uk,L. Turner,12/06/2022,386
+C-0050,Harbour Hotels LLP,Professional Services,Redcar,contact50@harbour50.example.co.uk,S. Khan,16/11/2022,133
+C-0051,Harbour Logistics LLP,Healthcare,Durham,contact51@harbour51.example.co.uk,A. Patel,31/12/2023,385
+C-0052,Harbour Logistics plc,Retail,Hull,contact52@harbour52.example.co.uk,S. Khan,04/07/2024,375
+C-0053,Harbour Partners Ltd,Healthcare,Redcar,contact53@harbour53.example.co.uk,J. Morris,30/05/2023,189
+C-0054,Iron Academy LLP,LOGISTICS,Darlington,contact54@iron54.example.co.uk,S. Khan,28/07/2024,28
+C-0055,Iron Clinics Ltd,Logistics,Darlington,contact55@iron55.example.co.uk,L. Turner,21/12/2025,57
+C-0056,Iron Council Services Ltd,Logistics,Hull,contact56@iron56.example.co.uk,S. Khan,12/06/2026,99
+C-0057,Iron Dental Group,Logistics,Hull,contact57@iron57.example.co.uk,A. Patel,03/01/2026,38
+C-0058,Iron Engineering LLP,HOSPITALITY,Middlesbrough,contact58@iron58.example.co.uk,J. Morris,02/02/2022,81
+C-0059,Iron Engineering Ltd,Healthcare,Stockton,contact59@iron59.example.co.uk,L. Turner,06/03/2023,315
+C-0060,Iron Fabrication LLP,Public Sector,Hull,contact60@iron60.example.co.uk,S. Khan,20/01/2024,306
+C-0061,Iron Fabrication Ltd,Logistics,Middlesbrough,contact61@iron61.example.co.uk,A. Patel,10/10/2021,395
+C-0062,Iron Foods LLP,Retail,Stockton,contact62@iron62.example.co.uk,J. Morris,02/04/2024,127
+C-0063,Iron Foods plc,HEALTHCARE,York,contact63@iron63.example.co.uk,L. Turner,20/08/2024,357
+C-0064,Iron Freight plc,LOGISTICS,Redcar,contact64@iron64.example.co.uk,S. Khan,25/04/2021,364
+C-0065,Iron Hotels Group,Healthcare,Redcar,contact65@iron65.example.co.uk,J. Morris,29/06/2021,222
+C-0066,Iron Hotels plc,Retail,Redcar,contact66@iron66.example.co.uk,J. Morris,18/04/2025,41
+C-0067,Iron Labs Ltd,Education,Redcar,contact67@iron67.example.co.uk,L. Turner,30/11/2025,68
+C-0068,Iron Logistics Group,Logistics,Redcar,contact68@iron68.example.co.uk,L. Turner,30/04/2021,229
+C-0069,Iron Logistics plc,Manufacturing,Durham,contact69@iron69.example.co.uk,S. Khan,06/09/2025,18
+C-0070,Iron Partners Ltd,Retail,Middlesbrough,contact70@iron70.example.co.uk,S. Khan,23/07/2025,300
+C-0071,Moor Academy Ltd,Education,Hull,contact71@moor71.example.co.uk,S. Khan,18/02/2026,97
+C-0072,Moor Academy plc,Hospitality,Hull,contact72@moor72.example.co.uk,S. Khan,11/09/2021,214
+C-0073,Moor Engineering LLP,Professional Services,Darlington,contact73@moor73.example.co.uk,S. Khan,05/11/2022,215
+C-0074,Moor Engineering plc,Logistics,York,contact74@moor74.example.co.uk,A. Patel,10/01/2021,237
+C-0075,Moor Freight plc,Professional Services,Stockton,contact75@moor75.example.co.uk,L. Turner,06/08/2025,268
+C-0076,Moor Hotels Ltd,Hospitality,Hartlepool,contact76@moor76.example.co.uk,S. Khan,28/07/2026,323
+C-0077,Moor Hotels plc,Hospitality,Hartlepool,contact77@moor77.example.co.uk,S. Khan,29/12/2020,286
+C-0078,Moor Labs plc,Logistics,Hull,contact78@moor78.example.co.uk,A. Patel,11/02/2025,19
+C-0079,Moor Logistics plc,Education,Middlesbrough,contact79@moor79.example.co.uk,L. Turner,25/11/2023,52
+C-0080,Moor Partners Group,Healthcare,Stockton,contact80@moor80.example.co.uk,J. Morris,24/01/2024,260
+C-0081,Moor Partners plc,Logistics,Hull,contact81@moor81.example.co.uk,L. Turner,24/04/2023,129
+C-0082,North Council Services Group,Education,Darlington,contact82@north82.example.co.uk,A. Patel,18/06/2021,146
+C-0083,North Council Services Ltd,Professional Services,Redcar,contact83@north83.example.co.uk,A. Patel,06/12/2021,149
+C-0084,North Dental LLP,Hospitality,Hull,contact84@north84.example.co.uk,L. Turner,28/03/2023,181
+C-0085,North Dental Ltd,Public Sector,Durham,contact85@north85.example.co.uk,J. Morris,09/11/2022,362
+C-0086,North Dental plc,Public Sector,York,contact86@north86.example.co.uk,A. Patel,27/11/2023,167
+C-0087,North Engineering Group,Public Sector,Darlington,contact87@north87.example.co.uk,L. Turner,12/04/2021,23
+C-0088,North Engineering LLP,Professional Services,Hull,contact88@north88.example.co.uk,A. Patel,02/03/2025,274
+C-0089,North Engineering plc,Manufacturing,York,contact89@north89.example.co.uk,J. Morris,17/06/2021,43
+C-0090,North Fabrication Group,Logistics,York,contact90@north90.example.co.uk,A. Patel,26/04/2021,173
+C-0091,North Fabrication LLP,Professional Services,Hull,contact91@north91.example.co.uk,A. Patel,28/04/2022,321
+C-0092,North Foods LLP,Retail,Redcar,contact92@north92.example.co.uk,J. Morris,25/10/2025,387
+C-0093,North Hotels Ltd,Public Sector,Stockton,contact93@north93.example.co.uk,L. Turner,27/07/2025,90
+C-0094,North Labs LLP,MANUFACTURING,Middlesbrough,contact94@north94.example.co.uk,S. Khan,24/03/2023,188
+C-0095,North Logistics Group,PUBLIC SECTOR,York,contact95@north95.example.co.uk,J. Morris,19/05/2022,92
+C-0096,North Logistics Ltd,Healthcare,York,contact96@north96.example.co.uk,J. Morris,14/08/2024,259
+C-0097,North Partners Ltd,Retail,Redcar,contact97@north97.example.co.uk,L. Turner,23/12/2024,135
+C-0098,North Partners plc,Hospitality,Darlington,contact98@north98.example.co.uk,A. Patel,24/06/2026,231
+C-0099,River Clinics Ltd,Logistics,York,contact99@river99.example.co.uk,S. Khan,16/09/2022,238
+C-0100,River Council Services LLP,Retail,Hull,contact100@river100.example.co.uk,A. Patel,13/03/2023,126
+C-0101,River Council Services Ltd,Professional Services,Redcar,contact101@river101.example.co.uk,A. Patel,22/04/2022,342
+C-0102,River Dental plc,LOGISTICS,Middlesbrough,contact102@river102.example.co.uk,L. Turner,22/02/2022,151
+C-0103,River Foods Group,Professional Services,Hartlepool,contact103@river103.example.co.uk,S. Khan,02/01/2024,352
+C-0104,River Freight LLP,Healthcare,Middlesbrough,contact104@river104.example.co.uk,S. Khan,18/01/2025,230
+C-0105,River Freight Ltd,Professional Services,Stockton,contact105@river105.example.co.uk,S. Khan,18/03/2026,172
+C-0106,River Hotels plc,Education,Durham,contact106@river106.example.co.uk,S. Khan,04/12/2021,89
+C-0107,River Logistics Group,Hospitality,Redcar,contact107@river107.example.co.uk,S. Khan,14/09/2023,63
+C-0108,River Logistics plc,HEALTHCARE,Hartlepool,contact108@river108.example.co.uk,L. Turner,01/05/2021,290
+C-0109,River Partners Group,Healthcare,Middlesbrough,contact109@river109.example.co.uk,S. Khan,25/06/2022,279
+C-0110,River Partners LLP,Hospitality,Redcar,contact110@river110.example.co.uk,L. Turner,13/03/2025,331
+C-0111,Tees Academy plc,Healthcare,Hull,contact111@tees111.example.co.uk,A. Patel,02/06/2022,322
+C-0112,Tees Clinics Group,Retail,Hull,contact112@tees112.example.co.uk,S. Khan,27/11/2022,337
+C-0113,Tees Clinics LLP,HEALTHCARE,Middlesbrough,contact113@tees113.example.co.uk,S. Khan,02/01/2022,257
+C-0114,Tees Clinics plc,Healthcare,Darlington,contact114@tees114.example.co.uk,L. Turner,13/04/2025,237
+C-0115,Tees Dental Group,Public Sector,Darlington,contact115@tees115.example.co.uk,L. Turner,04/06/2022,340
+C-0116,Tees Dental plc,Hospitality,Redcar,contact116@tees116.example.co.uk,A. Patel,22/06/2025,358
+C-0117,Tees Fabrication Ltd,Retail,Hartlepool,contact117@tees117.example.co.uk,S. Khan,06/06/2022,55
+C-0118,Tees Hotels Ltd,PROFESSIONAL SERVICES,Redcar,contact118@tees118.example.co.uk,J. Morris,19/06/2022,67
+C-0119,Tees Logistics Ltd,Healthcare,Middlesbrough,contact119@tees119.example.co.uk,A. Patel,26/06/2021,175
+C-0120,Tees Partners plc,Education,Hartlepool,contact120@tees120.example.co.uk,A. Patel,08/11/2023,396

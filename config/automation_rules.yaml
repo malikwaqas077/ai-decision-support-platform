@@ -1,0 +1,56 @@
+# Layer 4 — business workflow automation.
+# Rules are written in plain SQL over the unified reporting dataset. Each rule
+# says what to watch for, who owns the follow-up and what action to raise.
+# Operations staff can edit them without touching application code.
+
+rules:
+  - id: churn_risk_review
+    name: Churn-risk account review
+    description: Health score has dropped into the high-risk band.
+    owner: account_manager
+    priority: high
+    action: Book a service review call with the customer within 5 working days.
+    sql: |
+      SELECT customer_id, company_name, account_manager,
+             'Health score ' || CAST(ROUND(health_score) AS INT) || '/100' AS reason
+      FROM customer_360
+      WHERE health_score < 40
+
+  - id: sla_breach_escalation
+    name: Repeated SLA breaches
+    description: Three or more tickets breached SLA in the last 90 days.
+    owner: service_desk_lead
+    priority: high
+    action: Root-cause review with the service desk lead; consider a service credit.
+    sql: |
+      SELECT t.customer_id, c.company_name, c.account_manager,
+             COUNT(*) || ' SLA breaches in 90 days' AS reason
+      FROM fact_ticket t JOIN dim_customer c USING (customer_id)
+      WHERE t.sla_breached AND t.opened_at >= (SELECT MAX(opened_at) FROM fact_ticket) - INTERVAL 90 DAY
+      GROUP BY 1, 2, 3
+      HAVING COUNT(*) >= 3
+
+  - id: overdue_debt_chase
+    name: Overdue invoices
+    description: Unpaid invoices more than 45 days past issue.
+    owner: finance
+    priority: medium
+    action: Send a payment reminder; put on credit hold above £5,000.
+    sql: |
+      SELECT i.customer_id, c.company_name, c.account_manager,
+             '£' || CAST(ROUND(SUM(i.amount_gbp)) AS BIGINT) || ' overdue' AS reason
+      FROM fact_invoice i JOIN dim_customer c USING (customer_id)
+      WHERE i.paid_date IS NULL AND i.days_outstanding > 45
+      GROUP BY 1, 2, 3
+
+  - id: upsell_growth
+    name: Growth opportunity
+    description: Healthy account with rising data usage and a single product line.
+    owner: account_manager
+    priority: low
+    action: Propose an upgrade (e.g. leased line or cloud hosting bundle).
+    sql: |
+      SELECT customer_id, company_name, account_manager,
+             'Data usage up ' || CAST(ROUND(data_growth_pct) AS BIGINT) || '% with ' || product_count || ' product line(s)' AS reason
+      FROM customer_360
+      WHERE health_score >= 70 AND data_growth_pct > 5 AND product_count = 1
