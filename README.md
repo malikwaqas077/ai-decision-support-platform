@@ -1,5 +1,7 @@
 # AI-Enabled Decision-Support Platform
 
+[![CI](https://github.com/malikwaqas077/ai-decision-support-platform/actions/workflows/ci.yml/badge.svg)](https://github.com/malikwaqas077/ai-decision-support-platform/actions/workflows/ci.yml)
+
 A working reference implementation of a **five-layer AI-assisted business intelligence platform** for an SME.
 It takes data from separate operational systems, joins it into one governed reporting dataset, visualises
 performance, automates follow-up workflows and adds an LLM assistant that answers business questions from the
